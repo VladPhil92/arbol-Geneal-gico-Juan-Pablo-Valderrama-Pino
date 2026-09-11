@@ -1,19 +1,23 @@
-# Fuentes específicas — Pino–Bechara–Kahtouny / Castoony y red panificadora familiar
+# Fuentes específicas — Pino–Bechara–Kahtouny / Castoony y red empresarial familiar
 
-Este expediente reúne fuentes públicas y correcciones familiares para estudiar la **familia adoptiva materna de María del Rosario Pino Bechara**, especialmente **Hortensia Margarita Bechara Castoony** y las panaderías vinculadas a la familia.
+Este expediente reúne fuentes públicas y correcciones familiares para estudiar la **familia adoptiva materna de María del Rosario Pino Bechara**, especialmente **Hortensia Margarita Bechara Castoony**, sus hermanos y las empresas vinculadas a la familia.
 
-## Correcciones canónicas aportadas por la familia
+## Correcciones y datos canónicos aportados por la familia
 
 1. El nombre correcto es **Hortensia**, no `Hortencia`.
 2. En su cédula, el segundo apellido figura como **Castoony**.
 3. `Kahtouny` se conserva para la línea de **María Cristina Kahtouny**.
 4. La sociedad vinculada con Pan Suizo era **Pino Bechara**, no `Fino Bechara`.
-5. **Pan Francés** fue otra panadería familiar y perteneció, según memoria directa, a **Edmond/Edmundo Bechara**.
-6. **Pan Bechara Ltda.** fue otra panadería de la familia; existe la posibilidad de que perteneciera a **Jorge Bechara**, pero este punto no está confirmado.
+5. **Pan Francés** fue panadería de **Edmond/Edmundo Bechara**, según memoria familiar.
+6. **Pan Bechara Ltda.** fue otra panadería familiar; puede haber pertenecido a **Jorge Bechara**, sin confirmación todavía.
+7. Hortensia figura con **1935** en su cédula, pero declaró personalmente a la familia haber nacido en **1930**.
+8. Edmundo tuvo como hijos conocidos por la familia a **Claudia, Karina y Julio Bechara**.
+9. Jorge se casó con **María Edilma Hortúa Restrepo** y tuvieron a **Fadia, Tatiana y Jorge Bechara Hortúa**.
+10. **Anyel/Anyer Bechara de Mena** estuvo casada con un **Alfonso Mena** recordado como figura destacada en Buga y Cali.
 
 ---
 
-## 1. Corte Suprema de Justicia — radicación 88357
+## 1. Corte Suprema de Justicia — núcleo Pino–Bechara
 
 Providencia del 27 de enero de 2021:
 https://www.cortesuprema.gov.co/corte/wp-content/uploads/not/laboral21/prov/88357%20%2827-01-21%29.pdf
@@ -21,169 +25,233 @@ https://www.cortesuprema.gov.co/corte/wp-content/uploads/not/laboral21/prov/8835
 Sentencia SL994-2023:
 https://vlex.com.co/vid/sentencia-corte-suprema-justicia-932130827
 
-Aporta el núcleo sucesoral **Marco Tulio Pino Uribe – Hortensia/Hortencia Bechara Castoony – María del Rosario Pino Bechara**. La familia corrige `Hortencia` por **Hortensia** y confirma `Castoony` como grafía de cédula.
+Aporta el núcleo sucesoral **Marco Tulio Pino Uribe – Hortensia/Hortencia Bechara Castoony – María del Rosario Pino Bechara**.
 
-Nivel: **B fuerte** para el expediente judicial; **C fuerte** para la corrección familiar apoyada en documento primario no incorporado aún.
+Nivel: **B fuerte** para expediente judicial; **C fuerte** para correcciones familiares apoyadas en documentos primarios aún no incorporados.
 
 ---
 
-## 2. Corporación Tecnológica de Bolívar — Pan Suizo
+## 2. Pan Suizo
 
-**_Estructura de la mediana y grande industria en Cartagena_** (1987):
+Corporación Tecnológica de Bolívar, **_Estructura de la mediana y grande industria en Cartagena_** (1987):
 https://biblioteca.utb.edu.co/notas/tesis/0013058.pdf
 
-Aporta:
+Aporta presencia de **Pan Suizo** desde 1961, actividad panificadora y producción de **pan y dulcería**.
 
-- presencia de **Pan Suizo** desde 1961;
-- inclusión en el sector industrial panificador;
-- producción de **pan y dulcería**;
-- información empresarial basada en registros de Cámara de Comercio de 1984.
+La familia corrige la razón social a **Pino Bechara**.
 
-La familia corrige la lectura de la razón social a **PINO BECHARA**, no `FINO BECHARA`.
-
-Nivel: **B fuerte** para existencia/actividad; **C fuerte** para corrección de razón social, pendiente de certificado histórico.
+Nivel: **B fuerte** para existencia/actividad; **C fuerte** para razón social y propiedad familiar hasta Cámara de Comercio.
 
 ---
 
-## 3. El Espectador — memoria de Pan Francés
+## 3. Pan Francés
 
 Leonor Espinosa, **“Aquella Cartagena”**, *El Espectador*:
 https://www.elespectador.com/el-magazin-cultural/aquella-cartagena-article-620206/
 
-La crónica recuerda **El Pan Francés en la calle Segunda de Badillo**, especialmente por sus panochas, dentro de la memoria gastronómica de Cartagena de las décadas de 1960, 1970 y 1980.
+Recuerda **El Pan Francés en la calle Segunda de Badillo**, especialmente por sus panochas.
+
+Nivel:
+- establecimiento/ubicación/fama: **B fuerte**;
+- propiedad de Edmundo José Bechara: **C fuerte**, pendiente de matrícula mercantil.
+
+---
+
+## 4. Edmundo José Bechara Castuny — sucesión
+
+Edicto de Notaría Sexta de Cartagena:
+https://www.asuntoslegales.com.co/edictos/detalle/005_VEF_1779-3-1
 
 Aporta:
-
-- existencia histórica del establecimiento;
-- ubicación en la **Segunda de Badillo**;
-- relevancia cultural/gastronómica.
-
-No aporta propietario.
-
-La familia identifica a **Edmond/Edmundo Bechara** como propietario.
-
-Nivel:
-
-- establecimiento/ubicación/fama: **B fuerte**;
-- propiedad de Edmond/Edmundo: **C fuerte**, pendiente de matrícula mercantil.
-
----
-
-## 4. Rastros registrales de Pan Bechara
-
-La familia afirma que **Pan Bechara Ltda.** fue una panadería distinta de Pan Suizo y perteneciente a la familia Bechara. La titularidad concreta permanece abierta; existe memoria incierta de que pudo ser de **Jorge Bechara**.
-
-Existe un rastro público nominal de **PAN BECHARA & CIA LTDA.** en directorios empresariales agregados. Este tipo de fuente sirve únicamente como pista para localizar el expediente oficial; no se utiliza como prueba societaria definitiva.
-
-Referencia de navegación:
-https://latamverify.com/directory/co/mer/p-5
-
-Nivel:
-
-- Pan Bechara como panadería familiar: **C fuerte**;
-- existencia registral de una sociedad con nombre similar: **D/B débil** hasta Cámara de Comercio;
-- Jorge como propietario: **E/D**.
-
----
-
-## 5. POT Cartagena — Pan Suizo
-
-Decreto 0977 de 2001, Tomo II:
-https://seguimientopot.cartagena.gov.co/sites/default/files/2024-12/Decreto_0977_2001_POT_Tomo_II.PDF
-
-Datos recolectados en 1997 todavía mencionan **Pan Suizo** dentro del sistema comercial del centro histórico.
+- nombre completo **Edmundo José Bechara Castuny**;
+- fallecimiento en Cartagena el **22 de febrero de 2016**;
+- apertura de liquidación de herencia en 2024.
 
 Nivel: **B fuerte**.
 
 ---
 
-## 6. Edmundo José Bechara Castuny
+## 5. Edmundo José Bechara Castuny — descendencia y patrimonio
 
-Fuentes judiciales y notariales documentan a **Edmundo José Bechara Castuny** en Cartagena y su fallecimiento en 2016:
+Expediente judicial promovido por **Edmond José Bechara Donado**:
 
-- https://archivodigitalapi.cortesuprema.gov.co/share/2024/9/Actas%20de%20reparto/140195%20Demanda.pdf
-- https://archivodigitalapi.cortesuprema.gov.co/share/2024/10/Avisos/140195%20Fallo.pdf
-- https://www.asuntoslegales.com.co/edictos/detalle/005_VEF_1779-3-1
+- Demanda: https://archivodigitalapi.cortesuprema.gov.co/share/2024/9/Actas%20de%20reparto/140195%20Demanda.pdf
+- Fallo: https://archivodigitalapi.cortesuprema.gov.co/share/2024/10/Avisos/140195%20Fallo.pdf
 
-Es candidato fuerte para ser el hermano familiar **Edmond/Edmundo**, pero falta documento con nombres de padres.
+Aporta expresamente:
 
-Nivel de identidad: **D fuerte**.
+- Edmundo José Bechara Castuny como padre del accionante;
+- hijos del primer matrimonio:
+  - **Julio César Bechara Márquez**;
+  - **Karina María Bechara Márquez**;
+  - **Claudia Patricia Bechara Márquez**;
+- un hijo de una segunda relación: **Edmond José Bechara Donado**;
+- adquisición de un terreno en Cartagena en 1979 y posterior actividad de loteo.
 
-La nueva atribución de **Pan Francés** a Edmond aumenta la prioridad de buscar su matrícula mercantil y directorios comerciales.
+Nivel: **B fuerte judicial** para filiaciones declaradas en el expediente y perfil patrimonial básico.
 
----
-
-## 7. Jorge Bechara K. — pista empresarial
-
-Fuente:
-https://biblioteca.utb.edu.co/notas/tesis/0012962.pdf
-
-Aparece **Jorge Bechara K.** dentro de un listado empresarial cartagenero.
-
-Nivel: **E/D** como posible identidad del hermano Jorge. A la luz de la memoria sobre **Pan Bechara Ltda.**, debe investigarse si este Jorge aparece como socio, administrador o propietario de esa sociedad.
+Precaución: el proyecto utiliza este expediente exclusivamente para datos genealógicos y patrimoniales pertinentes; no reproduce acusaciones o antecedentes de terceros que no sean necesarios para reconstruir el árbol.
 
 ---
 
-## 8. Katia Bechara — Universidad de Cartagena
+## 6. Jorge Luis Bechara Kajtouny y Jorge Luis Bechara Hortúa
 
-Fuente:
-https://dialnet.unirioja.es/descarga/articulo/8982888.pdf
+Rama Judicial:
 
-Registra a **Katia Bechara** como tesorera del Cine Club Universitario en 1970.
+- https://www.ramajudicial.gov.co/documents/36540428/136670108/ESTADO%2B82%2B26%2BSEP%2B23.pdf/074f44f5-7fdb-e194-1366-24dcfa4b3e2c
+- https://portalhistorico.ramajudicial.gov.co/documents/8025967/142400330/ejecuci%C3%B3n%2Bmunicipal%2B-%2Bcivil%2B003%2Bcartagena20-04-2023%2BLISTO.pdf/d6e69ac5-a339-4bbf-9864-73099e387002
 
-Nivel del hecho: **B fuerte**; identidad como hermana: **E/D**.
+Ambos nombres aparecen conjuntamente en procesos civiles:
+
+- **Jorge Luis Bechara Kajtouny**;
+- **Jorge Luis Bechara Hortúa**.
+
+Nivel: **B fuerte** para existencia conjunta y grafías; la relación padre–hijo se clasifica **C/B fuerte** por convergencia con memoria familiar, pendiente de registro civil.
+
+La grafía `Kajtouny` es una variante documental relevante para la familia.
 
 ---
 
-## 9. Otras referencias Bechara en la historia económica regional
+## 7. María Edilma Hortúa Restrepo — actividad turística
 
-Estudios históricos documentan varias ramas Bechara vinculadas con comercio entre Cartagena, Sinú, Chocó y otros circuitos durante el siglo XX. Estas referencias sirven como contexto, pero **no deben conectarse automáticamente** con Julio Bechara, María Cristina Kahtouny ni sus hijos sin documentos de filiación.
+Registro Nacional de Turismo:
 
-Ejemplo:
-https://bibliotecadigital.univalle.edu.co/server/api/core/bitstreams/f2ceaa78-8378-4f21-a699-bbb9d3c35681/content
+- 2018: https://servicios.mincit.gov.co/rnt-bi/salidahistorico_list.php?goto=385
+- 2019: https://servicios.mincit.gov.co/rnt-bi/salidahistorico_list.php?goto=1440
+- 2020: https://servicios.mincit.gov.co/rnt-bi/salidahistorico_list.php?goto=2793
+
+Aparece como titular de establecimiento de alojamiento tipo **hostal en Santa Marta**.
+
+Ficha contemporánea de alojamiento:
+https://www.booking.com/hotel/co/villa-mary-hostel-taganga.es-ar.html
+
+La ficha identifica a **María Edilma Hortúa Restrepo** como anfitriona de **Villa Mary Hostel, Taganga**.
+
+Nivel: **B fuerte** para actividad turística. Matrimonio con Jorge: **C fuerte**, pendiente de registro matrimonial.
+
+---
+
+## 8. Tatiana Nuit Bechara Hortúa
+
+Registro Nacional de Turismo:
+
+- 2019: https://servicios.mincit.gov.co/rnt-bi/salidahistorico_list.php?goto=1921
+- 2020: https://servicios.mincit.gov.co/rnt-bi/salidahistorico_list.php?goto=3274
+- 2021: https://servicios.mincit.gov.co/rnt-bi/salidahistorico_list.php?goto=4844
+
+Aparece como titular de una **agencia de viajes operadora en Santa Marta**.
+
+Nivel: **B fuerte**.
+
+---
+
+## 9. Anyer Bechara de Mena
+
+*El Universal*, “Despedida Katia Méndez”, 11 de junio de 2010:
+https://www.eluniversal.com.co/sociales/2010/06/11/despedida-katia-mendez/
+
+Una fotografía identifica sentadas juntas a:
+
+- **Hortensia Bechara**;
+- **Anyer Bechara de Mena**;
+- **Emma Bechara de Rosa**.
+
+Aporta:
+- existencia social de `Anyer Bechara de Mena`;
+- variante `Anyer` frente a `Anyel`;
+- cercanía familiar pública con Hortensia y Emma.
+
+Nivel: **B fuerte** para identidad social; filiación como hija de Julio: **C fuerte**, pendiente de partida.
+
+---
+
+## 10. Alfonso Mena Delgado — candidato, no identificación
+
+### Buga / contexto judicial de los años cincuenta
+
+Semana, “El General y el Cóndor”:
+https://www.semana.com/nacion/articulo/el-general-el-condor/11075-3/
+
+Un **Alfonso Mena Delgado** aparece como secretario de un funcionario judicial de apellido Irurita en Buga durante el contexto de violencia política del Valle del Cauca.
+
+### Procaña / agroindustria azucarera, 1978
+
+Archivo de prensa CINEP:
+https://biblioarchivo.bogota.gov.co/opac-tmpl/IMG_CINEP1/CC0102-1978-1S-1.pdf
+
+Registra a **Alfonso Mena Delgado** como **director ejecutivo de Procaña** e integrante de la junta directiva de un centro de investigación de la caña de azúcar.
+
+### Estado
+
+El perfil coincide geográfica y socialmente con el recuerdo familiar de un Alfonso Mena destacado en Buga y Cali, pero no existe documento que lo conecte con **Anyer Bechara de Mena**.
+
+Nivel: **D/E — candidato abierto**.
+
+---
+
+## 11. Hortensia — discrepancia 1930 / 1935
+
+Evidencia familiar:
+
+- cédula: **1935**;
+- declaración personal de Hortensia a la familia: **1930**.
+
+Estado: **X/C fuerte**.
+
+No se resolverá hasta localizar una fuente temprana, idealmente:
+
+1. registro civil original;
+2. partida bautismal;
+3. matrimonio con Marco Tulio;
+4. documento escolar temprano;
+5. pasaporte antiguo.
+
+`1935` se conserva como año civil/documental; `1930` como año biográfico/oral.
+
+---
+
+## 12. Pan Bechara Ltda.
+
+La familia afirma que fue una panadería distinta de Pan Suizo y Pan Francés. La posibilidad de propiedad por **Jorge Bechara** sigue abierta.
+
+Nivel:
+- negocio familiar: **C fuerte**;
+- Jorge como propietario: **E/D**.
+
+Prioridad: matrícula mercantil histórica.
 
 ---
 
 ## Estado empresarial resumido
 
-| Negocio | Vinculación familiar actual | Evidencia pública | Nivel de propiedad |
-|---|---|---|---|
-| **Pan Suizo** | Hortensia / núcleo Pino–Bechara | fuerte | C fuerte, pendiente matrícula |
-| **Pan Francés** | Edmond/Edmundo Bechara | existencia y ubicación públicas fuertes | C fuerte, pendiente matrícula |
-| **Pan Bechara Ltda.** | familia Bechara; posible Jorge | rastros nominales | C para vínculo familiar; E/D para Jorge |
+| Negocio / actividad | Vinculación familiar actual | Nivel |
+|---|---|---|
+| **Pan Suizo** | Hortensia / Pino–Bechara | B existencia; C propiedad |
+| **Pan Francés** | Edmundo José Bechara | B existencia; C propiedad |
+| **Pan Bechara Ltda.** | familia Bechara; posible Jorge | C / E-D |
+| **Inversión inmobiliaria** | Edmundo José Bechara | B judicial |
+| **Hostelería en Santa Marta** | María Edilma Hortúa Restrepo | B fuerte |
+| **Agencia de viajes en Santa Marta** | Tatiana Nuit Bechara Hortúa | B fuerte |
 
 ---
 
 ## Solicitudes documentales prioritarias
 
-### Cámara de Comercio de Cartagena
+### Registro civil / parroquial
 
-Solicitar expediente histórico de:
+- nacimiento/bautismo de Hortensia para resolver 1930/1935;
+- nacimiento de Edmundo con nombres de padres;
+- matrimonio Jorge Luis Bechara Kajtouny–María Edilma Hortúa Restrepo;
+- matrimonio Anyer/Anyel Bechara–Alfonso Mena.
 
-- **PAN SUIZO**;
-- **PINO BECHARA**;
-- **PINO BECHARA E HIJOS**;
-- **PAN FRANCÉS**;
-- **PAN BECHARA LTDA.**;
-- **PAN BECHARA & CIA LTDA.**;
-- variantes ortográficas o jurídicas relacionadas.
+### Cámara de Comercio
 
-Buscar expresamente como socios/representantes:
+- PAN SUIZO / PINO BECHARA;
+- PAN FRANCÉS;
+- PAN BECHARA LTDA. / PAN BECHARA & CIA. LTDA.
 
-- Hortensia Margarita Bechara Castoony;
-- Marco Tulio Pino Uribe;
-- Edmundo/Edmond José Bechara;
-- Jorge Bechara;
-- otros hermanos Bechara.
+### Hemerotecas y archivos del Valle
 
-### Archivo familiar
-
-Priorizar:
-
-- fotografías exteriores e interiores de las tres panaderías;
-- bolsas, empaques, cajas y papelería;
-- facturas y recibos;
-- escrituras o participaciones sociales;
-- anuncios en prensa;
-- recetas y libros de cuentas;
-- fotografías familiares tomadas en los establecimientos.
+- Alfonso Mena / Alfonso Mena Delgado en Buga y Cali;
+- Procaña y asociaciones cañeras;
+- notas sociales u obituarios Mena–Bechara.
