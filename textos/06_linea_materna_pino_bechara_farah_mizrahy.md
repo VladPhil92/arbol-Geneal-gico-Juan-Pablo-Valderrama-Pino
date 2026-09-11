@@ -1,0 +1,15 @@
+# La línea materna: Pino–Bechara y Farah–Mizrahy
+
+La línea materna de Juan Pablo Valderrama Pino exige una distinción fundamental entre filiación adoptiva y filiación biológica. María del Rosario Pino Bechara fue criada como hija de Marco Tulio Pino Uribe y Hortensia Bechara Kahtouny, mientras que su madre biológica fue Diana Farah Mizrahy. Ambas historias forman parte de la memoria familiar, pero no deben confundirse en la reconstrucción genealógica.
+
+La rama Pino–Bechara corresponde a la filiación adoptiva. Marco Tulio Pino Uribe y Hortensia Bechara Kahtouny representan el núcleo familiar dentro del cual María del Rosario desarrolló su vida y su identidad social. Desde el punto de vista histórico y afectivo, esta rama es indispensable. Desde el punto de vista estrictamente consanguíneo, debe mantenerse diferenciada de la línea Farah–Mizrahy.
+
+La rama Farah–Mizrahy constituye la línea biológica actualmente conocida por vía materna. Diana Farah Mizrahy es la madre biológica de María del Rosario. Sin embargo, esta es todavía una de las áreas menos desarrolladas de la investigación. No se han establecido con seguridad los nombres de los padres de Diana, sus cuatro abuelos, los lugares exactos de procedencia de las familias Farah y Mizrahy ni el momento en que esas familias llegaron o se establecieron en Colombia.
+
+Los apellidos Farah y Mizrahy sugieren una historia migratoria que podría conectar con comunidades del Mediterráneo oriental o del mundo sefardí, pero esa posibilidad no debe transformarse en una afirmación sin documentos. Apellidos de este tipo aparecen en regiones y comunidades distintas, y sus variantes ortográficas pueden cambiar considerablemente entre registros. Por ello, la investigación debe trabajar con formas como Mizrahy, Mizrahi, Mizraji o Mizrachi solo como hipótesis de búsqueda, nunca como equivalencias automáticas.
+
+La rama Bechara plantea un reto parecido. El apellido Kahtouny puede presentar variantes de transliteración y podría remitir a familias de origen levantino, pero tampoco existe todavía una cadena documental suficiente para fijar país, localidad o generación de llegada. La historia migratoria deberá reconstruirse mediante registros civiles, pasaportes, documentos de inmigración, matrimonios, bautismos, censos, escrituras y testimonios familiares.
+
+Por esta razón, la entrevista a Diana Farah Mizrahy tiene un valor excepcional. Su testimonio puede aportar nombres completos de padres y abuelos, ciudades de nacimiento, hermanos, tíos, primos, variantes ortográficas de los apellidos y recuerdos de migraciones familiares. Cada uno de esos datos podrá después convertirse en una hipótesis documental verificable.
+
+La línea materna de Juan Pablo, por tanto, no debe considerarse incompleta en un sentido negativo, sino abierta. Frente a ramas como Mutis o Valderrama, que cuentan con mayor documentación histórica pública, Pino–Bechara y Farah–Mizrahy requieren una estrategia basada primero en memoria familiar y documentos privados. La investigación futura deberá preservar ambas dimensiones: la historia de la familia que crió a María del Rosario y la historia de su ascendencia biológica.
