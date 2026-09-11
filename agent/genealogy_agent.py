@@ -146,6 +146,18 @@ def extract_sources(response: Any) -> list[dict[str, str]]:
     return sources
 
 
+def is_insufficient_quota_error(exc: Exception) -> bool:
+    """Detecta únicamente ausencia de saldo/créditos, no otros 429 transitorios."""
+    text = str(exc).lower()
+    markers = (
+        "insufficient_quota",
+        "credit_balance_exhausted",
+        "no credits remaining",
+        "add credits to continue using the api",
+    )
+    return any(marker in text for marker in markers)
+
+
 def call_agent(task: str, context: str) -> tuple[str, list[dict[str, str]], str]:
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
@@ -284,6 +296,13 @@ def main() -> int:
         if args.mode in {"research", "full"}:
             outputs.append(do_research(args.topic, context))
     except Exception as exc:
+        if is_insufficient_quota_error(exc):
+            print(
+                "::warning::Agente genealógico omitido: la API de OpenAI no tiene créditos disponibles. "
+                "El workflow queda en estado correcto y volverá a investigar automáticamente cuando se habilite billing.",
+                file=sys.stderr,
+            )
+            return 0
         print(f"ERROR: {exc}", file=sys.stderr)
         return 2
 
