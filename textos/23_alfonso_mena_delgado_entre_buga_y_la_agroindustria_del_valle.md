@@ -1,8 +1,8 @@
 # Alfonso Mena Delgado: de Buga a la dirigencia agroindustrial del Valle
 
-La confirmación familiar de que **Alfonso Mena Delgado** fue el esposo de **Anyer/Anyel Bechara de Mena** permite mirar con mayor precisión una figura que durante décadas sobrevivió en la memoria familiar como un hombre destacado entre **Buga y Cali**.
+La confirmación familiar de que **Alfonso Mena Delgado** fue el esposo de **Anyel Bechara de Mena** permite mirar con mayor precisión una figura que durante décadas sobrevivió en la memoria familiar como un hombre destacado entre **Buga y Cali**.
 
-El matrimonio no tuvo hijos. Alfonso murió primero; Anyer no volvió a casarse y, años después, falleció en Cartagena. Desde el punto de vista genealógico se trata de una **rama por afinidad sin descendencia**, pero históricamente Alfonso dejó huellas que permiten reconstruir algo más que su profesión.
+El matrimonio no tuvo hijos. Alfonso murió primero; Anyel no volvió a casarse y, años después, falleció en Cartagena. Desde el punto de vista genealógico se trata de una **rama por afinidad sin descendencia**, pero históricamente Alfonso dejó huellas que permiten reconstruir algo más que su profesión.
 
 La búsqueda pública ha localizado dos escenas separadas por veintiséis años. La primera lo coloca en el corazón del aparato judicial de Buga durante **La Violencia**, frente a León María Lozano, “El Cóndor”. La segunda lo sitúa en la dirigencia gremial de la caña de azúcar y en la fase inicial de la organización científica de ese sector en el Valle del Cauca.
 
@@ -96,25 +96,27 @@ Hasta ahora la investigación no encontró evidencia fiable de que Alfonso hubie
 
 Esto es importante porque un cargo alto en Procaña podría llevar a inferir equivocadamente que necesariamente era gran propietario de tierras. **No debemos hacerlo**. Un director ejecutivo podía ejercer funciones de representación y administración gremial sin que ello demostrara propiedad agrícola personal.
 
-## La dimensión familiar: Anyer Bechara
+## La dimensión familiar: Anyel Bechara
 
 La memoria familiar sí permite completar una parte que las fuentes públicas todavía no muestran.
 
-**Alfonso Mena Delgado × Anyer/Anyel Bechara de Mena** formaron un matrimonio sin hijos. Alfonso murió primero. Anyer permaneció viuda y nunca volvió a casarse; más tarde murió en Cartagena.
+**Alfonso Mena Delgado × Anyel Bechara de Mena** formaron un matrimonio sin hijos. Alfonso murió primero. Anyel permaneció viuda y nunca volvió a casarse; más tarde murió en Cartagena.
+
+Una nota social de *El Universal* de 2010 rotula a Anyel erróneamente como **“Anyer Bechara de Mena”**. La familia confirma que la forma correcta es **Anyel**; `Anyer` debe conservarse únicamente cuando se cite o busque literalmente esa fuente, no como variante nominal válida.
 
 Esta condición explica en parte la dificultad para reconstruir la vida privada de Alfonso: no hubo descendencia directa encargada de conservar y transmitir un archivo propio de la pareja.
 
-La documentación puede haber quedado dispersa entre sobrinos Bechara, familiares Mena, archivos de Procaña o papeles de la propia Anyer.
+La documentación puede haber quedado dispersa entre sobrinos Bechara, familiares Mena, archivos de Procaña o papeles de la propia Anyel.
 
 ## Qué puede afirmarse hoy
 
 ### Memoria familiar confirmada
 
-- Alfonso Mena Delgado fue esposo de Anyer/Anyel Bechara;
+- Alfonso Mena Delgado fue esposo de Anyel Bechara;
 - no tuvieron hijos;
 - Alfonso murió antes que ella;
-- Anyer permaneció viuda;
-- Anyer murió posteriormente en Cartagena.
+- Anyel permaneció viuda;
+- Anyel murió posteriormente en Cartagena.
 
 ### Evidencia pública fuerte
 
