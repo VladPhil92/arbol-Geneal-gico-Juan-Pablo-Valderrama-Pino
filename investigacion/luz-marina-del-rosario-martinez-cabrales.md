@@ -13,6 +13,7 @@ Esta investigación reconstruye la vida de **Luz Marina del Rosario Martínez Ca
 - Hermana de **Zilia Margarita Martínez Cabrales**.
 - Hija, según la estructura familiar ya documentada, de **Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda**.
 - Tuvo **una única hija: Mara del Carmen Martínez Martínez**, nacida el **13 de julio de 1978**.
+- Sobre el padre de Mara del Carmen, la memoria familiar conserva únicamente que era **un señor de apellido Mogollón**. Su nombre completo y demás datos permanecen desconocidos.
 - Según testimonio familiar transmitido por **Gabriel José Valderrama Martínez**, trabajó en algún momento en el **Aeropuerto de Cartagena**.
 
 Estado de estos datos: **C fuerte — memoria familiar directa**, pendiente de registros civiles y expediente laboral.
@@ -84,23 +85,40 @@ La familia precisa que **Luz Marina del Rosario “Mara” Martínez Cabrales tu
 
 Estado: **C fuerte — información familiar directa**.
 
-Por ahora no se ha localizado en la web abierta una fuente fiable que permita elevar a nivel B/A:
+## Paternidad: pista Mogollón
 
-- su fecha y lugar exactos de registro civil;
-- el nombre de su padre;
-- el matrimonio o relación de Luz Marina del que nació;
-- otros datos biográficos de Mara del Carmen.
+La información familiar disponible sobre el padre es limitada pero concreta en un punto:
 
-El hecho de que sus apellidos sean `Martínez Martínez` **no autoriza a inferir la identidad de su padre**. El padre debe permanecer como dato pendiente hasta obtener un registro civil, partida de bautismo u otra fuente directa.
+- era **un hombre de apellido Mogollón**;
+- su nombre completo no se conoce dentro de la investigación actual;
+- no se dispone todavía de fecha de nacimiento, lugar de origen, profesión, parentescos ni documentación que permita identificarlo con seguridad.
 
-### Relación genealógica
+Estado: **C — tradición familiar parcial**.
+
+Esta pista **no autoriza a seleccionar a ningún hombre Mogollón concreto** por coincidencia geográfica, cronológica o nominal. El documento decisivo sigue siendo el registro civil o bautismal de Mara del Carmen.
+
+El hecho de que Mara del Carmen sea conocida como **Martínez Martínez** no permite negar ni confirmar la paternidad Mogollón. Sin revisar el registro original desconocemos las circunstancias de reconocimiento paterno, inscripción, legitimación, uso posterior de apellidos o cualquier otra explicación registral. Por tanto, no deben formularse hipótesis sobre estos mecanismos sin evidencia.
+
+### Pregunta de investigación
+
+**¿Quién fue el señor Mogollón identificado por la familia como padre de Mara del Carmen Martínez Martínez?**
+
+La búsqueda debe priorizar documentos contemporáneos a 1978 y fuentes que conecten simultáneamente a:
+
+- Luz Marina del Rosario Martínez Cabrales;
+- Mara del Carmen Martínez Martínez;
+- un hombre de apellido Mogollón.
+
+### Relación genealógica provisional
 
 ```text
 Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda
                          │
           Luz Marina del Rosario “Mara” Martínez Cabrales
                          │
-              Mara del Carmen Martínez Martínez
+         ├──── [padre: ? Mogollón — identidad pendiente]
+         │
+         └── Mara del Carmen Martínez Martínez
                  n. 13 julio 1978
 ```
 
@@ -159,7 +177,7 @@ No se encontró todavía una fuente abierta fiable que confirme documentalmente:
 5. la entidad empleadora;
 6. fechas de ingreso y retiro;
 7. el nacimiento de Mara del Carmen el **13 de julio de 1978**;
-8. el padre de Mara del Carmen;
+8. la identidad completa del padre de Mara del Carmen, más allá de la pista familiar `Mogollón`;
 9. fecha y lugar de fallecimiento de Luz Marina, si ya ocurrió.
 
 ---
@@ -175,7 +193,8 @@ No se encontró todavía una fuente abierta fiable que confirme documentalmente:
 | Fue hija de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda | **B/C fuerte** | genealogía secundaria bajo `Mara` + identificación familiar | registro de nacimiento/bautismo |
 | Tuvo una única hija, Mara del Carmen Martínez Martínez | **C fuerte** | información familiar directa | registro civil de nacimiento de Mara del Carmen |
 | Mara del Carmen nació el 13 de julio de 1978 | **C fuerte** | información familiar directa | registro civil/bautismo |
-| Padre de Mara del Carmen | **E — desconocido** | no aportado/no localizado | registro civil |
+| El padre de Mara del Carmen era de apellido Mogollón | **C** | memoria familiar parcial | registro civil/bautismo / documento de reconocimiento |
+| Identidad completa del padre de Mara del Carmen | **E — desconocida** | solo se conoce el apellido Mogollón | registro civil / documento de reconocimiento |
 | Trabajó en el Aeropuerto de Cartagena | **C fuerte** | testimonio de Gabriel José Valderrama Martínez | hoja de servicios / nombramiento / certificación laboral |
 | Trabajó específicamente para Aerocivil | **E/D — no demostrado** | posible por contexto institucional | expediente laboral |
 | Tuvo trámite de reconocimiento ante Colpensiones en 2014 | **B fuerte para una homónima exacta** | publicación oficial | expediente pensional / identidad cruzada |
@@ -185,11 +204,13 @@ No se encontró todavía una fuente abierta fiable que confirme documentalmente:
 # VII. Próxima fase prioritaria
 
 1. Registro civil/bautismo de **Luz Marina del Rosario Martínez Cabrales**, nacida el **29 de noviembre de 1941**.
-2. Registro civil/bautismo de **Mara del Carmen Martínez Martínez**, nacida el **13 de julio de 1978**, para confirmar filiación materna e identificar al padre.
-3. Archivo laboral aeronáutico: ECA, DAAC, FAN, Aerocivil y archivos históricos del Aeropuerto de Crespo/Rafael Núñez.
-4. Expediente pensional vinculado a la coincidencia de Colpensiones de 2014, si el acceso legalmente permitido aporta empleadores o tiempos de servicio.
-5. Hemeroteca y directorios de Cartagena, especialmente 1960–1996.
+2. Registro civil/bautismo de **Mara del Carmen Martínez Martínez**, nacida el **13 de julio de 1978**, para confirmar filiación materna y verificar la pista paterna `Mogollón`.
+3. Buscar documentos de reconocimiento, legitimación, matrimonio o anotaciones marginales vinculadas a Mara del Carmen que puedan identificar al padre.
+4. Investigar prensa social, directorios y registros contemporáneos a 1977–1979 que conecten a Luz Marina con un hombre de apellido **Mogollón**, sin fusionar identidades por apellido solamente.
+5. Archivo laboral aeronáutico: ECA, DAAC, FAN, Aerocivil y archivos históricos del Aeropuerto de Crespo/Rafael Núñez.
+6. Expediente pensional vinculado a la coincidencia de Colpensiones de 2014, si el acceso legalmente permitido aporta empleadores o tiempos de servicio.
+7. Hemeroteca y directorios de Cartagena, especialmente 1960–1996.
 
 ## Conclusión provisional
 
-La rama queda estructurada así: **Luz Marina del Rosario “Mara” Martínez Cabrales**, nacida el **29 de noviembre de 1941**, hermana de Zilia, tuvo **una sola hija: Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978**. La relación madre–hija se conserva por ahora como **C fuerte**, pendiente de registro civil primario. La investigación sobre la trayectoria aeroportuaria de Luz Marina continúa abierta.
+La rama queda estructurada así: **Luz Marina del Rosario “Mara” Martínez Cabrales**, nacida el **29 de noviembre de 1941**, hermana de Zilia, tuvo **una sola hija: Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978**. La familia identifica al padre únicamente como **un señor de apellido Mogollón**. Este apellido constituye una pista genealógica válida de nivel C, pero la identidad del hombre permanece abierta hasta obtener documentación primaria. La investigación sobre la trayectoria aeroportuaria de Luz Marina continúa abierta.
