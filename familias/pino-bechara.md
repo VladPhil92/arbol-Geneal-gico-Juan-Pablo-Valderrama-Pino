@@ -73,9 +73,9 @@ Hijos atribuidos:
 
 1. **Odeth Bechara**, “La Mona”;
 2. **Alfredo Bechara**;
-3. **Anyel / Anyer Bechara de Mena**.
+3. **Anyel Bechara de Mena**.
 
-Una fotografía social de *El Universal* de 2010 identifica a **Anyer Bechara de Mena** sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**, corroborando externamente su identidad social y su pertenencia al mismo círculo familiar.
+Una fotografía social de *El Universal* de 2010 identifica a la misma mujer como **“Anyer Bechara de Mena”**, sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**. La familia confirma que esa grafía es incorrecta: el nombre correcto es **Anyel**. Por tanto, `Anyer` se conserva únicamente como error de transcripción/editorial de dicha fuente y no como variante nominal válida.
 
 ## Segundo matrimonio: Julio Bechara × María Cristina Kahtouny
 
@@ -150,23 +150,23 @@ La familia recuerda que **Pan Bechara Ltda.** fue una panadería familiar y cons
 - vínculo familiar con Pan Bechara: **C fuerte**;
 - propiedad de Jorge: **E/D**, pendiente de Cámara de Comercio.
 
-## C. Anyel / Anyer Bechara de Mena
+## C. Anyel Bechara de Mena
 
-La familia identifica a **Anyel / Anyer Bechara** como hija del primer matrimonio de **Julio Bechara** y confirma que su esposo fue **Alfonso Mena Delgado**.
+La familia identifica a **Anyel Bechara** como hija del primer matrimonio de **Julio Bechara** y confirma que su esposo fue **Alfonso Mena Delgado**.
 
 Datos familiares directos:
 
-- **Anyer/Anyel Bechara × Alfonso Mena Delgado**;
+- **Anyel Bechara × Alfonso Mena Delgado**;
 - el matrimonio no tuvo hijos;
-- Alfonso falleció antes que Anyer;
-- Anyer no volvió a casarse;
-- Anyer falleció posteriormente en Cartagena.
+- Alfonso falleció antes que Anyel;
+- Anyel no volvió a casarse;
+- Anyel falleció posteriormente en Cartagena.
 
 Estado del nombre del esposo: **C fuerte — confirmado por familia**.
 
-### Registro público de Anyer en 2010
+### Registro público de Anyel en 2010
 
-*El Universal*, en la nota social **“Despedida Katia Méndez”** del **11 de junio de 2010**, identifica expresamente a **Anyer Bechara de Mena** sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**.
+*El Universal*, en la nota social **“Despedida Katia Méndez”** del **11 de junio de 2010**, rotula por error a Anyel como **“Anyer Bechara de Mena”**, sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**.
 
 Fuente:
 
@@ -174,12 +174,13 @@ https://www.eluniversal.com.co/sociales/2010/06/11/despedida-katia-mendez/
 
 La fuente aporta:
 
-- `Anyer` como variante documental real;
+- evidencia pública de la presencia de **Anyel** dentro del núcleo Bechara de Cartagena;
 - uso público del apellido marital **de Mena**;
-- presencia dentro del núcleo Bechara de Cartagena;
 - un hito cronológico público en junio de 2010.
 
-Estado: **B fuerte**.
+La grafía `Anyer` se considera **error de transcripción/editorial de la fuente** y no debe incorporarse como variante canónica.
+
+Estado: **B fuerte** para la identificación contextual de la persona, con corrección nominal familiar.
 
 ### Alfonso Mena Delgado — huellas históricas
 
@@ -190,14 +191,14 @@ Existen dos apariciones públicas relevantes bajo el nombre exacto **Alfonso Men
 
 Ambas apariciones tienen evidencia **B fuerte**.
 
-La identidad del Alfonso de 1952 y del Alfonso de 1978 como el mismo hombre —y como esposo de Anyer— sigue pendiente de una **fuente puente**. La coincidencia exacta de nombre, continuidad territorial y cronología hacen la hipótesis fuerte, pero no suficiente para elevarla a nivel A.
+La identidad del Alfonso de 1952 y del Alfonso de 1978 como el mismo hombre —y como esposo de Anyel— sigue pendiente de una **fuente puente**. La coincidencia exacta de nombre, continuidad territorial y cronología hacen la hipótesis fuerte, pero no suficiente para elevarla a nivel A.
 
 Estado de continuidad biográfica: **D/B fuerte**.
 
 Expediente específico:
 
 - [`../investigacion/alfonso-mena-delgado.md`](../investigacion/alfonso-mena-delgado.md)
-- [`../investigacion/fase-alfonso-mena-anyer-bechara.md`](../investigacion/fase-alfonso-mena-anyer-bechara.md)
+- [`../investigacion/fase-alfonso-mena-anyel-bechara.md`](../investigacion/fase-alfonso-mena-anyel-bechara.md)
 
 ---
 
@@ -265,12 +266,12 @@ La hipótesis de trabajo es una **red familiar de emprendimiento comercial y de 
 6. Matrícula histórica de **Pan Suizo / Pino Bechara**.
 7. Matrimonio **Jorge Luis Bechara Kajtouny × María Edilma Hortúa Restrepo**.
 8. Matrícula de **Pan Bechara Ltda.**.
-9. Registro matrimonial **Anyer/Anyel Bechara × Alfonso Mena Delgado**.
+9. Registro matrimonial **Anyel Bechara × Alfonso Mena Delgado**.
 10. Hoja de vida o expediente institucional de Alfonso en **Procaña**.
 11. Expediente laboral/judicial de Alfonso Mena Delgado en **Buga**.
 12. Registro u obituario de defunción de **Alfonso Mena Delgado**.
-13. Registro u obituario de defunción de **Anyer Bechara de Mena**, posterior al hito público de junio de 2010.
-14. Registros de Odeth, Alfredo o Anyer que permitan identificar por nombre a la primera esposa de Julio Bechara.
+13. Registro u obituario de defunción de **Anyel Bechara de Mena**, posterior al hito público de junio de 2010.
+14. Registros de Odeth, Alfredo o Anyel que permitan identificar por nombre a la primera esposa de Julio Bechara.
 
 ## Regla metodológica
 
