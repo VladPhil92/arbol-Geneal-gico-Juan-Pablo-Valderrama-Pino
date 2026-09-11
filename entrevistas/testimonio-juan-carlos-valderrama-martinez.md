@@ -3,10 +3,11 @@
 ## Identificación de la fuente
 
 - **Informante:** Juan Carlos Valderrama Martínez.
+- **Apodo familiar:** **“Chanchy”**.
 - **Relación con la rama investigada:** hijo de Mario Gerardo Valderrama Mutis y Zilia Margarita Martínez Cabrales; hermano de Gabriel José Valderrama Martínez.
 - **Tipo de fuente:** memoria familiar directa.
 - **Clasificación provisional:** **C — tradición oral familiar directa**.
-- **Transmisión:** testimonio comunicado verbalmente a Juan Pablo Valderrama Pino y registrado posteriormente en el proyecto genealógico.
+- **Transmisión:** testimonio comunicado verbalmente y por mensajería a Juan Pablo Valderrama Pino y registrado posteriormente en el proyecto genealógico.
 
 ---
 
@@ -53,8 +54,16 @@ La familia identifica a la esposa de Juan Carlos como:
 Hijos de **Juan Carlos Valderrama Martínez × Leyda del Carmen Pernett Cárdenas**:
 
 - **Zilia Valderrama Pernett**, n. **12 de marzo de 1995**.
-- **Vanessa Valderrama Pernett**, fecha de nacimiento pendiente.
-- **Alejandro Valderrama Pernett**, fecha de nacimiento pendiente.
+- **Alejandro Valderrama Pernett**, n. **24 de julio de 1999**.
+- **Vanessa Valderrama Pernett**, n. **27 de julio de 2001**.
+
+Las fechas de Alejandro y Vanessa fueron comunicadas directamente por Juan Carlos el **11 de septiembre de 2026** mediante mensajería.
+
+### Nota de transcripción
+
+En el mensaje remitido por Juan Carlos aparece la forma `Vanesa`. El proyecto mantiene provisionalmente **Vanessa Valderrama Pernett**, que era la forma previamente comunicada por la familia, hasta revisar un registro civil que determine la grafía legal.
+
+El contacto de mensajería aparecía rotulado como `Tio Chanchi`, mientras Juan Pablo identifica el apodo familiar como **“Chanchy”**. Se conserva **Chanchy** como forma familiar principal y `Chanchi` únicamente como variante gráfica observada en la etiqueta del contacto, no como nombre civil.
 
 Estado: **C fuerte — información familiar directa**, pendiente de corroboración mediante registros civiles y matrimoniales.
 
