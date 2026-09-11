@@ -34,7 +34,8 @@ Los textos distinguen entre:
 19. [Hortensia Margarita Bechara Castoony y Pan Suizo](19_hortensia_bechara_kahtouny_y_pan_suizo.md)
 20. [Julio Bechara, María Cristina Kahtouny y una familia formada por dos matrimonios](20_julio_bechara_maria_cristina_kahtouny_y_la_fratria.md)
 21. [Pan Suizo, Pan Francés y Pan Bechara: una red familiar de panificación en Cartagena](21_pan_suizo_pan_frances_y_pan_bechara_una_red_familiar.md)
-22. [Edmundo, Jorge y Anyer Bechara: empresa, familia y redes entre Cartagena, Santa Marta y el Valle del Cauca](22_edmundo_jorge_anyer_bechara_hermanos_y_redes.md) — **nuevo**
+22. [Edmundo, Jorge y Anyer Bechara: empresa, familia y redes entre Cartagena, Santa Marta y el Valle del Cauca](22_edmundo_jorge_anyer_bechara_hermanos_y_redes.md)
+23. [Alfonso Mena Delgado: de Buga a la dirigencia agroindustrial del Valle](23_alfonso_mena_delgado_entre_buga_y_la_agroindustria_del_valle.md) — **nuevo**
 
 ## Dossier Mutis
 
@@ -46,7 +47,7 @@ Los textos **5, 13, 14, 15, 16, 17 y 18** estudian el linaje Martínez del Sinú
 
 ## Dossier materno Pino–Bechara–Kahtouny / Castoony / Farah–Mizrahy
 
-Los textos **6, 19, 20, 21 y 22** desarrollan la historia materna mediante dos líneas claramente diferenciadas.
+Los textos **6, 19, 20, 21, 22 y 23** desarrollan la historia materna mediante dos líneas claramente diferenciadas.
 
 ### Línea adoptiva
 
@@ -65,10 +66,11 @@ El dossier incorpora:
 9. **Jorge Luis Bechara Kajtouny**, su núcleo con **María Edilma Hortúa Restrepo** y los hijos Fadia, Tatiana y Jorge;
 10. continuidad empresarial de esa rama hacia **hostelería y turismo en Santa Marta**;
 11. **Anyer/Anyel Bechara de Mena**, corroborada socialmente junto a Hortensia y Emma;
-12. investigación abierta sobre su esposo **Alfonso Mena**, con **Alfonso Mena Delgado** como candidato histórico aún no demostrado;
-13. **Pan Bechara Ltda.**, otra panadería familiar cuya posible vinculación con Jorge permanece como hipótesis;
-14. la hipótesis de una **red familiar especializada en panificación, propiedad y servicios**;
-15. la necesidad de obtener matrículas mercantiles, matrimonios y registros civiles para elevar las conexiones a evidencia primaria.
+12. confirmación familiar de **Alfonso Mena Delgado** como esposo de Anyer, matrimonio sin hijos, viudez posterior de Anyer y fallecimiento de ella en Cartagena;
+13. dos huellas históricas relevantes de Alfonso: **secretario del fiscal en Buga en 1952** y **director ejecutivo de Procaña en 1978**, cuya continuidad biográfica aún debe cerrarse con documento puente;
+14. **Pan Bechara Ltda.**, otra panadería familiar cuya posible vinculación con Jorge permanece como hipótesis;
+15. la hipótesis de una **red familiar especializada en panificación, propiedad, servicios y conexiones institucionales regionales**;
+16. la necesidad de obtener matrículas mercantiles, matrimonios, registros civiles y archivos gremiales para elevar las conexiones a evidencia primaria.
 
 ### Línea biológica
 
@@ -80,6 +82,7 @@ Esta línea permanece abierta y se investigará mediante registros ecuatorianos,
 
 - [`../familias/pino-bechara.md`](../familias/pino-bechara.md)
 - [`../familias/farah-mizrahy.md`](../familias/farah-mizrahy.md)
+- [`../familias/mena-delgado.md`](../familias/mena-delgado.md)
 - [`../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md`](../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md)
 - [`../investigacion/edmundo-jorge-anyer-bechara.md`](../investigacion/edmundo-jorge-anyer-bechara.md)
 - [`../fuentes/pino-bechara-kahtouny.md`](../fuentes/pino-bechara-kahtouny.md)
