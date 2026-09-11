@@ -1,15 +1,83 @@
-# La línea materna: Pino–Bechara y Farah–Mizrahy
+# La línea materna: dos genealogías, Pino–Bechara–Kahtouny y Farah–Mizrahy
 
-La línea materna de Juan Pablo Valderrama Pino exige una distinción fundamental entre filiación adoptiva y filiación biológica. María del Rosario Pino Bechara fue criada como hija de Marco Tulio Pino Uribe y Hortensia Bechara Kahtouny, mientras que su madre biológica fue Diana Farah Mizrahy. Ambas historias forman parte de la memoria familiar, pero no deben confundirse en la reconstrucción genealógica.
+La historia materna de Juan Pablo Valderrama Pino debe reconstruirse mediante **dos genealogías simultáneas**. Una corresponde a la filiación biológica de su madre, **María del Rosario Pino Bechara**; la otra corresponde a la familia que la adoptó, crió y le transmitió en Colombia su identidad familiar y jurídica.
 
-La rama Pino–Bechara corresponde a la filiación adoptiva. Marco Tulio Pino Uribe y Hortensia Bechara Kahtouny representan el núcleo familiar dentro del cual María del Rosario desarrolló su vida y su identidad social. Desde el punto de vista histórico y afectivo, esta rama es indispensable. Desde el punto de vista estrictamente consanguíneo, debe mantenerse diferenciada de la línea Farah–Mizrahy.
+Según memoria familiar directa, María del Rosario **nació en Quito, Ecuador**, como hija biológica de **Diana Farah Mizrahy**, y posteriormente fue adoptada en Colombia por **Marco Tulio Pino Uribe** y **Hortensia Margarita Bechara Kahtouny**.
 
-La rama Farah–Mizrahy constituye la línea biológica actualmente conocida por vía materna. Diana Farah Mizrahy es la madre biológica de María del Rosario. Sin embargo, esta es todavía una de las áreas menos desarrolladas de la investigación. No se han establecido con seguridad los nombres de los padres de Diana, sus cuatro abuelos, los lugares exactos de procedencia de las familias Farah y Mizrahy ni el momento en que esas familias llegaron o se establecieron en Colombia.
+Esta dualidad no debe resolverse escogiendo una rama y descartando la otra. La línea Farah–Mizrahy responde a la pregunta por la ascendencia biológica; la línea Pino–Bechara–Kahtouny responde a la historia de parentesco adoptivo, crianza, patrimonio, relaciones familiares y entorno social.
 
-Los apellidos Farah y Mizrahy sugieren una historia migratoria que podría conectar con comunidades del Mediterráneo oriental o del mundo sefardí, pero esa posibilidad no debe transformarse en una afirmación sin documentos. Apellidos de este tipo aparecen en regiones y comunidades distintas, y sus variantes ortográficas pueden cambiar considerablemente entre registros. Por ello, la investigación debe trabajar con formas como Mizrahy, Mizrahi, Mizraji o Mizrachi solo como hipótesis de búsqueda, nunca como equivalencias automáticas.
+## La línea adoptiva ya tiene corroboración pública
 
-La rama Bechara plantea un reto parecido. El apellido Kahtouny puede presentar variantes de transliteración y podría remitir a familias de origen levantino, pero tampoco existe todavía una cadena documental suficiente para fijar país, localidad o generación de llegada. La historia migratoria deberá reconstruirse mediante registros civiles, pasaportes, documentos de inmigración, matrimonios, bautismos, censos, escrituras y testimonios familiares.
+La investigación encontró un puente documental importante. En un proceso fallado por la **Corte Suprema de Justicia**, María del Rosario Pino Bechara y una persona identificada como `H.B.C.` aparecen entre los herederos de Marco Tulio Pino Uribe. Una providencia anterior del mismo expediente desarrolla el nombre como **Hortencia Bechara Castoony**.
 
-Por esta razón, la entrevista a Diana Farah Mizrahy tiene un valor excepcional. Su testimonio puede aportar nombres completos de padres y abuelos, ciudades de nacimiento, hermanos, tíos, primos, variantes ortográficas de los apellidos y recuerdos de migraciones familiares. Cada uno de esos datos podrá después convertirse en una hipótesis documental verificable.
+El hallazgo no documenta por sí solo la sentencia de adopción, pero sí confirma de forma independiente que María del Rosario, Marco Tulio y una Hortencia Bechara pertenecían al mismo núcleo sucesoral.
 
-La línea materna de Juan Pablo, por tanto, no debe considerarse incompleta en un sentido negativo, sino abierta. Frente a ramas como Mutis o Valderrama, que cuentan con mayor documentación histórica pública, Pino–Bechara y Farah–Mizrahy requieren una estrategia basada primero en memoria familiar y documentos privados. La investigación futura deberá preservar ambas dimensiones: la historia de la familia que crió a María del Rosario y la historia de su ascendencia biológica.
+La diferencia `Kahtouny / Castoony` se ha convertido por ello en una pregunta documental central. No debe normalizarse todavía. El objetivo es encontrar el matrimonio de Marco Tulio y Hortensia o el nacimiento de ella y comprobar qué grafía utilizaron los registros civiles.
+
+## La familia de Hortensia
+
+La memoria familiar sitúa a Hortensia como hija de **Julio Bechara** y **María Cristina Kahtouny**. Julio habría formado dos hogares sucesivos.
+
+Del primer matrimonio —con una pariente de apellido Bechara cuyo nombre todavía no ha sido recuperado— se recuerdan **Odeth “La Mona”, Alfredo y Anyel Bechara de Mena**.
+
+Después de enviudar, Julio se casó con María Cristina Kahtouny. De esa unión se recuerdan **Lilia, Hortensia, Emma, Edmond/Edmundo, Antonio, Nemesio, Jorge y Katia**.
+
+Los nombres suman once hijos de Julio en total. La expresión familiar de que Hortensia tuvo “once hermanos” crea una discrepancia que debe conservarse como pista: puede faltar un nombre o la cifra puede haber pasado de “once hijos” a “once hermanos” en la transmisión oral.
+
+## Pan Suizo: de recuerdo familiar a historia empresarial
+
+La tradición familiar afirma que **Hortensia fue propietaria de Pan Suizo**. Hasta ahora no se ha localizado una matrícula mercantil que la nombre directamente, pero la existencia e importancia del negocio sí quedaron fuertemente documentadas.
+
+Una tesis de 1987 de la Corporación Tecnológica de Bolívar sitúa a **Pan Suizo en Cartagena desde 1961**. Al estudiar las empresas medianas registradas en Cámara de Comercio en diciembre de 1984, incluye literalmente **`FINO BECHARA E HIJOS “PAN SUIZO”`** dentro de la industria alimentaria. El mismo trabajo registra que Pan Suizo fabricaba **pan y dulcería**.
+
+Una fuente urbana de 1984 lo menciona entre los establecimientos atendidos diariamente en Cartagena y el diagnóstico del Plan de Ordenamiento Territorial, con trabajo de campo realizado en 1997, todavía lo incluye dentro del sistema comercial del centro histórico, alrededor de las calles Primera y Segunda de Badillo y la Plaza Fernández de Madrid.
+
+Pan Suizo presenta así una continuidad pública mínima de más de tres décadas. La siguiente pregunta ya no es si existió, sino **qué papel exacto tuvo Hortensia dentro de su estructura empresarial**.
+
+## Pistas sobre los hermanos Bechara
+
+La búsqueda comienza a producir candidatos, pero ninguno debe ser incorporado sin filiación.
+
+Un **Edmundo José Bechara Castuny**, propietario en Cartagena y fallecido allí en 2016, coincide por nombre, ciudad y variante materna con el hermano recordado como Edmond/Edmundo. Es una hipótesis fuerte pendiente de encontrar los nombres de sus padres.
+
+Una fuente industrial de los años setenta menciona a **Jorge Bechara K.**, posible pista para Jorge, mientras un estudio histórico sobre el Cine Club Universitario de la Universidad de Cartagena documenta a **Katia Bechara** como tesorera en 1970. Ambos casos requieren verificación.
+
+## La línea biológica Farah–Mizrahy
+
+La otra genealogía parte de **Diana Farah Mizrahy**. Aquí el nuevo dato geográfico —el nacimiento de María del Rosario en Quito— modifica la estrategia de investigación: los primeros documentos deben buscarse en Ecuador, no únicamente en Colombia.
+
+El proyecto no inferirá origen nacional, etnia, religión ni comunidad a partir de los apellidos Farah o Mizrahy. Esas características, si resultan relevantes, deberán surgir de partidas, documentos migratorios, pasaportes, testimonios o archivos de las propias personas investigadas.
+
+La entrevista directa con Diana continúa siendo la fuente oral prioritaria para reconstruir sus padres, abuelos, hermanos y lugares de procedencia.
+
+## Un árbol con parentescos de distinta naturaleza
+
+La representación correcta es:
+
+```text
+LÍNEA BIOLÓGICA
+Diana Farah Mizrahy
+        │
+        ▼
+María del Rosario — nacimiento en Quito según memoria familiar
+
+LÍNEA ADOPTIVA
+Marco Tulio Pino Uribe × Hortensia Margarita Bechara Kahtouny
+                         │
+                         ▼
+              María del Rosario Pino Bechara
+```
+
+Ambas líneas deben conservarse con la misma seriedad archivística, pero con etiquetas distintas. La adopción no convierte a los Bechara en antepasados biológicos; la ausencia de consanguinidad tampoco elimina su condición de familia histórica de María del Rosario.
+
+## Próxima fase documental
+
+La investigación debe concentrarse en cinco piezas capaces de cambiar radicalmente el nivel de certeza:
+
+1. registro civil de María del Rosario en Quito;
+2. documento legal de adopción o registro colombiano con anotaciones, cuando sea accesible;
+3. matrimonio Marco Tulio Pino Uribe–Hortensia Bechara;
+4. matrimonio Julio Bechara–María Cristina Kahtouny y sucesión de Julio;
+5. expediente histórico de Cámara de Comercio de **Pan Suizo / Fino Bechara e Hijos / Pan Bechara Ltda.**.
+
+Con esos documentos, la rama materna dejará de ser una zona predominantemente oral del árbol y comenzará a adquirir la misma estructura probatoria que las ramas Valderrama, Mutis y Martínez–Cabrales.
