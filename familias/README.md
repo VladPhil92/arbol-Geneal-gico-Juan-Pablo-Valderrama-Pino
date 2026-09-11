@@ -18,6 +18,28 @@ Padres:
 - Mario Gerardo Valderrama Mutis.
 - Zilia Margarita Martínez Cabrales.
 
+Hermanos identificados por la familia:
+- **Mario Gerardo Valderrama Martínez**, nacido en **1962**, fallecido en año todavía pendiente de confirmar.
+- **Juan Carlos Valderrama Martínez**, nacido en **1966**, casado con **Leida Pernett**.
+
+Expediente de esta generación: [`valderrama-martinez.md`](valderrama-martinez.md).
+
+### Rama de Mario Gerardo Valderrama Martínez
+
+La familia informa que tuvo varios hijos. Hasta ahora se conocen:
+- **Zilia Valderrama [segundo apellido desconocido]**.
+- **Sebastián Valderrama [segundo apellido desconocido]**.
+- otros hijos cuya existencia es conocida, pero cuyas identidades están pendientes.
+
+### Rama de Juan Carlos Valderrama Martínez × Leida Pernett
+
+Hijos:
+- **Zilia Valderrama Pernett**.
+- **Vanessa Valderrama Pernett**.
+- **Alejandro Valderrama Pernett**.
+
+Estado de estos datos: **C fuerte — información familiar directa**, pendiente de registros civiles.
+
 ## Mario Gerardo Valderrama Mutis
 **Estado:** confirmado por familia + corroboraciones secundarias.
 
