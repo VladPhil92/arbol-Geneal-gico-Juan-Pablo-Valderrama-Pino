@@ -7,7 +7,7 @@ Este archivo reúne las principales fuentes utilizadas para estudiar la rama de 
 **María Teresa Ripoll de Lemaitre, _La actividad empresarial de Diego Martínez Camargo, 1890–1937_, Cuadernos de Historia Económica y Empresarial, Banco de la República, 1999.**
 
 - Tipo: investigación histórica institucional.
-- URL: https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/chee_2.pdf
+- URL: https://repositorio.banrep.gov.co/bitstream/handle/20.500.12134/1987/chee.pdf
 - Aporta:
   - José Casiano Martínez Maijel como ancestro temprano de la familia estudiada;
   - vinculación con el Regimiento Fijo de Cartagena;
@@ -69,8 +69,9 @@ Este archivo reúne las principales fuentes utilizadas para estudiar la rama de 
 - Aporta:
   - padres Ignacio Cabrales González y Lorencita Pineda Vélez;
   - matrimonio con Gabriel Martínez Lugo;
-  - descendencia parcial.
-- Observación: presenta posibles duplicaciones en la descendencia de Zilia; usar con cautela.
+  - descendencia parcial;
+  - identifica entre los hijos a **Guillermo “Chiclebomba” Martínez Cabrales**.
+- Observación: presenta posibles duplicaciones en la descendencia; usar con cautela.
 - Nivel: **D/B**.
 
 ## 7. Genealogías de Colombia — Lorenza Pineda Vélez
@@ -96,12 +97,57 @@ Reconstrucciones secundarias especializadas sitúan a **Manuel José de la Trini
 - Una reproducción digital consultada: https://es.scribd.com/document/580848678/ORIGENES-DE-LA-FAMILIA-CABRALES-EN-COLOMBIA
 - Nivel: **D** hasta comprobar las partidas originales de Ocaña.
 
+## 10. El Universal — Guillermo “Chicle e’ Bomba” Martínez Cabrales
+
+**Willy Martínez, “¡Chicle e’ Bomba!”, _El Universal_, 7 de agosto de 2024.**
+
+- URL: https://www.eluniversal.com.co/opinion/columna/2024/08/06/chicle-e-bomba/
+- Tipo: memoria familiar publicada / prensa.
+- Aporta explícitamente:
+  - nombre **Guillermo Martínez Cabrales**;
+  - identificación como hijo de **Gabriel Martínez Lugo y Zoila Cabrales**;
+  - paso de Manga a Lorica;
+  - matrimonio con Cecilia Corrales;
+  - ejercicio de la alcaldía de Lorica;
+  - atribución del apodo **“Chicle e’ Bomba” a David Sánchez Juliao**;
+  - Hacienda La Santa María y hospitalidad de la familia;
+  - recuerdos personales y sociales de Guillermo.
+- Nivel: **B fuerte** para memoria biográfica; cargos y filiaciones deben elevarse con documentación primaria.
+
+## 11. David Sánchez Juliao y el círculo del Tuqui Tuqui
+
+**“David Sánchez Juliao, entre sus personajes literarios y la vida real”.**
+
+- URL: https://poetasyescritoresmiami.com/david-sanchez-juliao-entre-sus-personajes-literarios-y-la-vida-real/
+- Tipo: crónica literaria secundaria.
+- Aporta: **Guillermo Eduardo Martínez (Chicle Bomba)** aparece entre los contertulios que se reunían con David Sánchez Juliao en el bar El Tuqui Tuqui de Lorica.
+- Nivel: **B**.
+
+Corroboración independiente:
+- https://www.las2orillas.co/david-sanchez-juliao-1945-2011-en-un-aniversario-mas-de-su-partida/
+- También enumera a Guillermo Eduardo Martínez / Chicle Bomba dentro del mismo círculo.
+
+## 12. Chicle Bomba en el universo de _El Flecha_
+
+Una transcripción digital de *El Flecha* contiene el apodo **“Chicle e’ Bomba”** dentro de una escena de compañeros asociada al ambiente juvenil loriquero.
+
+- Referencia consultada: https://es.scribd.com/document/426806596/El-flecha-David-Sanchez-Juliao
+- Uso metodológico: prueba secundaria de presencia del apodo en la obra; no debe interpretarse cada acción literaria como biografía literal.
+- Prioridad: verificar una edición impresa, fonograma o casete original autorizado.
+
+## 13. Genealogías de Colombia — Cecilia Corrales Mangones
+
+- URL: https://www.genealogiasdecolombia.co/persona/cecilia-corrales-mangones-OOGNAT
+- Aporta: Cecilia Corrales Mangones aparece casada con **Guillermo “Chiclebomba” Martínez Cabrales**, identificado como hijo de Gabriel Martínez Lugo y Zoila Margarita Cabrales Pineda.
+- Nivel: **D/B**, pendiente de matrimonio original.
+
 ## Contradicciones registradas
 
 1. **Nacimiento de Zilia:** Cartagena vs. Montería.
 2. **María Manuela, esposa de José Casiano:** Fernández Herrera vs. Fernández de Miranda.
 3. **Fratría Martínez Cabrales:** fuentes digitales difieren en número/nombres y algunas duplican individuos.
-4. **Fechas de Manuel José Cabrales de Armesto:** algunas fuentes secundarias presentan 1810 y otras 1816; debe prevalecer la partida bautismal original cuando se localice.
+4. **Fechas de Manuel José Cabrales de Armesto:** algunas fuentes secundarias presentan variantes; debe prevalecer la partida bautismal original.
+5. **Período de alcaldía de Guillermo Martínez Cabrales:** la prensa confirma el cargo, pero todavía no se ha localizado el acto administrativo y las fechas exactas.
 
 ## Documentos primarios prioritarios
 
@@ -113,3 +159,8 @@ Reconstrucciones secundarias especializadas sitúan a **Manuel José de la Trini
 6. Partida de Manuel José de la Trinidad Cabrales de Armesto en Ocaña.
 7. Registro de Lorenza Pineda Vélez y Eusebio José Pineda del Toro.
 8. Actas municipales o documentación oficial sobre Ignacio José Cabrales González como alcalde.
+9. Registro civil/bautismo de Guillermo Martínez Cabrales.
+10. Matrimonio Guillermo Martínez Cabrales–Cecilia Corrales.
+11. Decreto, acta o nombramiento de Guillermo como alcalde de Lorica.
+12. Fotografías, correspondencia o testimonios que documenten su relación con David Sánchez Juliao y el círculo del Tuqui Tuqui.
+13. Edición original o fonograma de _El Flecha_ para documentar la aparición del apodo.
