@@ -1,0 +1,21 @@
+# Memoria oral, archivo y verdad genealógica
+
+Toda genealogía familiar comienza antes de los documentos. Comienza con nombres repetidos en conversaciones, fotografías sin fecha, apodos, historias sobre ciudades lejanas, parentescos expresados con palabras amplias como “primo” o “tío”, y recuerdos transmitidos entre generaciones. Ese material no es un obstáculo para la investigación: es su punto de partida.
+
+En este proyecto, la memoria oral ha demostrado ser especialmente valiosa. Mario Gerardo Valderrama Mutis hablaba de Pedro Gómez Valderrama, Augusto Espinosa Valderrama y Álvaro Mutis como familiares. Durante mucho tiempo, esas referencias podían parecer difíciles de precisar. La investigación posterior mostró que, al menos en los casos de Pedro y Augusto, la estructura genealógica disponible explica de manera coherente un parentesco de primos hermanos con Mario Gerardo. En el caso de Álvaro Mutis, la conexión aparece por una rama más antigua de la familia Mutis.
+
+Este tipo de coincidencia permite comprender el valor de la tradición oral, pero también sus límites. Una memoria familiar puede conservar correctamente la existencia de un parentesco y, al mismo tiempo, simplificar su grado exacto. En el lenguaje cotidiano, varias clases de parentesco colateral pueden reducirse a la palabra “primo”. Por ello, el testimonio debe conservarse literalmente antes de interpretarlo.
+
+La metodología del proyecto distingue entre distintas clases de evidencia. Un registro civil, una partida parroquial, un acta matrimonial o un documento militar contemporáneo tiene un peso diferente al de una genealogía publicada en internet. A su vez, un testimonio directo de un miembro de la familia tiene un valor distinto al de una inferencia construida únicamente a partir de apellidos y lugares.
+
+Esta jerarquía no pretende descalificar ninguna fuente. Su función es permitir que cada afirmación tenga un nivel de certeza explícito. Una tradición oral puede orientar una búsqueda documental. Una genealogía secundaria puede revelar una línea probable. Un obituario puede conectar hermanos. Una partida de bautismo puede finalmente demostrar la filiación que las demás fuentes sugerían.
+
+El proyecto utiliza una escala de evidencia que va desde fuentes primarias hasta hipótesis abiertas y datos controvertidos. El objetivo no es llenar rápidamente todas las ramas del árbol, sino evitar que una suposición repetida varias veces termine convirtiéndose artificialmente en “verdad”.
+
+Por esta razón, las entrevistas familiares tienen una función central. Las respuestas de Mario Gerardo, Gabriel José, Diana Farah Mizrahy, Gabriel Rodrigo Martínez y otros familiares deben conservarse como testimonios originales. Luego se descomponen en afirmaciones concretas: un nombre, un lugar, una fecha, un matrimonio, una relación de parentesco. Cada afirmación puede entonces cotejarse con registros y fuentes independientes.
+
+La genealogía rigurosa también debe aceptar la contradicción. Si una fuente dice Cartagena y otra Montería, ambas versiones deben conservarse hasta encontrar el documento que resuelva la diferencia. Si un árbol llama a una persona Ricardo Valderrama Valderrama y otro Ricardo Valderrama O'Leary, no corresponde escoger la versión más atractiva: corresponde buscar el registro primario.
+
+Este principio es especialmente importante cuando el árbol toca figuras históricas conocidas. El parentesco con una persona célebre no debe recibir un estándar probatorio más bajo que cualquier otro parentesco. Al contrario, precisamente porque existe mayor riesgo de construir genealogías de prestigio, debe exigirse más rigor.
+
+La finalidad de esta investigación es preservar una memoria familiar verificable. Cada documento encontrado no reemplaza el recuerdo de quienes vivieron la historia; lo sitúa en contexto. Cada entrevista no sustituye al archivo; le indica dónde buscar. Entre ambos —memoria y documento— se construye una genealogía capaz de reconocer la incertidumbre sin renunciar a la verdad histórica.
