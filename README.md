@@ -27,6 +27,7 @@ Reconstruir el árbol genealógico familiar con metodología documental, disting
 ## Organización
 
 - [`PROMPT_MAESTRO.md`](PROMPT_MAESTRO.md): protocolo y megaprompt para continuar la investigación.
+- [`familias/README.md`](familias/README.md): índice maestro de personas, ramas y relaciones.
 - [`familias/valderrama-ordonez.md`](familias/valderrama-ordonez.md): rama Valderrama, Santander y Sopetrán.
 - [`familias/mutis.md`](familias/mutis.md): rama Mutis de Santander y conexión con José Celestino Mutis.
 - [`familias/martinez-cabrales.md`](familias/martinez-cabrales.md): ascendencia de Zilia Margarita Martínez Cabrales.
@@ -36,6 +37,30 @@ Reconstruir el árbol genealógico familiar con metodología documental, disting
 - [`familias/fajardo-valderrama.md`](familias/fajardo-valderrama.md): hipótesis Valderrama Tobón de Antioquia.
 - [`entrevistas/cuestionarios.md`](entrevistas/cuestionarios.md): historia oral en curso.
 - [`fuentes/README.md`](fuentes/README.md): fuentes utilizadas y documentos prioritarios por localizar.
+- [`aportes-manuales/`](aportes-manuales/): bandeja de entrada para nueva información familiar.
+- [`agent/`](agent/): agente autónomo de investigación y validación.
+- `investigacion/agente/`: informes generados automáticamente por el agente.
+
+## Agente de IA para investigación genealógica
+
+El repositorio incorpora un **Agente Genealógico auditable** que ejecuta dos funciones permanentes:
+
+1. **Investigación autónoma:** realiza rondas periódicas de búsqueda web sobre las ramas y eslabones prioritarios definidos en `agent/research_queue.json`.
+2. **Validación de aportes:** cuando se agrega o modifica información familiar, el agente extrae las afirmaciones, las compara con el corpus, busca evidencia a favor y en contra, detecta contradicciones y asigna nivel A/B/C/D/E/X.
+
+El agente está deliberadamente diseñado para **no reescribir por sí solo el árbol canónico**. Cada ejecución produce un informe en una rama separada y abre una Pull Request para revisión humana. De esta manera, ninguna hipótesis se transforma silenciosamente en un hecho genealógico.
+
+Documentación técnica: [`agent/README.md`](agent/README.md).
+
+### Activación
+
+El workflow `.github/workflows/genealogy-agent.yml` se ejecuta:
+
+- dos veces al día;
+- cuando cambian archivos genealógicos o aportes manuales relevantes;
+- manualmente mediante `workflow_dispatch`.
+
+Para funcionar necesita el secreto de GitHub Actions `OPENAI_API_KEY`. El modelo puede configurarse opcionalmente mediante la variable `OPENAI_MODEL`; de forma predeterminada se utiliza `gpt-5.6-terra`.
 
 ## Núcleo familiar de partida
 
