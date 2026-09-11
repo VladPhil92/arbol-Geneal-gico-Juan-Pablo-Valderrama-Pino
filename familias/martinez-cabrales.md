@@ -1,88 +1,184 @@
 # Familia Martínez–Cabrales
 
-## Núcleo conocido
+## Tesis genealógica principal
 
-**Zilia Margarita Martínez Cabrales** fue esposa de **Mario Gerardo Valderrama Mutis** y madre de **Gabriel José Valderrama Martínez**.
+La rama de **Zilia Margarita Martínez Cabrales**, esposa de **Mario Gerardo Valderrama Mutis** y madre de **Gabriel José Valderrama Martínez**, pertenece a una extensa red familiar del Caribe colombiano con raíces documentables en Cartagena, Lorica, Montería, Ocaña y el valle del Sinú.
 
-Genealogías secundarias también atribuyen a la pareja como hijos a:
+La reconstrucción actual permite separar dos grandes líneas:
 
-- Mario Gerardo Valderrama Martínez;
-- Gabriel José Valderrama Martínez;
-- Juan Carlos Valderrama Martínez.
+1. **Martínez–Lugo–Sossa**, que conduce desde Zilia hacia Gabriel María Martínez Lugo, Gabriel María Martínez Sossa y la familia Martínez establecida entre Cartagena y Lorica;
+2. **Cabrales–Pineda–Vélez**, que conduce desde Zilia hacia Zoila Margarita Cabrales Pineda, Ignacio José Cabrales González y las familias Cabrales y Pineda de Montería.
 
-Estos nombres deben confirmarse con registros civiles y testimonios familiares.
+La estructura es sólida como hipótesis genealógica secundaria, pero todavía debe elevarse mediante partidas civiles, sacramentales y notariales.
 
-## Zilia Margarita Martínez Cabrales
+---
 
-Estado actual:
+## Núcleo Martínez–Cabrales
 
-- parentesco con Gabriel José: **C — confirmado por familia**;
-- posible año de nacimiento: **1942**;
-- lugar de nacimiento: **X — controvertido en fuentes secundarias**, con versiones Cartagena de Indias y Montería.
+**Zilia Margarita Martínez Cabrales**
 
-Documento decisivo: registro civil o partida de bautismo.
+← **Gabriel María Martínez Lugo** × **Zoila Margarita Cabrales Pineda**.
 
-## Padres atribuidos
+Una genealogía regional de Cartagena atribuye a esta pareja siete hijos: Mara, Eusebio, Guillermo, Gabriel Ignacio, Zilia, Gustavo Adolfo y Juan Martínez Cabrales. La misma fuente identifica a **Gabriel Rodrigo Martínez Méndez** como hijo de Gabriel Ignacio Martínez Cabrales y Xenia Méndez de la Espriella, lo que coincide con la información familiar suministrada en esta investigación sobre Gabriel Rodrigo como primo de Juan Pablo e hijo de un hermano de Zilia.
 
-Las genealogías consultadas identifican a Zilia como hija de:
+### Estado
 
-- **Gabriel María Martínez Lugo**;
-- **Zoila Margarita Cabrales Pineda**.
+- Zilia → Gabriel José Valderrama Martínez: **C — confirmado por familia**.
+- Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda → Zilia: **B/D — reconstrucción secundaria fuerte, pendiente de partida primaria**.
+- composición completa de la fratría Martínez Cabrales: **B/D**, a confirmar mediante registros y entrevistas familiares.
 
-## Rama Martínez–Lugo
+---
 
-Reconstrucción secundaria:
+# I. Rama Martínez–Lugo–Sossa
 
-**Gabriel María Martínez Lugo**
-← **Gabriel María Martínez Sossa** × **Zoila Rosa Lugo Olivella**.
+## Gabriel María Martínez Lugo
 
-Pendientes:
+Genealogías regionales lo sitúan nacido en 1907 y casado con **Zoila Margarita Cabrales Pineda**, nacida en 1911. Es hijo de:
 
-- confirmar lugar y fecha de nacimiento de Gabriel María Martínez Lugo;
-- confirmar sus hermanos;
-- investigar ascendencia de Martínez Sossa y Lugo Olivella;
-- localizar registros parroquiales y civiles en Cartagena/Montería y región Caribe según corresponda.
+**Gabriel María Martínez Sossa** × **Zoila Rosa Lugo Olivella**.
 
-## Rama Cabrales–Pineda
+## Gabriel María Martínez Sossa
 
-Reconstrucción secundaria:
+Las fuentes genealógicas lo sitúan nacido en **Lorica en 1879** y fallecido allí en 1928. Casó con **Zoila Rosa Lugo Olivella**, también loriquera.
 
-**Zoila Margarita Cabrales Pineda**
-← **Ignacio Cabrales González** × **Lorencita/Lorenza Pineda Vélez**.
+Su rama puede seguirse hacia atrás así:
 
-Posible generación anterior:
+**Gabriel María Martínez Sossa**
+← **Diego Ángel Martínez de Lora** × **Carmen Sossa Camargo**
+← **Antonio María Martínez Fernández** × **Manuela Lora Gómez**
+← **José Casiano Martínez Maijel** × **María Manuela Fernández**.
 
-- **Ignacio Cabrales González** ← Ignacio Cabrales Lora × Zoila González Meléndez;
-- **Lorencita/Lorenza Pineda Vélez** ← Eusebio J. Pineda del Toro × Beleazar/Elodia Vélez Racero.
+Las fuentes discrepan en la forma completa del apellido de María Manuela: algunas la presentan como **Fernández Herrera** y otras como **Fernández de Miranda**. Mantener este punto como `X — controvertido` hasta revisar la partida matrimonial original.
 
-Estos últimos vínculos requieren verificación documental adicional.
+## José Casiano Martínez Maijel y la Independencia
 
-## Advertencia importante
+Una investigación del Banco de la República sobre la actividad empresarial de la familia Martínez en el Caribe identifica a **José Casiano Martínez Maijel** como el antepasado más remoto reconocido del entronque estudiado por esa obra y lo describe como oficial del **Regimiento Fijo de Cartagena**. El estudio señala que José Casiano y varios de sus hijos se vincularon a la causa patriota durante la Independencia y que José Casiano murió, junto con dos hijos, en un enfrentamiento con fuerzas realistas cerca de Mompox.
 
-El apellido **Martínez** de **Aurelio Martínez Mutis** pertenece a otra familia y **no debe confundirse con la línea Martínez Cabrales de Zilia**. La conexión de Aurelio con Juan Pablo, si se confirma, es por la rama **Mutis** y por afinidad con los Valderrama Ordóñez.
+La misma investigación identifica entre los sobrevivientes a **Antonio María Martínez Fernández**, posteriormente radicado en Lorica y ascendiente directo de la línea que conduce a Zilia.
 
-## Historia oral prioritaria
+### Nivel de evidencia
 
-La rama Martínez–Cabrales será reconstruida principalmente mediante testimonios de:
+**B fuerte para el contexto histórico y la estructura José Casiano → Antonio María**, sustentado por publicación académica del Banco de la República que remite a genealogías de Cartagena y archivos familiares. Se requieren las partidas originales para nivel A.
 
-- **Gabriel José Valderrama Martínez**, quien conoció mucho más a la familia materna de Zilia que a los Valderrama;
-- **Gabriel Rodrigo Martínez**, primo de Juan Pablo e hijo de un hermano de Zilia.
+## Los Martínez Lora y la economía del Sinú
 
-## Preguntas de investigación
+Antonio María Martínez Fernández casó con **Manuela Lora Gómez**. Entre sus hijos aparece **Diego Ángel Martínez de Lora**, nacido en Lorica en 1839.
 
-- ¿Cuántos hermanos tuvo Zilia y cuáles eran sus nombres completos?
-- ¿Cuál era el nombre completo del padre de Gabriel Rodrigo Martínez y qué posición ocupaba entre los hermanos?
-- ¿Dónde nació realmente Zilia: Cartagena o Montería?
-- ¿Dónde vivieron Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda?
-- ¿Qué profesiones, negocios, propiedades o cargos públicos tuvo la familia?
-- ¿Qué ramas Martínez, Cabrales, Lugo, Pineda y Sossa mantuvieron relación estrecha con Zilia?
-- ¿Quién conserva álbumes, registros, cartas, escrituras u obituarios?
+El Banco de la República documenta que, hacia 1861, miembros de la generación Martínez Lora organizaron la casa comercial **Diego Martínez L. & Co.**, dedicada al comercio de mercancías importadas a través de Cartagena y a la compra y venta de ganado. En 1887 la firma fue reorganizada como **Diego Martínez & Cía.**
 
-## Documentos prioritarios
+Este dato sitúa a los antepasados y parientes inmediatos de la rama dentro de la transformación económica del valle del Sinú durante el siglo XIX, cuando Lorica era uno de los centros comerciales más activos de la región y la ganadería articulaba mercados entre el Caribe, Antioquia y Santander.
 
-1. Registro civil/bautismo de Zilia Margarita Martínez Cabrales.
+## Diego Ángel Martínez de Lora → Gabriel María Martínez Sossa
+
+Las genealogías de Cartagena registran a Diego Ángel Martínez de Lora unido a **Carmen Sossa Camargo** y atribuyen a la pareja, entre otros hijos, a **Gabriel María Martínez Sossa**. Esta relación conecta la historia empresarial del amplio clan Martínez Lora con la línea directa de Zilia.
+
+Un dato cultural llamativo es que la historia institucional del Colegio Santa Teresita de Lorica todavía usa como referencia urbana una **estatua de Gabriel Martínez Sossa**, localizada en el espacio hoy denominado Plaza de la Concordia. El dato demuestra la persistencia pública de su nombre en la memoria urbana loriquera, aunque aún debemos investigar el origen, fecha y motivo exactos del monumento.
+
+---
+
+# II. Rama Cabrales–Pineda–Vélez
+
+## Zoila Margarita Cabrales Pineda
+
+Las fuentes secundarias la sitúan nacida en 1911 y casada con Gabriel María Martínez Lugo. Era hija de:
+
+**Ignacio José Cabrales González** × **Lorenza / Lorencita Pineda Vélez**.
+
+La obra *La vieja y nueva Montería*, de Luis Eduardo Mendoza de la Espriella, identifica a **Ignacio José Cabrales González** como ganadero, alcalde de Montería y vecino del barrio La Ceiba, casado con Lorenza Pineda Vélez. La misma obra atribuye a la pareja una amplia descendencia y la identifica como tronco de diversas familias, incluida la Martínez Cabrales.
+
+### Estado
+
+**B fuerte como fuente histórica secundaria**, pendiente de registros civiles/parroquiales que demuestren cada filiación.
+
+## Ignacio José Cabrales González
+
+La reconstrucción secundaria lo sitúa como hijo de:
+
+**Ignacio José Cabrales Lora** × **Zoila Margarita González Meléndez**.
+
+*La vieja y nueva Montería* identifica a Ignacio José Cabrales Lora como nacido en Montería en 1844, fallecido en 1892, ganadero y vecino del barrio La Ceiba. Registra un primer matrimonio con María Trinidad de Lora y Lora y un segundo con Zoila Margarita González Meléndez, y lo presenta como tronco de ramas Cabrales Pineda y Cabrales Cabrales.
+
+## Manuel José de la Trinidad Cabrales de Armesto
+
+La generación anterior conduce provisionalmente a:
+
+**Manuel José de la Trinidad Cabrales de Armesto** × **Petrona Ignacia de la Candelaria de Lora Olascoaga**
+→ **Ignacio José Cabrales Lora**.
+
+Fuentes históricas y genealógicas coinciden en situar a Manuel José nacido en **Ocaña** y posteriormente establecido en Montería. La obra de Mendoza de la Espriella lo describe como comerciante y tronco de numerosas ramas Cabrales del Sinú.
+
+Una reconstrucción especializada sobre los orígenes Cabrales atribuye a Manuel José como hijo de **José Ignacio Cabrales** y **Gabriela de Armesto y de Haro**, matrimonio celebrado en Ocaña a comienzos del siglo XIX. Esta generación anterior debe conservarse como **D — hipótesis fuerte**, pendiente de consultar directamente registros parroquiales de Ocaña.
+
+---
+
+# III. Rama Pineda–Vélez
+
+## Lorenza Pineda Vélez
+
+Las fuentes genealógicas identifican a Lorenza/Lorencita como hija de:
+
+**Eusebio José Pineda del Toro** × **Beleazar Elodia Vélez Racero**.
+
+*La vieja y nueva Montería* describe a **Eusebio José Pineda del Toro** como ganadero monteriano y lo vincula al barrio La Ceiba. Registra un primer matrimonio con Beleazar Vélez Racero y una descendencia extensa, entre la que figura **Lorenza Rosa Pineda Vélez**.
+
+La misma obra presenta a Eusebio José como hijo de:
+
+**Nicolás José Pineda de Lora** × **Lorenza Rosa del Toro y Lora**.
+
+Este tramo abre una línea adicional de investigación sobre las familias **Pineda, de Lora, del Toro, Vélez y Racero** del Sinú.
+
+### Estado
+
+- Eusebio Pineda del Toro → Lorenza Pineda Vélez: **B/D**.
+- Nicolás José Pineda de Lora → Eusebio José Pineda del Toro: **B/D**.
+- generaciones anteriores: **E/D**, hasta obtener partidas.
+
+---
+
+# IV. Geografía familiar
+
+La rama Martínez–Cabrales no pertenece a una única ciudad. La evidencia disponible dibuja un corredor histórico:
+
+**Cartagena → Lorica → Montería → Cartagena**.
+
+La línea Martínez tiene un origen documentable en Cartagena a comienzos del siglo XIX y luego un fuerte arraigo en Lorica y el valle del Sinú. La línea Cabrales muestra un movimiento desde **Ocaña hacia Montería**, donde varias generaciones aparecen asociadas a ganadería, comercio, vida municipal y el barrio La Ceiba. En el siglo XX, la generación Martínez Cabrales vuelve a aparecer muy vinculada con Cartagena.
+
+Este movimiento regional ayuda a explicar por qué distintas fuentes discrepan sobre el lugar de nacimiento de Zilia: una tradición secundaria la sitúa en Montería, mientras Genealogías de Cartagena la registra como nacida en Cartagena. El registro civil o bautismal sigue siendo imprescindible.
+
+---
+
+# V. Fratría de Zilia y Gabriel Rodrigo Martínez
+
+La reconstrucción de María Victoria García Azuero identifica como hermanos de Zilia a:
+
+- Mara Martínez Cabrales;
+- Eusebio Martínez Cabrales;
+- Guillermo Martínez Cabrales;
+- Gabriel Ignacio Martínez Cabrales;
+- Gustavo Adolfo Martínez Cabrales;
+- Juan Martínez Cabrales.
+
+La misma genealogía identifica a **Gabriel Rodrigo Martínez Méndez** como hijo de **Gabriel Ignacio Martínez Cabrales** y **Xenia Méndez de la Espriella**, haciendo de Gabriel Rodrigo un primo hermano de los hijos de Zilia.
+
+Esta coincidencia con el testimonio familiar eleva el valor de la reconstrucción, pero la composición completa de la fratría debe confirmarse mediante entrevistas y registros civiles.
+
+---
+
+# VI. Documentos prioritarios
+
+1. Registro civil o bautismo de Zilia Margarita Martínez Cabrales.
 2. Matrimonio de Zilia y Mario Gerardo Valderrama Mutis.
-3. Nacimiento/matrimonio de Gabriel María Martínez Lugo.
-4. Nacimiento/matrimonio de Zoila Margarita Cabrales Pineda.
-5. Registros de Ignacio Cabrales González y Lorencita/Lorenza Pineda Vélez.
-6. Obituarios y álbumes familiares que enumeren hermanos y descendientes.
+3. Registro/matrimonio de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda.
+4. Partidas de Gabriel María Martínez Sossa y Zoila Rosa Lugo Olivella.
+5. Matrimonio Diego Ángel Martínez de Lora–Carmen Sossa Camargo.
+6. Partidas de Antonio María Martínez Fernández y Manuela Lora Gómez.
+7. Partida matrimonial de José Casiano Martínez Maijel y María Manuela Fernández para resolver Herrera/Miranda.
+8. Registro de Ignacio José Cabrales González y matrimonio con Lorenza Pineda Vélez.
+9. Registro de Ignacio José Cabrales Lora y sus matrimonios.
+10. Partida de Manuel José de la Trinidad Cabrales de Armesto en Ocaña.
+11. Registros de Eusebio José Pineda del Toro, Beleazar Vélez Racero y Lorenza Pineda Vélez.
+12. Entrevistas a Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez para cotejar nombres, lugares, profesiones y documentos conservados.
+
+## Regla editorial
+
+No confundir esta línea Martínez con la familia de **Aurelio Martínez Mutis**. La conexión de Aurelio con el árbol estudiado pertenece a la rama **Mutis**, no a los Martínez de Zilia.
