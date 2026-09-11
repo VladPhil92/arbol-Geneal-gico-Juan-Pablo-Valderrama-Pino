@@ -19,6 +19,8 @@ Gabriel María Martínez Lugo ───── Zoila Margarita Cabrales Pineda
         │
         ├── Luz Marina del Rosario “Mara” Martínez Cabrales
         │        │
+        │        ├── padre de Mara del Carmen: ? Mogollón
+        │        │
         │        └── Mara del Carmen Martínez Martínez
         │             n. 13 julio 1978
         │
@@ -40,6 +42,8 @@ Gabriel María Martínez Lugo ───── Zoila Margarita Cabrales Pineda
 | Gabriel María Martínez Lugo + Zoila Margarita Cabrales Pineda → Luz Marina del Rosario “Mara” Martínez Cabrales | B/C fuerte | genealogía secundaria incluye a `Mara`; familia identifica Mara = Luz Marina del Rosario; nombre completo corroborado externamente en Colpensiones | registro civil/bautismo de Luz Marina |
 | Luz Marina del Rosario “Mara” Martínez Cabrales → Mara del Carmen Martínez Martínez | C fuerte | información familiar directa | registro civil de nacimiento de Mara del Carmen |
 | Mara del Carmen Martínez Martínez nació el 13 de julio de 1978 | C fuerte | información familiar directa | registro civil/bautismo |
+| Padre de Mara del Carmen: hombre de apellido Mogollón | C | memoria familiar parcial | registro civil/bautismo / reconocimiento paterno |
+| Identidad completa del padre de Mara del Carmen | E | desconocida; solo se conserva el apellido Mogollón | documento primario de filiación |
 | Gabriel María Martínez Sossa → Gabriel María Martínez Lugo | B/D | genealogía regional con fechas y fratría | bautismo de Gabriel María Lugo |
 | Diego Ángel Martínez de Lora → Gabriel María Martínez Sossa | B/D | Genealogías de Cartagena | bautismo/matrimonio de Gabriel María Sossa |
 | Antonio María Martínez Fernández → Diego Ángel Martínez de Lora | B fuerte | Banco de la República + genealogías históricas | bautismo de Diego Ángel |
@@ -93,7 +97,11 @@ La familia informa que Luz Marina tuvo **una única hija**:
 
 Estado de la filiación: **C fuerte — memoria familiar directa**, pendiente de registro civil.
 
-El padre de Mara del Carmen permanece **no identificado documentalmente** dentro del proyecto. No debe inferirse su identidad a partir de los apellidos `Martínez Martínez`.
+Sobre el padre, la familia solo conserva una pista: era **un hombre de apellido Mogollón**. Su nombre completo y demás datos permanecen desconocidos.
+
+Estado de la pista `Mogollón`: **C — tradición familiar parcial**.
+
+El hecho de que Mara del Carmen sea conocida con los apellidos `Martínez Martínez` no permite confirmar ni descartar esta paternidad. Sin el registro original no deben suponerse circunstancias de reconocimiento, inscripción o uso posterior de apellidos.
 
 Expediente específico: [`luz-marina-del-rosario-martinez-cabrales.md`](luz-marina-del-rosario-martinez-cabrales.md).
 
@@ -110,17 +118,18 @@ Expediente específico: [`luz-marina-del-rosario-martinez-cabrales.md`](luz-mari
 
 1. Registro civil/bautismo de Zilia Margarita Martínez Cabrales.
 2. **Registro civil/bautismo de Luz Marina del Rosario “Mara” Martínez Cabrales, nacida según memoria familiar el 29 de noviembre de 1941.**
-3. **Registro civil/bautismo de Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978, para confirmar filiación materna e identificar al padre.**
-4. **Documento que vincule explícitamente el nombre completo Luz Marina del Rosario con el apelativo familiar Mara.**
-5. **Expediente laboral que compruebe la tradición familiar de que Mara/Luz Marina trabajó en el Aeropuerto de Cartagena, priorizando ECA, DAAC, FAN, Aerocivil y operadores/aerolíneas del aeropuerto.**
-6. Matrimonio Gabriel María Martínez Lugo–Zoila Margarita Cabrales Pineda.
-7. Partida de Gabriel María Martínez Lugo.
-8. Registros de Gabriel María Martínez Sossa y Diego Ángel Martínez de Lora.
-9. Partida matrimonial de José Casiano Martínez Maijel.
-10. Registro de Zoila Margarita Cabrales Pineda.
-11. Documentación municipal de Ignacio José Cabrales González como alcalde de Montería.
-12. Partidas de Ignacio José Cabrales Lora y Manuel José Cabrales de Armesto.
-13. Registros de Eusebio José Pineda del Toro y Lorenza Pineda Vélez.
+3. **Registro civil/bautismo de Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978, para confirmar filiación materna y verificar la pista de un padre de apellido Mogollón.**
+4. **Documento de reconocimiento, legitimación o anotación marginal que pueda identificar al padre de Mara del Carmen.**
+5. **Documento que vincule explícitamente el nombre completo Luz Marina del Rosario con el apelativo familiar Mara.**
+6. **Expediente laboral que compruebe la tradición familiar de que Mara/Luz Marina trabajó en el Aeropuerto de Cartagena, priorizando ECA, DAAC, FAN, Aerocivil y operadores/aerolíneas del aeropuerto.**
+7. Matrimonio Gabriel María Martínez Lugo–Zoila Margarita Cabrales Pineda.
+8. Partida de Gabriel María Martínez Lugo.
+9. Registros de Gabriel María Martínez Sossa y Diego Ángel Martínez de Lora.
+10. Partida matrimonial de José Casiano Martínez Maijel.
+11. Registro de Zoila Margarita Cabrales Pineda.
+12. Documentación municipal de Ignacio José Cabrales González como alcalde de Montería.
+13. Partidas de Ignacio José Cabrales Lora y Manuel José Cabrales de Armesto.
+14. Registros de Eusebio José Pineda del Toro y Lorenza Pineda Vélez.
 
 ## Regla
 
