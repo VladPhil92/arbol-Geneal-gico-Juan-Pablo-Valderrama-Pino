@@ -143,14 +143,14 @@ Félix Valderrama Piñeros
 En ese escenario:
 
 - **Juan José Valderrama y Mario Valderrama Ordóñez serían primos segundos**;
-- respecto de **Juan Pablo Valderrama Pino**, Juan José sería aproximadamente un **primo segundo con tres generaciones de diferencia** (`second cousin three times removed`).
+- respecto de **Juan Pablo Valderrama Pino**, Juan José sería un **primo segundo con tres generaciones de diferencia** (`second cousin three times removed`).
 
 ### Escenario B — Juan José fuera nieto de José María
 
 El parentesco se alejaría una generación:
 
-- sería aproximadamente **primo tercero de Mario Valderrama Ordóñez**;
-- respecto de Juan Pablo, aproximadamente **primo tercero con dos generaciones de diferencia**.
+- **Juan José sería primo segundo una vez removido de Mario Valderrama Ordóñez**;
+- respecto de **Juan Pablo**, sería **primo tercero con dos generaciones de diferencia** (`third cousin twice removed`).
 
 Estos cálculos son condicionales y no deben trasladarse al árbol canónico hasta identificar a los padres de Juan José.
 
