@@ -34,7 +34,7 @@ Los textos distinguen entre:
 19. [Hortensia Margarita Bechara Castoony y Pan Suizo](19_hortensia_bechara_kahtouny_y_pan_suizo.md)
 20. [Julio Bechara, María Cristina Kahtouny y una familia formada por dos matrimonios](20_julio_bechara_maria_cristina_kahtouny_y_la_fratria.md)
 21. [Pan Suizo, Pan Francés y Pan Bechara: una red familiar de panificación en Cartagena](21_pan_suizo_pan_frances_y_pan_bechara_una_red_familiar.md)
-22. [Edmundo, Jorge y Anyer Bechara: empresa, familia y redes entre Cartagena, Santa Marta y el Valle del Cauca](22_edmundo_jorge_anyer_bechara_hermanos_y_redes.md)
+22. [Edmundo, Jorge y Anyel Bechara: empresa, familia y redes entre Cartagena, Santa Marta y el Valle del Cauca](22_edmundo_jorge_anyel_bechara_hermanos_y_redes.md)
 23. [Alfonso Mena Delgado: de Buga a la dirigencia agroindustrial del Valle](23_alfonso_mena_delgado_entre_buga_y_la_agroindustria_del_valle.md) — **nuevo**
 
 ## Dossier Mutis
@@ -65,8 +65,8 @@ El dossier incorpora:
 8. descendencia de Edmundo corroborada por expediente judicial: **Julio César, Karina María y Claudia Patricia Bechara Márquez**, además de **Edmond José Bechara Donado**;
 9. **Jorge Luis Bechara Kajtouny**, su núcleo con **María Edilma Hortúa Restrepo** y los hijos Fadia, Tatiana y Jorge;
 10. continuidad empresarial de esa rama hacia **hostelería y turismo en Santa Marta**;
-11. **Anyer/Anyel Bechara de Mena**, corroborada socialmente junto a Hortensia y Emma;
-12. confirmación familiar de **Alfonso Mena Delgado** como esposo de Anyer, matrimonio sin hijos, viudez posterior de Anyer y fallecimiento de ella en Cartagena;
+11. **Anyel Bechara de Mena**, corroborada socialmente junto a Hortensia y Emma; *El Universal* de 2010 la rotula erróneamente como `Anyer`;
+12. confirmación familiar de **Alfonso Mena Delgado** como esposo de Anyel, matrimonio sin hijos, viudez posterior de Anyel y fallecimiento de ella en Cartagena;
 13. dos huellas históricas relevantes de Alfonso: **secretario del fiscal en Buga en 1952** y **director ejecutivo de Procaña en 1978**, cuya continuidad biográfica aún debe cerrarse con documento puente;
 14. **Pan Bechara Ltda.**, otra panadería familiar cuya posible vinculación con Jorge permanece como hipótesis;
 15. la hipótesis de una **red familiar especializada en panificación, propiedad, servicios y conexiones institucionales regionales**;
@@ -84,7 +84,8 @@ Esta línea permanece abierta y se investigará mediante registros ecuatorianos,
 - [`../familias/farah-mizrahy.md`](../familias/farah-mizrahy.md)
 - [`../familias/mena-delgado.md`](../familias/mena-delgado.md)
 - [`../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md`](../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md)
-- [`../investigacion/edmundo-jorge-anyer-bechara.md`](../investigacion/edmundo-jorge-anyer-bechara.md)
+- [`../investigacion/edmundo-jorge-anyel-bechara.md`](../investigacion/edmundo-jorge-anyel-bechara.md)
+- [`../investigacion/fase-alfonso-mena-anyel-bechara.md`](../investigacion/fase-alfonso-mena-anyel-bechara.md)
 - [`../fuentes/pino-bechara-kahtouny.md`](../fuentes/pino-bechara-kahtouny.md)
 
 ## Núcleo Valderrama–Mutis
