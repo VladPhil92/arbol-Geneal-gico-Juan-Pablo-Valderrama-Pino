@@ -37,6 +37,7 @@ Reconstruir el árbol genealógico familiar con metodología documental, disting
 - [`familias/fajardo-valderrama.md`](familias/fajardo-valderrama.md): hipótesis Valderrama Tobón de Antioquia.
 - [`entrevistas/cuestionarios.md`](entrevistas/cuestionarios.md): historia oral en curso.
 - [`fuentes/README.md`](fuentes/README.md): fuentes utilizadas y documentos prioritarios por localizar.
+- [`textos/README.md`](textos/README.md): ensayos históricos y narrativos derivados de la investigación.
 - [`aportes-manuales/`](aportes-manuales/): bandeja de entrada para nueva información familiar.
 - [`agent/`](agent/): agente autónomo de investigación y validación.
 - `investigacion/agente/`: informes generados automáticamente por el agente.
