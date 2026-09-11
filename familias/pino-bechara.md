@@ -152,20 +152,52 @@ La familia recuerda que **Pan Bechara Ltda.** fue una panadería familiar y cons
 
 ## C. Anyel / Anyer Bechara de Mena
 
-La familia recuerda a **Anyel Bechara de Mena** como hija del primer matrimonio de Julio y esposa de un **Alfonso Mena** destacado en Buga y Cali.
+La familia identifica a **Anyel / Anyer Bechara** como hija del primer matrimonio de **Julio Bechara** y confirma que su esposo fue **Alfonso Mena Delgado**.
 
-*El Universal* registra en 2010 a **Anyer Bechara de Mena** junto a Hortensia y Emma, por lo que `Anyer` debe conservarse como variante documental de su nombre.
+Datos familiares directos:
 
-### Alfonso Mena — hipótesis abierta
+- **Anyer/Anyel Bechara × Alfonso Mena Delgado**;
+- el matrimonio no tuvo hijos;
+- Alfonso falleció antes que Anyer;
+- Anyer no volvió a casarse;
+- Anyer falleció posteriormente en Cartagena.
 
-La búsqueda ha encontrado un candidato histórico: **Alfonso Mena Delgado**.
+Estado del nombre del esposo: **C fuerte — confirmado por familia**.
 
-- aparece en reconstrucciones históricas de los años cincuenta como secretario de un funcionario judicial en **Buga**;
-- en 1978 aparece como **director ejecutivo de Procaña**, participando en la junta directiva de un centro de investigación de la caña de azúcar junto a dirigentes de los principales ingenios y asociaciones del sector vallecaucano.
+### Registro público de Anyer en 2010
 
-El perfil es compatible con el recuerdo de una persona destacada entre Buga y Cali, pero **no existe aún ningún documento que demuestre que Alfonso Mena Delgado fue esposo de Anyer Bechara**.
+*El Universal*, en la nota social **“Despedida Katia Méndez”** del **11 de junio de 2010**, identifica expresamente a **Anyer Bechara de Mena** sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**.
 
-Estado: **D/E — candidato, no identificado**.
+Fuente:
+
+https://www.eluniversal.com.co/sociales/2010/06/11/despedida-katia-mendez/
+
+La fuente aporta:
+
+- `Anyer` como variante documental real;
+- uso público del apellido marital **de Mena**;
+- presencia dentro del núcleo Bechara de Cartagena;
+- un hito cronológico público en junio de 2010.
+
+Estado: **B fuerte**.
+
+### Alfonso Mena Delgado — huellas históricas
+
+Existen dos apariciones públicas relevantes bajo el nombre exacto **Alfonso Mena Delgado**:
+
+1. **Buga, 1952:** aparece como **secretario del fiscal Eduardo Urrutia Rivera / Irurita** durante un episodio de coacción asociado a León María Lozano, “El Cóndor”.
+2. **Valle del Cauca, 1978:** aparece como **director ejecutivo de Procaña** e integrante de una junta vinculada a la organización temprana del Centro de Investigación de la Caña de Azúcar de Colombia.
+
+Ambas apariciones tienen evidencia **B fuerte**.
+
+La identidad del Alfonso de 1952 y del Alfonso de 1978 como el mismo hombre —y como esposo de Anyer— sigue pendiente de una **fuente puente**. La coincidencia exacta de nombre, continuidad territorial y cronología hacen la hipótesis fuerte, pero no suficiente para elevarla a nivel A.
+
+Estado de continuidad biográfica: **D/B fuerte**.
+
+Expediente específico:
+
+- [`../investigacion/alfonso-mena-delgado.md`](../investigacion/alfonso-mena-delgado.md)
+- [`../investigacion/fase-alfonso-mena-anyer-bechara.md`](../investigacion/fase-alfonso-mena-anyer-bechara.md)
 
 ---
 
@@ -233,8 +265,12 @@ La hipótesis de trabajo es una **red familiar de emprendimiento comercial y de 
 6. Matrícula histórica de **Pan Suizo / Pino Bechara**.
 7. Matrimonio **Jorge Luis Bechara Kajtouny × María Edilma Hortúa Restrepo**.
 8. Matrícula de **Pan Bechara Ltda.**.
-9. Registro matrimonial **Anyer/Anyel Bechara × Alfonso Mena**.
-10. Obituarios, álbumes sociales y archivos de prensa de Buga/Cali que identifiquen al esposo de Anyer.
+9. Registro matrimonial **Anyer/Anyel Bechara × Alfonso Mena Delgado**.
+10. Hoja de vida o expediente institucional de Alfonso en **Procaña**.
+11. Expediente laboral/judicial de Alfonso Mena Delgado en **Buga**.
+12. Registro u obituario de defunción de **Alfonso Mena Delgado**.
+13. Registro u obituario de defunción de **Anyer Bechara de Mena**, posterior al hito público de junio de 2010.
+14. Registros de Odeth, Alfredo o Anyer que permitan identificar por nombre a la primera esposa de Julio Bechara.
 
 ## Regla metodológica
 
