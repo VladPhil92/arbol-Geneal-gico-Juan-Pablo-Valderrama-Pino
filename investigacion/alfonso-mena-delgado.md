@@ -2,7 +2,7 @@
 
 ## Pregunta de investigación
 
-¿Qué puede reconstruirse de **Alfonso Mena Delgado**, esposo de **Anyer/Anyel Bechara**, más allá de sus cargos profesionales?
+¿Qué puede reconstruirse de **Alfonso Mena Delgado**, esposo de **Anyel Bechara**, más allá de sus cargos profesionales?
 
 ## Resultado general
 
@@ -19,11 +19,11 @@ La biografía personal continúa incompleta: no se han hallado en fuentes abiert
 
 | Afirmación | Nivel | Evidencia | Observación |
 |---|---:|---|---|
-| Alfonso Mena Delgado fue esposo de Anyer/Anyel Bechara | C fuerte | testimonio familiar directo | confirmado por descendiente colateral |
+| Alfonso Mena Delgado fue esposo de Anyel Bechara | C fuerte | testimonio familiar directo | confirmado por descendiente colateral |
 | Matrimonio sin hijos | C fuerte | testimonio familiar | sin descendencia directa |
-| Alfonso murió antes que Anyer | C fuerte | testimonio familiar | fecha pendiente |
-| Anyer no volvió a casarse | C fuerte | testimonio familiar | — |
-| Anyer murió en Cartagena | C fuerte | testimonio familiar | registro pendiente |
+| Alfonso murió antes que Anyel | C fuerte | testimonio familiar | fecha pendiente |
+| Anyel no volvió a casarse | C fuerte | testimonio familiar | — |
+| Anyel murió en Cartagena | C fuerte | testimonio familiar | registro pendiente |
 | Alfonso Mena Delgado fue secretario del fiscal en Buga en 1952 | B fuerte | Semana, reconstrucción histórica | nombre completo explícito |
 | Estuvo presente durante coacción de León María Lozano | B fuerte | misma fuente | intervención narrada con detalle |
 | Objetó redactar inmediatamente la providencia revocatoria | B fuerte | misma fuente | aconsejó esperar respuesta gubernamental |
@@ -163,10 +163,16 @@ Buscar especialmente entre 1973–1985 y años posteriores por obituario.
 
 ### Registro civil y notarial
 
-- matrimonio Alfonso Mena Delgado × Anyer/Anyel Bechara;
+- matrimonio Alfonso Mena Delgado × Anyel Bechara;
 - defunción de Alfonso;
 - eventual sucesión;
-- defunción de Anyer en Cartagena.
+- defunción de Anyel en Cartagena.
+
+---
+
+## Nota nominal sobre una fuente periodística
+
+Una nota social de *El Universal* de 2010 rotula a Anyel como **“Anyer Bechara de Mena”**. La familia confirma que su nombre correcto es **Anyel**. Por tanto, `Anyer` debe conservarse únicamente cuando se transcriba literalmente esa fuente, marcado como error de transcripción/editorial, y no como variante válida del nombre.
 
 ---
 
