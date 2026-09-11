@@ -17,7 +17,7 @@ La información de esta sección procede por ahora de **memoria familiar directa
 - Nacimiento: **1962** — C, información familiar directa.
 - Fallecimiento: **ocurrió, pero el año exacto está pendiente de confirmación**.
 - Padres: **Mario Gerardo Valderrama Mutis × Zilia Margarita Martínez Cabrales**.
-- Hermano de **Gabriel José Valderrama Martínez**.
+- Hermano de **Gabriel José Valderrama Martínez** y **Juan Carlos Valderrama Martínez**.
 
 ### Descendencia conocida
 
@@ -46,9 +46,23 @@ No debe asignarse segundo apellido, madre, fecha de nacimiento ni otros datos a 
 
 - Padres: **Mario Gerardo Valderrama Mutis × Zilia Margarita Martínez Cabrales**.
 - Hermano de **Mario Gerardo Valderrama Martínez** y **Juan Carlos Valderrama Martínez**.
-- Padre de **Juan Pablo Valderrama Pino**.
+- Cónyuge: **María del Rosario Pino Bechara**.
 
-Estado de la relación fraterna: **C fuerte — información familiar directa**.
+### Descendencia con María del Rosario Pino Bechara
+
+La familia identifica tres hijos:
+
+1. **Juan Pablo Valderrama Pino**, n. **7 de febrero de 1992**.
+2. **Gabriel Andrés Valderrama Pino**, n. **25 de agosto de 1995**.
+3. **Jacobo José Valderrama Pino**, n. **3 de enero de 2003**.
+
+Estado: **C fuerte — información familiar directa**.
+
+Pendiente de confirmar mediante registros civiles y matrimoniales:
+
+- fecha y lugar de matrimonio de Gabriel José y María del Rosario;
+- registros civiles de nacimiento de los tres hijos;
+- cualquier otro dato biográfico que se incorpore posteriormente.
 
 ---
 
@@ -56,25 +70,37 @@ Estado de la relación fraterna: **C fuerte — información familiar directa**.
 
 - Nacimiento: **1966** — C, información familiar directa.
 - Padres: **Mario Gerardo Valderrama Mutis × Zilia Margarita Martínez Cabrales**.
-- Hermano de **Gabriel José Valderrama Martínez**.
-- Cónyuge: **Leida Pernett**.
+- Hermano de **Gabriel José Valderrama Martínez** y **Mario Gerardo Valderrama Martínez**.
+- Cónyuge: **Leyda del Carmen Pernett Cárdenas**.
 
-### Descendencia con Leida Pernett
+### Leyda del Carmen Pernett Cárdenas
+
+- Nacimiento: **31 de octubre de 1967** — C, información familiar directa.
+
+### Descendencia de Juan Carlos Valderrama Martínez × Leyda del Carmen Pernett Cárdenas
 
 La familia identifica tres hijos:
 
-1. **Zilia Valderrama Pernett**.
-2. **Vanessa Valderrama Pernett**.
-3. **Alejandro Valderrama Pernett**.
+1. **Zilia Valderrama Pernett**, n. **12 de marzo de 1995**.
+2. **Vanessa Valderrama Pernett**, fecha de nacimiento pendiente.
+3. **Alejandro Valderrama Pernett**, fecha de nacimiento pendiente.
 
 Estado: **C fuerte — información familiar directa**.
 
 Pendiente de confirmar mediante registros civiles:
 
-- fecha completa de nacimiento de Juan Carlos;
-- matrimonio o unión con Leida Pernett;
-- fechas y lugares de nacimiento de Zilia, Vanessa y Alejandro;
+- fecha completa y lugar de nacimiento de Juan Carlos;
+- matrimonio o unión con Leyda del Carmen Pernett Cárdenas;
+- registro civil de Leyda;
+- registro civil de Zilia Valderrama Pernett;
+- fechas y lugares de nacimiento de Vanessa y Alejandro;
 - cualquier otra información biográfica relevante que la familia quiera incorporar.
+
+### Testimonio oral de Juan Carlos sobre la fratría Martínez Cabrales
+
+Juan Carlos Valderrama Martínez aporta además un testimonio oral sobre los hijos de sus abuelos maternos, **Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda**. Señala que **Gabriel Ignacio Martínez Cabrales fue el primero / hijo mayor**, y recuerda también a Eusebio, Juan, Guillermo, Luz Marina, Zilia y Gustavo, sin poder precisar el orden de nacimiento posterior.
+
+Expediente del testimonio: [`../entrevistas/testimonio-juan-carlos-valderrama-martinez.md`](../entrevistas/testimonio-juan-carlos-valderrama-martinez.md).
 
 ---
 
@@ -83,16 +109,23 @@ Pendiente de confirmar mediante registros civiles:
 ```text
 Mario Gerardo Valderrama Mutis × Zilia Margarita Martínez Cabrales
                               │
-          ┌───────────────────┼────────────────────┐
-          │                   │                    │
-Mario Gerardo             Gabriel José        Juan Carlos
-Valderrama Martínez       Valderrama Martínez  Valderrama Martínez
-n. 1962                   │                    n. 1966
-f. año pendiente          │                    × Leida Pernett
-          │               │                    │
-          │               └── Juan Pablo       ├── Zilia Valderrama Pernett
-          │                   Valderrama Pino   ├── Vanessa Valderrama Pernett
-          │                                    └── Alejandro Valderrama Pernett
+          ┌───────────────────┼───────────────────────────┐
+          │                   │                           │
+Mario Gerardo             Gabriel José               Juan Carlos
+Valderrama Martínez       Valderrama Martínez         Valderrama Martínez
+n. 1962                   × María del Rosario         n. 1966
+f. año pendiente            Pino Bechara              × Leyda del Carmen
+          │                   │                         Pernett Cárdenas
+          │                   ├── Juan Pablo            n. 31 oct 1967
+          │                   │   Valderrama Pino             │
+          │                   │   n. 7 feb 1992               ├── Zilia Valderrama Pernett
+          │                   ├── Gabriel Andrés               │   n. 12 mar 1995
+          │                   │   Valderrama Pino              ├── Vanessa Valderrama Pernett
+          │                   │   n. 25 ago 1995               │   fecha pendiente
+          │                   └── Jacobo José                  └── Alejandro Valderrama Pernett
+          │                       Valderrama Pino                   fecha pendiente
+          │                       n. 3 ene 2003
+          │
           ├── Zilia Valderrama [2.º apellido ?]
           ├── Sebastián Valderrama [2.º apellido ?]
           └── otros hijos no identificados
@@ -111,9 +144,16 @@ f. año pendiente          │                    × Leida Pernett
 | Zilia Valderrama es hija de Mario Gerardo | C | memoria familiar | registro civil |
 | Sebastián Valderrama es hijo de Mario Gerardo | C | memoria familiar | registro civil |
 | Existen otros hijos de Mario Gerardo todavía no identificados | C | memoria familiar | entrevistas + registros |
+| Gabriel José se casó con María del Rosario Pino Bechara | C fuerte | información familiar directa | registro matrimonial |
+| Juan Pablo, Gabriel Andrés y Jacobo José son hijos de Gabriel José y María del Rosario | C fuerte | información familiar directa | registros civiles |
+| Juan Pablo nació el 7 de febrero de 1992 | C fuerte | información familiar directa | registro civil |
+| Gabriel Andrés nació el 25 de agosto de 1995 | C fuerte | información familiar directa | registro civil |
+| Jacobo José nació el 3 de enero de 2003 | C fuerte | información familiar directa | registro civil |
 | Juan Carlos Valderrama Martínez nació en 1966 | C | memoria familiar | registro civil |
-| Juan Carlos se casó/unió con Leida Pernett | C fuerte | memoria familiar | registro de matrimonio / documentos civiles |
-| Zilia, Vanessa y Alejandro Valderrama Pernett son hijos de Juan Carlos y Leida | C fuerte | memoria familiar | registros civiles |
+| La esposa de Juan Carlos es Leyda del Carmen Pernett Cárdenas | C fuerte | información familiar directa | matrimonio / documentos civiles |
+| Leyda nació el 31 de octubre de 1967 | C fuerte | información familiar directa | registro civil |
+| Zilia, Vanessa y Alejandro Valderrama Pernett son hijos de Juan Carlos y Leyda | C fuerte | información familiar directa | registros civiles |
+| Zilia Valderrama Pernett nació el 12 de marzo de 1995 | C fuerte | información familiar directa | registro civil |
 
 ---
 
@@ -127,11 +167,18 @@ f. año pendiente          │                    × Leida Pernett
 - identificar segundos apellidos de Zilia y Sebastián;
 - identificar a los demás hijos conocidos por la familia.
 
-### P1 — Juan Carlos Valderrama Martínez × Leida Pernett
+### P1 — Gabriel José Valderrama Martínez × María del Rosario Pino Bechara
+
+- localizar el registro de matrimonio o unión documentada;
+- confirmar mediante registros civiles a **Juan Pablo**, **Gabriel Andrés** y **Jacobo José Valderrama Pino**.
+
+### P1 — Juan Carlos Valderrama Martínez × Leyda del Carmen Pernett Cárdenas
 
 - confirmar fecha completa y lugar de nacimiento de Juan Carlos;
-- localizar matrimonio o unión documentada con Leida Pernett;
-- confirmar filiación de Zilia, Vanessa y Alejandro Valderrama Pernett mediante registros primarios.
+- localizar matrimonio o unión documentada con Leyda;
+- confirmar nacimiento de Leyda el 31 de octubre de 1967;
+- confirmar filiación de Zilia, Vanessa y Alejandro Valderrama Pernett mediante registros primarios;
+- determinar las fechas de nacimiento de Vanessa y Alejandro.
 
 ### P1 — Integración intergeneracional
 
