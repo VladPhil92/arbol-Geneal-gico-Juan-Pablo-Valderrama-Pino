@@ -11,6 +11,8 @@ on:
       - 'familias/**'
       - 'entrevistas/**'
       - 'fuentes/**'
+      - 'agent/**'
+      - '.github/workflows/genealogy-agent.yml'
       - 'PROMPT_MAESTRO.md'
   workflow_dispatch:
     inputs:
