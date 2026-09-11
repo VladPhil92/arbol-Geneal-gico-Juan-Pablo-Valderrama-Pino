@@ -1,0 +1,59 @@
+{
+  "topics": [
+    {
+      "id": "valderrama_ordonez_primary",
+      "title": "Valderrama–Ordóñez: documentos primarios",
+      "query": "Buscar registros primarios o referencias archivísticas para Ricardo Valderrama Valderrama, Celia Ordóñez Bretón, Mario Valderrama Ordóñez y sus hermanos. Priorizar Bucaramanga, Santander, Sopetrán y Antioquia. Resolver especialmente la controversia Ricardo Valderrama Valderrama vs. Ricardo Valderrama O'Leary."
+    },
+    {
+      "id": "mutis_santander",
+      "title": "Mutis de Santander",
+      "query": "Profundizar la cadena Manuel Mutis Bossio -> Facundo Primitivo Mutis Consuegra -> Ricardo Mutis Troyano -> Luis Eduardo Mutis Collazos -> Dolores Rosa Mutis Uribe. Buscar registros primarios, publicaciones académicas y archivos regionales."
+    },
+    {
+      "id": "mario_gerardo",
+      "title": "Mario Gerardo Valderrama Mutis",
+      "query": "Localizar evidencia sobre nacimiento, hermanos, padres, matrimonio, carrera y registros de Armada Nacional de Mario Gerardo Valderrama Mutis. Contrastar posibles datos de Bucaramanga, Cartagena y Escuela Naval."
+    },
+    {
+      "id": "siblings_valderrama_mutis",
+      "title": "Hermanos Valderrama Mutis",
+      "query": "Verificar la descendencia de Mario Valderrama Ordóñez y Dolores Rosa Mutis Uribe: Mario Gerardo, Francisco, Carmenza, Mariela, Lyda Inés, Lucy y cualquier otro hijo. Buscar obituarios, matrimonios y documentos independientes."
+    },
+    {
+      "id": "pedro_augusto",
+      "title": "Pedro Gómez Valderrama y Augusto Espinosa Valderrama",
+      "query": "Comprobar con fuentes de alta calidad la filiación de Pedro Gómez Valderrama y Augusto Espinosa Valderrama respecto de Lucía e Isabel Valderrama Ordóñez y documentar el parentesco con Mario Gerardo Valderrama Mutis."
+    },
+    {
+      "id": "alvaro_mutis",
+      "title": "Álvaro Mutis y la rama de Facundo",
+      "query": "Verificar generación por generación la rama Facundo Primitivo Mutis Consuegra -> Domingo Mutis Amaya -> Pedro Manuel Mutis Durán -> Santiago Mutis Dávila -> Álvaro Mutis Jaramillo y calcular el parentesco con Mario Gerardo Valderrama Mutis."
+    },
+    {
+      "id": "aurelio_martinez_mutis",
+      "title": "Aurelio Martínez Mutis",
+      "query": "Verificar la rama Mutis que conduce a Aurelio Martínez Mutis, su relación con Paulina Martínez Mutis y Jesús Valderrama Ordóñez, manteniéndola separada de la familia Martínez Cabrales de Zilia."
+    },
+    {
+      "id": "martinez_cabrales",
+      "title": "Martínez–Cabrales",
+      "query": "Buscar documentación sobre Zilia Margarita Martínez Cabrales, Gabriel María Martínez Lugo, Zoila Margarita Cabrales Pineda y ascendientes Martínez, Lugo, Cabrales, Pineda y Sossa. Resolver lugar de nacimiento de Zilia y completar hermanos."
+    },
+    {
+      "id": "fajardo_sopetran",
+      "title": "Valderrama de Sopetrán y Sergio Fajardo",
+      "query": "Identificar padres y abuelos de María Elena 'Mara' Valderrama Tobón y Jairo Valderrama Tobón. Reconstruir la rama Valderrama de Sopetrán y buscar el punto de convergencia, si existe, con Elciario Valderrama Pinzón o ascendientes de Ricardo Valderrama Valderrama. No asumir parentesco por apellido."
+    },
+    {
+      "id": "farah_mizrahy",
+      "title": "Farah–Mizrahy",
+      "query": "Investigar documentalmente a Diana Farah Mizrahy y variantes ortográficas Farah/Mizrahy/Mizrahi/Mizrachi, buscando padres, abuelos, migración y asentamiento en Colombia sin inferir origen étnico o religioso por apellido."
+    },
+    {
+      "id": "pino_bechara",
+      "title": "Pino–Bechara–Kahtouny",
+      "query": "Buscar información verificable sobre Marco Tulio Pino Uribe y Hortensia Bechara Kahtouny, variantes del apellido Kahtouny y documentación relevante de la filiación adoptiva de María del Rosario Pino Bechara, respetando privacidad."
+    }
+  ]
+}
