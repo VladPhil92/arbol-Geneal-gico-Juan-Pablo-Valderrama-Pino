@@ -17,6 +17,10 @@ Gabriel María Martínez Sossa
         │
 Gabriel María Martínez Lugo ───── Zoila Margarita Cabrales Pineda
         │
+        ├── Gabriel Ignacio Martínez Cabrales [hijo mayor según Juan Carlos]
+        ├── Eusebio Martínez Cabrales
+        ├── Juan Martínez Cabrales
+        ├── Guillermo Martínez Cabrales
         ├── Luz Marina del Rosario “Mara” Martínez Cabrales
         │        │
         │        ├── padre de Mara del Carmen: ? Mogollón
@@ -28,17 +32,24 @@ Gabriel María Martínez Lugo ───── Zoila Margarita Cabrales Pineda
         │        │
         │        └── Gabriel José Valderrama Martínez
         │                 │
-        │                 └── Juan Pablo Valderrama Pino
+        │                 ├── Juan Pablo Valderrama Pino
+        │                 ├── Gabriel Andrés Valderrama Pino
+        │                 └── Jacobo José Valderrama Pino
         │
-        └── otros hermanos Martínez Cabrales
+        └── Gustavo Adolfo Martínez Cabrales
 ```
+
+> **Importante:** el esquema anterior no pretende fijar el orden de nacimiento de los hermanos después de Gabriel Ignacio. Solo **Gabriel Ignacio** ha sido señalado expresamente como el primero / hijo mayor por Juan Carlos Valderrama Martínez.
 
 ## Matriz de evidencia
 
 | Eslabón | Estado | Evidencia actual | Documento prioritario |
 |---|---|---|---|
 | Zilia → Gabriel José | C fuerte | memoria familiar directa | registro civil de Gabriel José / Zilia |
-| Gabriel María Martínez Lugo + Zoila Margarita Cabrales Pineda → Zilia | B/D | Genealogías de Cartagena y reconstrucciones regionales | registro de Zilia + matrimonio de los padres |
+| Gabriel María Martínez Lugo + Zoila Margarita Cabrales Pineda → Zilia | B/C | genealogía secundaria + memoria familiar directa | registro de Zilia + matrimonio de los padres |
+| Gabriel María Martínez Lugo + Zoila Margarita Cabrales Pineda → Gabriel Ignacio, Eusebio, Juan, Guillermo, Luz Marina, Zilia y Gustavo | B/C fuerte | genealogía secundaria concordante + testimonio oral de Juan Carlos Valderrama Martínez | registros civiles/bautismales de la fratría |
+| Gabriel Ignacio Martínez Cabrales fue el hijo mayor | C fuerte | testimonio oral directo de Juan Carlos Valderrama Martínez | registros civiles/bautismales ordenados por fecha |
+| Orden de nacimiento de los otros seis hermanos | E | Juan Carlos declara no recordarlo | registros civiles/bautismales |
 | Gabriel María Martínez Lugo + Zoila Margarita Cabrales Pineda → Luz Marina del Rosario “Mara” Martínez Cabrales | B/C fuerte | genealogía secundaria incluye a `Mara`; familia identifica Mara = Luz Marina del Rosario; nombre completo corroborado externamente en Colpensiones | registro civil/bautismo de Luz Marina |
 | Luz Marina del Rosario “Mara” Martínez Cabrales → Mara del Carmen Martínez Martínez | C fuerte | información familiar directa | registro civil de nacimiento de Mara del Carmen |
 | Mara del Carmen Martínez Martínez nació el 13 de julio de 1978 | C fuerte | información familiar directa | registro civil/bautismo |
@@ -71,9 +82,25 @@ Estado: **X — controvertido** hasta localizar registro civil o bautismo.
 
 Estado: **X — controvertido**. La partida matrimonial debe resolver nombre y filiación.
 
-### Fratría de Zilia — resolución de la identidad de Mara
+## Fratría de Zilia — fuentes concordantes y orden parcial
 
 La fuente de Cartagena enumera siete hijos de **Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda**: Mara, Eusebio, Guillermo, Gabriel Ignacio, Zilia, Gustavo Adolfo y Juan.
+
+El testimonio oral de **Juan Carlos Valderrama Martínez**, nieto de la pareja e hijo de Zilia, confirma por memoria familiar los mismos siete hermanos. Su declaración registrada en el proyecto es:
+
+> “De los hijos de mi abuelo Gabriel Martínez Lugo y de Zoila Cabrales Pineda, el primero era Gabriel Ignacio, de ahí pa abajo no sé el orden pero estaba mi tío Eusebio, mi tio Juan, Guillermo, Luz Marina, Zilia mi mamá, mi tío Gustavo”.
+
+Expediente del testimonio: [`../entrevistas/testimonio-juan-carlos-valderrama-martinez.md`](../entrevistas/testimonio-juan-carlos-valderrama-martinez.md).
+
+### Consecuencia probatoria
+
+La coincidencia entre la genealogía secundaria y el testimonio familiar refuerza la composición básica de la fratría. El aporte nuevo de Juan Carlos es que **Gabriel Ignacio Martínez Cabrales habría sido el hijo mayor**.
+
+No debe inferirse el orden de nacimiento de los seis hermanos restantes. Juan Carlos manifiesta expresamente que no lo recuerda.
+
+Estado de `Gabriel Ignacio = hijo mayor`: **C fuerte**, pendiente de verificación mediante registros civiles/bautismales.
+
+### Identidad de Mara
 
 La familia ha precisado que:
 
@@ -105,6 +132,16 @@ El hecho de que Mara del Carmen sea conocida con los apellidos `Martínez Martí
 
 Expediente específico: [`luz-marina-del-rosario-martinez-cabrales.md`](luz-marina-del-rosario-martinez-cabrales.md).
 
+## Descendencia inmediata de Zilia Margarita Martínez Cabrales
+
+La información familiar directa registra a **Gabriel José Valderrama Martínez**, hijo de Zilia Margarita Martínez Cabrales y Mario Gerardo Valderrama Mutis. Gabriel José se casó con **María del Rosario Pino Bechara** y tuvieron tres hijos:
+
+- **Juan Pablo Valderrama Pino**, n. **7 de febrero de 1992**;
+- **Gabriel Andrés Valderrama Pino**, n. **25 de agosto de 1995**;
+- **Jacobo José Valderrama Pino**, n. **3 de enero de 2003**.
+
+Esta información está desarrollada en [`../familias/valderrama-martinez.md`](../familias/valderrama-martinez.md).
+
 ## Fuentes históricas de mayor peso
 
 1. Banco de la República — María Teresa Ripoll de Lemaitre, *La actividad empresarial de Diego Martínez Camargo, 1890–1937*.
@@ -113,23 +150,25 @@ Expediente específico: [`luz-marina-del-rosario-martinez-cabrales.md`](luz-mari
 4. Genealogías de Colombia — fichas Cabrales, Pineda y ramas relacionadas.
 5. FamilySearch — únicamente como pista cuando existe referencia a registros subyacentes.
 6. Colpensiones — aviso de solicitudes de reconocimiento 2014/2015 con la entrada exacta `MARTINEZ CABRALES LUZ MARINA DEL ROSARIO`.
+7. Testimonio oral de Juan Carlos Valderrama Martínez — memoria directa de la fratría Martínez Cabrales y afirmación de Gabriel Ignacio como hijo mayor.
 
 ## Próximos objetivos probatorios
 
 1. Registro civil/bautismo de Zilia Margarita Martínez Cabrales.
-2. **Registro civil/bautismo de Luz Marina del Rosario “Mara” Martínez Cabrales, nacida según memoria familiar el 29 de noviembre de 1941.**
-3. **Registro civil/bautismo de Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978, para confirmar filiación materna y verificar la pista de un padre de apellido Mogollón.**
-4. **Documento de reconocimiento, legitimación o anotación marginal que pueda identificar al padre de Mara del Carmen.**
-5. **Documento que vincule explícitamente el nombre completo Luz Marina del Rosario con el apelativo familiar Mara.**
-6. **Expediente laboral que compruebe la tradición familiar de que Mara/Luz Marina trabajó en el Aeropuerto de Cartagena, priorizando ECA, DAAC, FAN, Aerocivil y operadores/aerolíneas del aeropuerto.**
-7. Matrimonio Gabriel María Martínez Lugo–Zoila Margarita Cabrales Pineda.
-8. Partida de Gabriel María Martínez Lugo.
-9. Registros de Gabriel María Martínez Sossa y Diego Ángel Martínez de Lora.
-10. Partida matrimonial de José Casiano Martínez Maijel.
-11. Registro de Zoila Margarita Cabrales Pineda.
-12. Documentación municipal de Ignacio José Cabrales González como alcalde de Montería.
-13. Partidas de Ignacio José Cabrales Lora y Manuel José Cabrales de Armesto.
-14. Registros de Eusebio José Pineda del Toro y Lorenza Pineda Vélez.
+2. **Registros civiles/bautismales de los siete hermanos Martínez Cabrales para comprobar que Gabriel Ignacio fue el mayor y reconstruir el orden completo de nacimiento.**
+3. **Registro civil/bautismo de Luz Marina del Rosario “Mara” Martínez Cabrales, nacida según memoria familiar el 29 de noviembre de 1941.**
+4. **Registro civil/bautismo de Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978, para confirmar filiación materna y verificar la pista de un padre de apellido Mogollón.**
+5. **Documento de reconocimiento, legitimación o anotación marginal que pueda identificar al padre de Mara del Carmen.**
+6. **Documento que vincule explícitamente el nombre completo Luz Marina del Rosario con el apelativo familiar Mara.**
+7. **Expediente laboral que compruebe la tradición familiar de que Mara/Luz Marina trabajó en el Aeropuerto de Cartagena, priorizando ECA, DAAC, FAN, Aerocivil y operadores/aerolíneas del aeropuerto.**
+8. Matrimonio Gabriel María Martínez Lugo–Zoila Margarita Cabrales Pineda.
+9. Partida de Gabriel María Martínez Lugo.
+10. Registros de Gabriel María Martínez Sossa y Diego Ángel Martínez de Lora.
+11. Partida matrimonial de José Casiano Martínez Maijel.
+12. Registro de Zoila Margarita Cabrales Pineda.
+13. Documentación municipal de Ignacio José Cabrales González como alcalde de Montería.
+14. Partidas de Ignacio José Cabrales Lora y Manuel José Cabrales de Armesto.
+15. Registros de Eusebio José Pineda del Toro y Lorenza Pineda Vélez.
 
 ## Regla
 
