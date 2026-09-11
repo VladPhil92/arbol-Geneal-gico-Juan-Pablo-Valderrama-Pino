@@ -27,9 +27,11 @@ Cuando una relación todavía requiere una partida, registro civil, archivo parr
 10. [Del árbol de José Celestino Mutis al tronco bumangués: el linaje compartido](10_del_arbol_de_celestino_mutis_al_tronco_bumangues.md)
 11. [José Celestino, Manuel e Ignacia: una red familiar entre ciencia, educación y Bucaramanga](11_jose_celestino_manuel_e_ignacia_una_red_familiar.md)
 12. [De Facundo a Dolores Rosa: la cadena Mutis que conduce a los Valderrama](12_de_facundo_a_dolores_rosa_la_cadena_mutis.md)
-13. [Los Martínez del Sinú: de Cartagena a Lorica, entre Independencia, comercio y ganadería](13_los_martinez_del_sinu_de_cartagena_a_lorica.md) — **nuevo**
-14. [Los Cabrales–Pineda de Montería: ganadería, vida municipal y redes familiares del Sinú](14_los_cabrales_pineda_de_monteria.md) — **nuevo**
-15. [Zilia Margarita Martínez Cabrales: entre Cartagena y el Sinú](15_zilia_martinez_cabrales_entre_cartagena_y_el_sinu.md) — **nuevo**
+13. [Los Martínez del Sinú: de Cartagena a Lorica, entre Independencia, comercio y ganadería](13_los_martinez_del_sinu_de_cartagena_a_lorica.md)
+14. [Los Cabrales–Pineda de Montería: ganadería, vida municipal y redes familiares del Sinú](14_los_cabrales_pineda_de_monteria.md)
+15. [Zilia Margarita Martínez Cabrales: entre Cartagena y el Sinú](15_zilia_martinez_cabrales_entre_cartagena_y_el_sinu.md)
+16. [Personajes clave del linaje Martínez–Cabrales](16_personajes_clave_del_linaje_martinez_cabrales.md) — **nuevo**
+17. [Guillermo “Chicle Bomba” Martínez Cabrales y David Sánchez Juliao](17_guillermo_chicle_bomba_martinez_cabrales_y_david_sanchez_juliao.md) — **nuevo**
 
 ## Dossier Mutis
 
@@ -37,17 +39,24 @@ Los textos **3, 9, 10, 11 y 12** forman un dossier específico sobre la rama Mut
 
 ## Dossier Martínez–Cabrales
 
-Los textos **5, 13, 14 y 15** forman el nuevo dossier de la rama de Zilia Margarita Martínez Cabrales. En conjunto permiten estudiar:
+Los textos **5, 13, 14, 15, 16 y 17** forman el dossier de la rama de Zilia Margarita Martínez Cabrales. En conjunto permiten estudiar:
 
 1. **La línea Martínez:** José Casiano Martínez Maijel → Antonio María Martínez Fernández → Diego Ángel Martínez de Lora → Gabriel María Martínez Sossa → Gabriel María Martínez Lugo → Zilia.
 2. **El contexto histórico:** Independencia, desplazamiento Cartagena–Lorica, comercio de importación, ganadería y formación de empresas familiares en el Sinú.
 3. **La línea Cabrales:** Manuel José de la Trinidad Cabrales de Armesto → Ignacio José Cabrales Lora → Ignacio José Cabrales González → Zoila Margarita Cabrales Pineda → Zilia.
 4. **La línea Pineda:** Nicolás José Pineda de Lora → Eusebio José Pineda del Toro → Lorenza Pineda Vélez → Zoila Margarita Cabrales Pineda.
-5. **La geografía familiar:** Ocaña, Cartagena, Lorica, Montería y el barrio La Ceiba.
-6. **La historia oral viva:** Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez como fuentes clave para verificar la fratría y recuperar documentos familiares.
-7. **Las contradicciones abiertas:** lugar de nacimiento de Zilia, variantes de nombres y composición completa de la fratría.
+5. **La geografía familiar:** Ocaña, Cartagena, Lorica, Montería, Manga y el barrio La Ceiba.
+6. **Personajes históricos:** José Casiano, Antonio María, Diego Ángel, Gabriel María Martínez Sossa, Ignacio José Cabrales González y otros miembros que participaron en guerra, comercio, ganadería o vida municipal.
+7. **La cultura oral del Bajo Sinú:** Guillermo “Chicle Bomba” Martínez Cabrales, hermano de Zilia, alcalde de Lorica y contertulio de David Sánchez Juliao.
+8. **La conexión literaria:** el apodo atribuido a Sánchez Juliao, la tertulia del Tuqui Tuqui y la presencia de “Chicle Bomba” dentro del universo narrativo asociado a _El Flecha_.
+9. **La historia oral viva:** Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez como fuentes clave para verificar la fratría y recuperar documentos familiares.
+10. **Las contradicciones abiertas:** lugar de nacimiento de Zilia, variantes de nombres, composición completa de la fratría y fechas/cargos que todavía requieren documentos primarios.
 
-El dossier cuenta con una matriz de evidencia en [`../investigacion/linaje-martinez-cabrales_generacion_por_generacion.md`](../investigacion/linaje-martinez-cabrales_generacion_por_generacion.md) y un inventario específico en [`../fuentes/martinez-cabrales.md`](../fuentes/martinez-cabrales.md).
+El dossier cuenta con:
+
+- matriz genealógica: [`../investigacion/linaje-martinez-cabrales_generacion_por_generacion.md`](../investigacion/linaje-martinez-cabrales_generacion_por_generacion.md)
+- expediente Chicle Bomba: [`../investigacion/guillermo-chicle-bomba-martinez-cabrales.md`](../investigacion/guillermo-chicle-bomba-martinez-cabrales.md)
+- inventario de fuentes: [`../fuentes/martinez-cabrales.md`](../fuentes/martinez-cabrales.md)
 
 ## Núcleo Valderrama–Mutis
 
