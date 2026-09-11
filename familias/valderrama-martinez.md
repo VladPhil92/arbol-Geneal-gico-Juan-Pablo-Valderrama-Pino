@@ -66,12 +66,16 @@ Pendiente de confirmar mediante registros civiles y matrimoniales:
 
 ---
 
-### 3. Juan Carlos Valderrama Martínez
+### 3. Juan Carlos “Chanchy” Valderrama Martínez
 
+- Nombre civil: **Juan Carlos Valderrama Martínez**.
+- Apodo familiar: **“Chanchy”** — C, información familiar directa.
 - Nacimiento: **1966** — C, información familiar directa.
 - Padres: **Mario Gerardo Valderrama Mutis × Zilia Margarita Martínez Cabrales**.
 - Hermano de **Gabriel José Valderrama Martínez** y **Mario Gerardo Valderrama Martínez**.
 - Cónyuge: **Leyda del Carmen Pernett Cárdenas**.
+
+El apodo `Chanchy` debe conservarse como identificador familiar y no sustituye el nombre civil en documentos o búsquedas formales.
 
 ### Leyda del Carmen Pernett Cárdenas
 
@@ -82,18 +86,20 @@ Pendiente de confirmar mediante registros civiles y matrimoniales:
 La familia identifica tres hijos:
 
 1. **Zilia Valderrama Pernett**, n. **12 de marzo de 1995**.
-2. **Vanessa Valderrama Pernett**, fecha de nacimiento pendiente.
-3. **Alejandro Valderrama Pernett**, fecha de nacimiento pendiente.
+2. **Alejandro Valderrama Pernett**, n. **24 de julio de 1999**.
+3. **Vanessa Valderrama Pernett**, n. **27 de julio de 2001**.
 
-Estado: **C fuerte — información familiar directa**.
+Estado: **C fuerte — información familiar directa**, con las fechas de Alejandro y Vanessa comunicadas directamente por Juan Carlos “Chanchy” Valderrama Martínez el **11 de septiembre de 2026**.
+
+> Nota de transcripción: en el mensaje de WhatsApp Juan Carlos escribió `Vanesa`; el proyecto conserva provisionalmente la forma ya suministrada por la familia, **Vanessa Valderrama Pernett**, hasta que un registro civil confirme la ortografía legal del nombre.
 
 Pendiente de confirmar mediante registros civiles:
 
 - fecha completa y lugar de nacimiento de Juan Carlos;
 - matrimonio o unión con Leyda del Carmen Pernett Cárdenas;
 - registro civil de Leyda;
-- registro civil de Zilia Valderrama Pernett;
-- fechas y lugares de nacimiento de Vanessa y Alejandro;
+- registros civiles de Zilia, Alejandro y Vanessa;
+- ortografía civil exacta de `Vanessa/Vanesa`;
 - cualquier otra información biográfica relevante que la familia quiera incorporar.
 
 ### Testimonio oral de Juan Carlos sobre la fratría Martínez Cabrales
@@ -111,7 +117,7 @@ Mario Gerardo Valderrama Mutis × Zilia Margarita Martínez Cabrales
                               │
           ┌───────────────────┼───────────────────────────┐
           │                   │                           │
-Mario Gerardo             Gabriel José               Juan Carlos
+Mario Gerardo             Gabriel José               Juan Carlos “Chanchy”
 Valderrama Martínez       Valderrama Martínez         Valderrama Martínez
 n. 1962                   × María del Rosario         n. 1966
 f. año pendiente            Pino Bechara              × Leyda del Carmen
@@ -120,10 +126,10 @@ f. año pendiente            Pino Bechara              × Leyda del Carmen
           │                   │   Valderrama Pino             │
           │                   │   n. 7 feb 1992               ├── Zilia Valderrama Pernett
           │                   ├── Gabriel Andrés               │   n. 12 mar 1995
-          │                   │   Valderrama Pino              ├── Vanessa Valderrama Pernett
-          │                   │   n. 25 ago 1995               │   fecha pendiente
-          │                   └── Jacobo José                  └── Alejandro Valderrama Pernett
-          │                       Valderrama Pino                   fecha pendiente
+          │                   │   Valderrama Pino              ├── Alejandro Valderrama Pernett
+          │                   │   n. 25 ago 1995               │   n. 24 jul 1999
+          │                   └── Jacobo José                  └── Vanessa Valderrama Pernett
+          │                       Valderrama Pino                   n. 27 jul 2001
           │                       n. 3 ene 2003
           │
           ├── Zilia Valderrama [2.º apellido ?]
@@ -149,11 +155,14 @@ f. año pendiente            Pino Bechara              × Leyda del Carmen
 | Juan Pablo nació el 7 de febrero de 1992 | C fuerte | información familiar directa | registro civil |
 | Gabriel Andrés nació el 25 de agosto de 1995 | C fuerte | información familiar directa | registro civil |
 | Jacobo José nació el 3 de enero de 2003 | C fuerte | información familiar directa | registro civil |
+| Juan Carlos Valderrama Martínez es conocido familiarmente como “Chanchy” | C fuerte | información familiar directa | entrevistas / documentos familiares si existen |
 | Juan Carlos Valderrama Martínez nació en 1966 | C | memoria familiar | registro civil |
 | La esposa de Juan Carlos es Leyda del Carmen Pernett Cárdenas | C fuerte | información familiar directa | matrimonio / documentos civiles |
 | Leyda nació el 31 de octubre de 1967 | C fuerte | información familiar directa | registro civil |
-| Zilia, Vanessa y Alejandro Valderrama Pernett son hijos de Juan Carlos y Leyda | C fuerte | información familiar directa | registros civiles |
+| Zilia, Alejandro y Vanessa Valderrama Pernett son hijos de Juan Carlos y Leyda | C fuerte | información familiar directa | registros civiles |
 | Zilia Valderrama Pernett nació el 12 de marzo de 1995 | C fuerte | información familiar directa | registro civil |
+| Alejandro Valderrama Pernett nació el 24 de julio de 1999 | C fuerte | dato comunicado por Juan Carlos | registro civil |
+| Vanessa Valderrama Pernett nació el 27 de julio de 2001 | C fuerte | dato comunicado por Juan Carlos | registro civil |
 
 ---
 
@@ -177,8 +186,8 @@ f. año pendiente            Pino Bechara              × Leyda del Carmen
 - confirmar fecha completa y lugar de nacimiento de Juan Carlos;
 - localizar matrimonio o unión documentada con Leyda;
 - confirmar nacimiento de Leyda el 31 de octubre de 1967;
-- confirmar filiación de Zilia, Vanessa y Alejandro Valderrama Pernett mediante registros primarios;
-- determinar las fechas de nacimiento de Vanessa y Alejandro.
+- confirmar mediante registros primarios a **Zilia (12 mar 1995)**, **Alejandro (24 jul 1999)** y **Vanessa/Vanesa (27 jul 2001)**;
+- fijar la ortografía civil exacta de Vanessa/Vanesa.
 
 ### P1 — Integración intergeneracional
 
