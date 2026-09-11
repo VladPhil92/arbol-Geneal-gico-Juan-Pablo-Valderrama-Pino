@@ -39,7 +39,7 @@ Hijos:
 
 Hermanos identificados por la familia:
 - **Mario Gerardo Valderrama Martínez**, nacido en **1962**, fallecido en año todavía pendiente de confirmar.
-- **Juan Carlos Valderrama Martínez**, nacido en **1966**, casado con **Leyda del Carmen Pernett Cárdenas**.
+- **Juan Carlos “Chanchy” Valderrama Martínez**, nacido en **1966**, casado con **Leyda del Carmen Pernett Cárdenas**.
 
 Expediente de esta generación: [`valderrama-martinez.md`](valderrama-martinez.md).
 
@@ -50,14 +50,16 @@ La familia informa que tuvo varios hijos. Hasta ahora se conocen:
 - **Sebastián Valderrama [segundo apellido desconocido]**.
 - otros hijos cuya existencia es conocida, pero cuyas identidades están pendientes.
 
-### Rama de Juan Carlos Valderrama Martínez × Leyda del Carmen Pernett Cárdenas
+### Rama de Juan Carlos “Chanchy” Valderrama Martínez × Leyda del Carmen Pernett Cárdenas
 
 **Leyda del Carmen Pernett Cárdenas**, n. **31 de octubre de 1967**.
 
 Hijos:
 - **Zilia Valderrama Pernett**, n. **12 de marzo de 1995**.
-- **Vanessa Valderrama Pernett**, fecha de nacimiento pendiente.
-- **Alejandro Valderrama Pernett**, fecha de nacimiento pendiente.
+- **Alejandro Valderrama Pernett**, n. **24 de julio de 1999**.
+- **Vanessa Valderrama Pernett**, n. **27 de julio de 2001**.
+
+Juan Carlos es conocido familiarmente como **“Chanchy”**. En una etiqueta de contacto de mensajería aparece `Tio Chanchi`; se conserva **Chanchy** como forma familiar principal y `Chanchi` solo como variante gráfica observada en esa etiqueta.
 
 Juan Carlos ha aportado además testimonio oral directo sobre la fratría de su madre, Zilia Margarita Martínez Cabrales. Señala a **Gabriel Ignacio Martínez Cabrales como el hijo mayor** de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda, y recuerda también a Eusebio, Juan, Guillermo, Luz Marina, Zilia y Gustavo, sin poder precisar el orden posterior.
 
