@@ -12,9 +12,10 @@ Esta investigación reconstruye la vida de **Luz Marina del Rosario Martínez Ca
 - Fecha de nacimiento: **29 de noviembre de 1941**.
 - Hermana de **Zilia Margarita Martínez Cabrales**.
 - Hija, según la estructura familiar ya documentada, de **Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda**.
+- Tuvo **una única hija: Mara del Carmen Martínez Martínez**, nacida el **13 de julio de 1978**.
 - Según testimonio familiar transmitido por **Gabriel José Valderrama Martínez**, trabajó en algún momento en el **Aeropuerto de Cartagena**.
 
-Estado de estos datos: **C fuerte — memoria familiar directa**, pendiente de registro civil/bautismal y expediente laboral.
+Estado de estos datos: **C fuerte — memoria familiar directa**, pendiente de registros civiles y expediente laboral.
 
 ---
 
@@ -43,7 +44,7 @@ La existencia de un trámite pensional no permite determinar por sí sola el emp
 
 ---
 
-# II. Resolución de la aparente omisión en la fratría Martínez Cabrales
+# II. Resolución de la identidad de “Mara” dentro de la fratría Martínez Cabrales
 
 La reconstrucción de **María Victoria García Azuero — “Diego Ángel Martínez Lora sus descendientes”** enumera como hijos de:
 
@@ -60,32 +61,54 @@ La reconstrucción de **María Victoria García Azuero — “Diego Ángel Mart�
 Fuente:
 https://genealogiasdecartagena.blogspot.com/2013/06/diego-angel-martinez-lora-sus.html
 
-La información familiar aclara ahora que **Mara Martínez Cabrales era Luz Marina del Rosario Martínez Cabrales**. Por tanto, la genealogía secundaria **sí contiene a Luz Marina**, pero bajo su nombre familiar `Mara`.
-
-### Consecuencia genealógica
-
-La interpretación anterior —según la cual Luz Marina era una octava hija ausente de la genealogía— queda descartada.
+La información familiar aclara que **Mara Martínez Cabrales era Luz Marina del Rosario Martínez Cabrales**. Por tanto, la genealogía secundaria sí contiene a Luz Marina, pero bajo su nombre familiar `Mara`.
 
 La lectura correcta es:
 
 **Mara Martínez Cabrales = Luz Marina del Rosario Martínez Cabrales**.
 
-En consecuencia, no debe duplicarse a Mara y Luz Marina como dos hermanas diferentes.
-
-Estado de la equivalencia: **C fuerte — identificación familiar directa**. El objetivo documental es encontrar un registro, nota social, obituario, matrimonio u otra fuente que utilice conjuntamente el nombre completo y el apelativo `Mara`.
+Estado de la equivalencia: **C fuerte — identificación familiar directa**.
 
 ### Riesgo de confusión con una homónima familiar
 
-La misma genealogía registra a una **Luz Marina Martínez Lugo**, nacida el **2 de octubre de 1904**, hermana de Gabriel María Martínez Lugo. Esta mujer pertenece a la generación anterior y sería tía de los Martínez Cabrales.
-
-No debe confundirse:
-
-- **Luz Marina Martínez Lugo (1904)** — hermana de Gabriel María Martínez Lugo;
-- **Luz Marina del Rosario “Mara” Martínez Cabrales (1941)** — hija de Gabriel María Martínez Lugo y hermana de Zilia.
+Debe mantenerse separada de **Luz Marina Martínez Lugo**, nacida el **2 de octubre de 1904**, hermana de Gabriel María Martínez Lugo y perteneciente a la generación anterior.
 
 ---
 
-# III. Hipótesis laboral — Aeropuerto de Cartagena
+# III. Descendencia — Mara del Carmen Martínez Martínez
+
+La familia precisa que **Luz Marina del Rosario “Mara” Martínez Cabrales tuvo una única hija**:
+
+**Mara del Carmen Martínez Martínez**  
+**n. 13 de julio de 1978**
+
+Estado: **C fuerte — información familiar directa**.
+
+Por ahora no se ha localizado en la web abierta una fuente fiable que permita elevar a nivel B/A:
+
+- su fecha y lugar exactos de registro civil;
+- el nombre de su padre;
+- el matrimonio o relación de Luz Marina del que nació;
+- otros datos biográficos de Mara del Carmen.
+
+El hecho de que sus apellidos sean `Martínez Martínez` **no autoriza a inferir la identidad de su padre**. El padre debe permanecer como dato pendiente hasta obtener un registro civil, partida de bautismo u otra fuente directa.
+
+### Relación genealógica
+
+```text
+Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda
+                         │
+          Luz Marina del Rosario “Mara” Martínez Cabrales
+                         │
+              Mara del Carmen Martínez Martínez
+                 n. 13 julio 1978
+```
+
+Mara del Carmen es, por esta línea, **sobrina de Zilia Margarita Martínez Cabrales** y **prima hermana de Gabriel José Valderrama Martínez**.
+
+---
+
+# IV. Hipótesis laboral — Aeropuerto de Cartagena
 
 La memoria familiar sostiene que **Mara / Luz Marina** trabajó en el **Aeropuerto de Cartagena**. Por ahora no se ha localizado en la web abierta una nómina, directorio, resolución, acto de nombramiento, nota de prensa o expediente que confirme directamente esa relación laboral.
 
@@ -97,7 +120,7 @@ No debe escribirse todavía que fue empleada de **Aerocivil**, **Avianca**, **EC
 
 ## Contexto institucional útil para la búsqueda
 
-La historia oficial de Aerocivil permite reconstruir los posibles marcos administrativos durante la vida laboral de Luz Marina:
+La historia oficial de Aerocivil permite reconstruir los posibles marcos administrativos durante su vida laboral:
 
 - **1954:** creación de la **Empresa Colombiana de Aeródromos (ECA)**;
 - **1960:** creación del **Departamento Administrativo de Aeronáutica Civil (DAAC)**;
@@ -107,94 +130,66 @@ La historia oficial de Aerocivil permite reconstruir los posibles marcos adminis
 Fuente oficial:
 https://www.aerocivil.gov.co/aerocivil/historia
 
-Un decreto de **1958** destinó recursos a la construcción y ampliación del **Aeropuerto de Crespo, Cartagena**, a través de la empresa estatal de aeródromos.
+Un decreto de **1958** destinó recursos a la construcción y ampliación del **Aeropuerto de Crespo, Cartagena**.
 
 Fuente:
 https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos%2F1060920
 
-Para **1995**, una ficha oficial registraba al aeropuerto **Rafael Núñez** como propiedad y explotación de Aerocivil. En septiembre de **1996** la administración terrestre pasó a un operador privado, mientras Aerocivil conservó funciones de aeronavegación.
-
-### Consecuencia metodológica
-
-Si Luz Marina comenzó a trabajar desde la década de 1960 —hipótesis cronológicamente posible por su nacimiento en 1941—, los archivos de mayor interés son **ECA, DAAC, FAN y Aerocivil**, además de los archivos laborales de aerolíneas y contratistas que operaban en Cartagena. La edad compatible no constituye prueba de contratación.
-
 ---
 
-# IV. Resultado de la búsqueda abierta
+# V. Resultado de la búsqueda abierta
 
 Se realizaron búsquedas exactas y combinadas por:
 
 - `"Luz Marina del Rosario Martínez Cabrales"`;
 - `"Mara Martínez Cabrales"`;
+- `"Mara del Carmen Martínez Martínez"`;
 - nombre + `Aerocivil`;
 - nombre + `Aeropuerto Cartagena`;
 - nombre + `Rafael Núñez`;
 - nombre + `Crespo`;
-- nombre + `Avianca`, `SAM`, `Satena`, `ECA`, `Aeronáutica Civil`;
-- nombre + nacimiento, matrimonio, obituario y fallecimiento;
-- combinación con **29 de noviembre de 1941**.
+- combinaciones con nacimiento, matrimonio, obituario y fallecimiento.
 
-No se encontró todavía una fuente abierta fiable que confirme:
+No se encontró todavía una fuente abierta fiable que confirme documentalmente:
 
-1. el nacimiento del **29 de noviembre de 1941**;
-2. los nombres de sus padres en un documento primario;
+1. el nacimiento de Luz Marina el **29 de noviembre de 1941**;
+2. sus padres en un documento primario;
 3. el uso público de `Mara` junto con su nombre completo;
 4. su cargo exacto en el aeropuerto;
 5. la entidad empleadora;
 6. fechas de ingreso y retiro;
-7. matrimonio o descendencia;
-8. fecha y lugar de fallecimiento, si ya ocurrió.
+7. el nacimiento de Mara del Carmen el **13 de julio de 1978**;
+8. el padre de Mara del Carmen;
+9. fecha y lugar de fallecimiento de Luz Marina, si ya ocurrió.
 
 ---
 
-# V. Matriz de evidencia
+# VI. Matriz de evidencia
 
 | Afirmación | Estado | Evidencia actual | Documento decisivo |
 |---|---|---|---|
 | Se llamaba Luz Marina del Rosario Martínez Cabrales | **B/C fuerte** | testimonio familiar + coincidencia oficial exacta en Colpensiones | registro civil |
 | `Mara Martínez Cabrales` = Luz Marina del Rosario Martínez Cabrales | **C fuerte** | identificación familiar directa | documento que una nombre y apelativo |
 | Nació el 29 de noviembre de 1941 | **C fuerte** | memoria familiar directa | registro civil/bautismo |
-| Fue hermana de Zilia Margarita Martínez Cabrales | **C fuerte** | memoria familiar + Mara ya aparece en genealogía secundaria de la fratría | registros de ambas con padres comunes |
+| Fue hermana de Zilia Margarita Martínez Cabrales | **C fuerte** | memoria familiar + `Mara` aparece en genealogía secundaria | registros de ambas con padres comunes |
 | Fue hija de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda | **B/C fuerte** | genealogía secundaria bajo `Mara` + identificación familiar | registro de nacimiento/bautismo |
-| La genealogía secundaria omitía a Luz Marina | **DESCARTADO** | Mara y Luz Marina son la misma persona | — |
+| Tuvo una única hija, Mara del Carmen Martínez Martínez | **C fuerte** | información familiar directa | registro civil de nacimiento de Mara del Carmen |
+| Mara del Carmen nació el 13 de julio de 1978 | **C fuerte** | información familiar directa | registro civil/bautismo |
+| Padre de Mara del Carmen | **E — desconocido** | no aportado/no localizado | registro civil |
 | Trabajó en el Aeropuerto de Cartagena | **C fuerte** | testimonio de Gabriel José Valderrama Martínez | hoja de servicios / nombramiento / certificación laboral |
 | Trabajó específicamente para Aerocivil | **E/D — no demostrado** | posible por contexto institucional | expediente laboral |
 | Tuvo trámite de reconocimiento ante Colpensiones en 2014 | **B fuerte para una homónima exacta** | publicación oficial | expediente pensional / identidad cruzada |
 
 ---
 
-# VI. Próxima fase prioritaria
+# VII. Próxima fase prioritaria
 
-## P0 — Registro civil o bautismo
-
-Buscar a **Luz Marina del Rosario Martínez Cabrales**, nacida el **29 de noviembre de 1941**, inicialmente en Cartagena y ampliando a Montería/Lorica si no aparece.
-
-Objetivo: confirmar fecha, lugar y filiación.
-
-## P0 — Archivo laboral aeronáutico
-
-Solicitar búsqueda nominal por **Luz Marina del Rosario Martínez Cabrales** y también por **Mara Martínez Cabrales** en fondos de:
-
-- Empresa Colombiana de Aeródromos (ECA);
-- Departamento Administrativo de Aeronáutica Civil (DAAC);
-- Fondo Aeronáutico Nacional (FAN);
-- Aerocivil;
-- archivo administrativo histórico del Aeropuerto de Cartagena / Rafael Núñez.
-
-Pedir específicamente hoja de vida, acto de nombramiento, acta de posesión, cargo, dependencia, lugar de prestación del servicio, fechas de ingreso y retiro e historia laboral.
-
-## P1 — Expediente pensional
-
-La coincidencia de Colpensiones debe utilizarse como pista para determinar si existen registros que indiquen empleadores o tiempos cotizados, respetando los requisitos de acceso aplicables.
-
-## P1 — Hemeroteca y directorios
-
-Buscar en *El Universal* y directorios de Cartagena referencias laborales y sociales entre aproximadamente **1960 y 1996**, empleando ambos nombres: `Luz Marina del Rosario Martínez Cabrales` y `Mara Martínez Cabrales`.
-
----
+1. Registro civil/bautismo de **Luz Marina del Rosario Martínez Cabrales**, nacida el **29 de noviembre de 1941**.
+2. Registro civil/bautismo de **Mara del Carmen Martínez Martínez**, nacida el **13 de julio de 1978**, para confirmar filiación materna e identificar al padre.
+3. Archivo laboral aeronáutico: ECA, DAAC, FAN, Aerocivil y archivos históricos del Aeropuerto de Crespo/Rafael Núñez.
+4. Expediente pensional vinculado a la coincidencia de Colpensiones de 2014, si el acceso legalmente permitido aporta empleadores o tiempos de servicio.
+5. Hemeroteca y directorios de Cartagena, especialmente 1960–1996.
 
 ## Conclusión provisional
 
-La nueva información familiar resuelve una inconsistencia importante: **Mara Martínez Cabrales no era una hermana distinta, sino Luz Marina del Rosario Martínez Cabrales**. La genealogía secundaria que listaba a Mara ya estaba incluyendo a Luz Marina bajo el nombre por el que era conocida familiarmente.
-
-El foco de investigación deja de ser “probar una hermana omitida” y pasa a ser **documentar la identidad completa de Mara y reconstruir su trayectoria laboral**, especialmente su posible trabajo en el Aeropuerto de Cartagena.
+La rama queda estructurada así: **Luz Marina del Rosario “Mara” Martínez Cabrales**, nacida el **29 de noviembre de 1941**, hermana de Zilia, tuvo **una sola hija: Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978**. La relación madre–hija se conserva por ahora como **C fuerte**, pendiente de registro civil primario. La investigación sobre la trayectoria aeroportuaria de Luz Marina continúa abierta.
