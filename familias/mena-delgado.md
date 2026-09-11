@@ -2,19 +2,21 @@
 
 ## Naturaleza de la relación
 
-**Alfonso Mena Delgado** ingresó a la familia por matrimonio con **Anyer/Anyel Bechara**, hija del primer matrimonio de **Julio Bechara**.
+**Alfonso Mena Delgado** ingresó a la familia por matrimonio con **Anyel Bechara**, hija del primer matrimonio de **Julio Bechara**.
 
 No existe descendencia del matrimonio.
 
 Según testimonio familiar directo:
 
-- **Anyer/Anyel Bechara × Alfonso Mena Delgado**;
+- **Anyel Bechara × Alfonso Mena Delgado**;
 - no tuvieron hijos;
-- Alfonso falleció antes que Anyer;
-- Anyer no volvió a casarse;
-- Anyer murió posteriormente en **Cartagena**.
+- Alfonso falleció antes que Anyel;
+- Anyel no volvió a casarse;
+- Anyel murió posteriormente en **Cartagena**.
 
 Estado: **C fuerte — memoria familiar directa**.
+
+> **Regla nominal:** el nombre correcto es **Anyel Bechara de Mena**. La grafía `Anyer`, presente en una nota social de *El Universal* de 2010, se considera un error de transcripción/editorial de esa fuente y no una variante válida.
 
 ---
 
@@ -135,7 +137,7 @@ sea la misma persona que:
 
 **Alfonso Mena Delgado — director ejecutivo de Procaña y miembro de junta vinculada a Cenicaña, 1978**.
 
-La familia confirma que el esposo de Anyer se llamaba exactamente **Alfonso Mena Delgado**, fortaleciendo considerablemente la identificación general, pero aún falta una fuente puente que reúna ambas etapas.
+La familia confirma que el esposo de **Anyel** se llamaba exactamente **Alfonso Mena Delgado**, fortaleciendo considerablemente la identificación general, pero aún falta una fuente puente que reúna ambas etapas.
 
 Estado: **D/B fuerte**.
 
@@ -145,11 +147,11 @@ Estado: **D/B fuerte**.
 
 La historia familiar aporta aspectos que no aparecen todavía en internet:
 
-- estuvo casado con **Anyer/Anyel Bechara**;
+- estuvo casado con **Anyel Bechara**;
 - el matrimonio **no tuvo hijos**;
 - Alfonso murió primero;
-- Anyer permaneció viuda y no volvió a casarse;
-- Anyer terminó sus días en Cartagena.
+- Anyel permaneció viuda y no volvió a casarse;
+- Anyel terminó sus días en Cartagena.
 
 La ausencia de descendencia directa aumenta el riesgo de pérdida del archivo personal de la pareja. Fotografías, cartas, tarjetas de matrimonio, invitaciones, esquelas, documentos de Procaña y correspondencia profesional pueden ser decisivos para reconstruir su vida privada.
 
@@ -166,7 +168,7 @@ No se ha logrado establecer todavía:
 5. fecha de ingreso a la administración judicial;
 6. cargos desempeñados entre 1952 y 1978;
 7. fecha exacta de ingreso y salida de Procaña;
-8. fecha y lugar de matrimonio con Anyer;
+8. fecha y lugar de matrimonio con Anyel;
 9. lugar de residencia principal del matrimonio;
 10. fecha, lugar y causa de fallecimiento de Alfonso;
 11. patrimonio o propiedades personales;
@@ -176,13 +178,13 @@ No se ha logrado establecer todavía:
 
 ## Documentos prioritarios
 
-1. Matrimonio **Anyer/Anyel Bechara × Alfonso Mena Delgado**.
+1. Matrimonio **Anyel Bechara × Alfonso Mena Delgado**.
 2. Registro civil de defunción de Alfonso.
 3. Obituario o necrología en prensa de Cali, Buga o Cartagena.
 4. Archivo histórico de **Procaña**: actas, nóminas, informes, fotografías y hojas de vida, especialmente 1973–1985.
 5. Archivo histórico de **Cenicaña**: actas de juntas 1977–1980 y fotografías de la primera dirección.
 6. Archivo judicial de Buga: nombramiento, posesión y expediente laboral de Alfonso como secretario del fiscal.
-7. Registro de defunción de Anyer en Cartagena.
+7. Registro de defunción de Anyel en Cartagena.
 8. Documentos familiares, fotografías, correspondencia y tarjetas sociales del matrimonio.
 
 ## Próxima hipótesis de archivo
