@@ -10,11 +10,11 @@ La conclusión es que la **búsqueda web pública general está prácticamente a
 
 Según testimonio familiar directo:
 
-- **Alfonso Mena Delgado** fue esposo de **Anyer/Anyel Bechara de Mena**;
+- **Alfonso Mena Delgado** fue esposo de **Anyel Bechara de Mena**;
 - no tuvieron hijos;
-- Alfonso falleció antes que Anyer;
-- Anyer no volvió a casarse;
-- Anyer murió posteriormente en Cartagena.
+- Alfonso falleció antes que Anyel;
+- Anyel no volvió a casarse;
+- Anyel murió posteriormente en Cartagena.
 
 Esta identificación familiar permite descartar la antigua condición de `candidato` para el nombre del esposo. Lo que permanece pendiente es demostrar documentalmente que las dos apariciones públicas históricas localizadas —Buga 1952 y Procaña/Cenicaña 1978— corresponden a ese mismo Alfonso Mena Delgado.
 
@@ -63,10 +63,11 @@ La segunda pasada utilizó búsquedas exactas y combinadas por:
 - `"Alfonso Mena Delgado" Cenicaña`;
 - `"Alfonso Mena Delgado" director ejecutivo`;
 - `"Alfonso Mena Delgado" matrimonio`;
-- `"Alfonso Mena Delgado" Anyer Bechara`;
-- `"Alfonso Mena Delgado" Anyel Bechara`;
+- `"Alfonso Mena Delgado" "Anyel Bechara"`;
 - `"Alfonso Mena Delgado" obituario / falleció`;
 - combinaciones con Cámara de Comercio, Concejo, Alcaldía, clubes, caña y agroindustria.
+
+También se conserva `"Anyer Bechara de Mena"` exclusivamente como término técnico de búsqueda porque una nota de *El Universal* de 2010 contiene esa grafía errónea.
 
 ## Resultados negativos relevantes
 
@@ -77,7 +78,7 @@ No se localizó en fuentes abiertas fiables:
 3. colegio o universidad;
 4. título profesional;
 5. tarjeta profesional;
-6. matrimonio con Anyer/Anyel Bechara;
+6. matrimonio con Anyel Bechara;
 7. domicilio familiar verificable;
 8. hijos —la familia confirma que no hubo descendencia—;
 9. fecha o lugar de fallecimiento;
@@ -108,6 +109,10 @@ Aunque la información privada sea escasa, las fuentes permiten situarlo en dos 
 2. **dirigencia gremial y gobernanza temprana de la investigación cañera en el Valle del Cauca**.
 
 La importancia histórica de Alfonso parece haber sido **institucional y de representación**, no necesariamente electoral, mediática o social en sentido mundano.
+
+## Regla nominal sobre Anyel
+
+La forma canónica es **Anyel Bechara de Mena**. La grafía `Anyer`, presente en una nota social de *El Universal* de 2010, se considera un **error de transcripción/editorial de esa fuente** y no una variante válida del nombre. Solo debe conservarse cuando sea necesario reproducir o buscar literalmente esa referencia.
 
 ## Próxima fase: archivos no indexados
 
