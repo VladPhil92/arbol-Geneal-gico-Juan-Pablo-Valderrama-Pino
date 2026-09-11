@@ -2,130 +2,110 @@
 
 ## Naturaleza de esta rama
 
-Esta es la **línea adoptiva materna** de **María del Rosario Pino Bechara**. Debe mantenerse diferenciada de su filiación biológica **Farah–Mizrahy**, pero no tratarse como secundaria: corresponde a la familia que la adoptó, crió y le transmitió identidad jurídica, social y patrimonial en Colombia.
+Esta es la **línea adoptiva materna** de **María del Rosario “Chayo” Pino Bechara**. Debe mantenerse diferenciada de su filiación biológica **Farah–Mizrahy**, pero no tratarse como una rama secundaria: corresponde a la familia que la adoptó, crió y le transmitió identidad jurídica, social, afectiva y patrimonial en Colombia.
 
-Según memoria familiar directa, **María del Rosario nació en Quito, Ecuador**, hija biológica de **Diana Farah Mizrahy**, y posteriormente fue adoptada en Colombia por:
+Según memoria familiar directa, María del Rosario nació en **Quito, Ecuador**, hija biológica de **Diana Farah Mizrahy**, y posteriormente fue adoptada/criada en Colombia por:
 
-- **Marco Tulio Pino Uribe**, n. **29 de marzo de 1941**, f. **7 de diciembre de 2014**;
-- **Hortensia Margarita Bechara Castoony**, n. civil/familiarmente reportada **22 de marzo de 1935**, f. **2 de septiembre de 2026**.
+- **Marco Tulio Pino Uribe**, ★ **29 de marzo de 1941** / † **7 de diciembre de 2014**;
+- **Hortensia Margarita Bechara Castoony**, ★ civil/familiar **22 de marzo de 1935** / † **2 de septiembre de 2026**.
 
-La familia conserva las formas históricas **Kahtouny / Kahtouni** para la línea de la madre de Hortensia, **María Cristina Kahtouny**. En la cédula de Hortensia el segundo apellido figura, según información familiar previa, como **Castoony**. Por ello el proyecto conserva **Hortensia Margarita Bechara Castoony** como forma civil de trabajo, mientras `Kahtouni` y `Kahtouny` se registran como variantes familiares/históricas relevantes. `Hortencia`, que aparece en algunas providencias, se considera un error de redacción.
+La familia conserva las formas **Kahtouny / Kahtouni** para la línea materna histórica de Hortensia. Según información familiar previa, en su cédula el segundo apellido figura como **Castoony**. Por ello el proyecto conserva `Hortensia Margarita Bechara Castoony` como forma civil de trabajo y trata `Kahtouny/Kahtouni` como variantes familiares e históricas relevantes.
 
-El **11 de septiembre de 2026**, María del Rosario Pino Bechara aportó una nueva cronología familiar con fechas completas de varios miembros. Ese testimonio se conserva en [`../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md`](../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md).
+`Hortencia`, presente en algunas providencias, se considera error de redacción.
+
+Testimonio cronológico de María del Rosario: [`../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md`](../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md).
 
 ---
 
-# I. Marco Tulio Pino Uribe y el hogar adoptivo
+# I. Marco Tulio Pino Uribe × Hortensia Bechara Castoony
 
-La sentencia **SL994-2023**, radicación 88357, de la Corte Suprema de Justicia, estudió un litigio contra herederos de **Marco Tulio Pino Uribe**. Entre ellos aparecen **María del Rosario Pino Bechara** y una persona identificada como H.B.C. Una providencia anterior desarrolla ese nombre como “Hortencia Bechara Castoony”.
+La sentencia **SL994-2023**, radicación 88357, de la Corte Suprema de Justicia, estudió un litigio contra herederos de **Marco Tulio Pino Uribe**. Entre ellos aparecen **María del Rosario Pino Bechara** y una persona identificada como `H.B.C.`; una providencia anterior desarrolla el nombre como `Hortencia Bechara Castoony`.
 
-La familia aclara que el nombre correcto es **Hortensia**; `Castoony`, en cambio, coincide con su cédula según información familiar. La evidencia pública enlaza así el núcleo:
+La evidencia pública enlaza así el núcleo:
 
-**Marco Tulio Pino Uribe — Hortensia Bechara Castoony — María del Rosario Pino Bechara**.
+```text
+Marco Tulio Pino Uribe × Hortensia Margarita Bechara Castoony
+                              │
+                              └── María del Rosario “Chayo” Pino Bechara
+                                  [hija adoptiva según memoria familiar]
+```
 
-### Cronología familiar aportada
-
-**Marco Tulio Pino Uribe**  
-★ **29 de marzo de 1941**  
-† **7 de diciembre de 2014**
-
-Estado de las fechas: **C fuerte — testimonio directo de María del Rosario Pino Bechara**, pendiente de registro civil/defunción para elevar a A.
-
-Estado general:
+Estado:
 
 - María del Rosario dentro del núcleo sucesoral de Marco Tulio: **B fuerte**;
+- adopción formal: **C + B contextual**, pendiente de sentencia/registro específico;
 - nombre correcto `Hortensia`: **C fuerte**;
-- apellido civil `Castoony`: **C fuerte con documento primario reportado por la familia**;
-- adopción: **C**, pendiente de sentencia/registro legalmente accesible;
-- nacimiento y fallecimiento de Marco Tulio: **C fuerte**, pendiente de documentos primarios.
+- apellido civil `Castoony`: **C fuerte con documento reportado por la familia**;
+- fechas de Marco Tulio: **C fuerte**, pendientes de registro civil/defunción;
+- fallecimiento de Hortensia el 2 septiembre 2026: **C fuerte**, pendiente de registro/obituario.
+
+## Conflicto de nacimiento de Hortensia
+
+Existen dos versiones:
+
+- **22 de marzo de 1935** — fecha civil/familiar aportada en 2026 y coherente con el año que, según información previa, figura en su cédula;
+- **1930** — año que Hortensia habría afirmado personalmente como su verdadero nacimiento.
+
+Estado: **X/C fuerte**.
+
+Hasta localizar un registro temprano:
+
+- `22 marzo 1935` = fecha civil/familiar de trabajo;
+- `1930` = tradición autobiográfica oral.
 
 ---
 
-# II. Hortensia Margarita Bechara Castoony
-
-Según memoria familiar:
-
-**Hortensia Margarita Bechara Castoony**
-← **Julio Bechara** × **María Cristina Kahtouny**.
-
-Fue esposa de **Marco Tulio Pino Uribe** y madre adoptiva de **María del Rosario Pino Bechara**.
-
-### Cronología familiar aportada en 2026
-
-María del Rosario Pino Bechara reporta:
-
-**Hortensia Bechara Kahtouni**  
-★ **22 de marzo de 1935**  
-† **2 de septiembre de 2026**
-
-La forma `Kahtouni` se incorpora como variante familiar de alto interés, pero no sustituye automáticamente el apellido civil `Castoony` atribuido a la cédula.
-
-## Conflicto de año de nacimiento
-
-La familia conserva dos versiones y ambas deben permanecer visibles:
-
-- **22 de marzo de 1935** — fecha civil/familiar reportada en 2026 y coherente con el año que, según información previa, figura en la cédula de Hortensia;
-- **1930** — año que Hortensia habría afirmado personalmente en conversaciones familiares como su verdadero año de nacimiento.
-
-Estado: **X/C fuerte — contradicción entre identidad civil/familiar reportada y testimonio autobiográfico oral previo**.
-
-Regla del proyecto:
-
-- `22 marzo 1935` = fecha civil/familiar de trabajo mientras no aparezca fuente anterior;
-- `1930` = año biográfico/oral atribuido directamente a Hortensia;
-- no eliminar la discrepancia hasta localizar registro civil original, partida bautismal temprana, matrimonio, documentos escolares o pasaporte antiguo.
-
-Regla nominal:
-
-- forma civil de trabajo: **Hortensia Margarita Bechara Castoony**;
-- `Kahtouni` / `Kahtouny`: variantes familiares/históricas de la línea materna;
-- `Hortencia`: error de redacción de fuentes públicas;
-- `Castuny`, `Kajtouny`, `Khatouny`, `Katouny`, `Kahtouni` y otras grafías se usan como variantes documentales/de búsqueda hasta asignarlas persona por persona.
-
-Fallecimiento: **2 de septiembre de 2026 — C fuerte por testimonio de María del Rosario**, pendiente de registro civil de defunción u obituario para nivel A/B.
-
----
-
-# III. Julio Bechara y sus dos matrimonios
+# II. Julio Bechara y sus dos matrimonios
 
 ## Primer matrimonio
 
-La primera esposa de Julio no ha sido identificada por nombre completo. La familia recuerda que también llevaba el apellido **Bechara** y era pariente de Julio.
+La primera esposa de Julio todavía no está identificada por nombre completo. La familia recuerda que también llevaba el apellido **Bechara** y era pariente de Julio.
 
-Hijos atribuidos:
+Hijos conocidos:
 
-1. **Odette / Odeth Bechara Bechara**, ★ **18 de octubre de 1923** / † **25 de marzo de 1990**;
-2. **Alfredo Bechara**;
-3. **Angel / Anyel Bechara de Mena**, ★ **23 de noviembre de 1920** / † **11 de mayo de 2015**.
+1. **Angel / Anyel Bechara de Mena**, ★ **23 de noviembre de 1920** / † **11 de mayo de 2015**;
+2. **Odette / Odeth Bechara Bechara**, ★ **18 de octubre de 1923** / † **25 de marzo de 1990**;
+3. **Alfredo Bechara**.
+
+### Angel / Anyel / Anyer Bechara de Mena
+
+La identidad nominal continúa abierta:
+
+- `Angel` — **C fuerte**, forma aportada directamente por María del Rosario en 2026;
+- `Anyel` — **C fuerte**, tradición familiar previa;
+- `Anyer` — **B contextual**, grafía publicada por *El Universal* en 2010.
+
+Estado: **X — conflicto nominal abierto**.
+
+La familia confirma:
+
+- esposo: **Alfonso Mena Delgado**;
+- el matrimonio no tuvo hijos;
+- Alfonso falleció antes;
+- ella no volvió a casarse.
+
+Las fechas 1920–2015 son **C fuerte** y requieren documento primario.
+
+Expedientes:
+
+- [`../investigacion/edmundo-jorge-anyel-bechara.md`](../investigacion/edmundo-jorge-anyel-bechara.md)
+- [`../investigacion/alfonso-mena-delgado.md`](../investigacion/alfonso-mena-delgado.md)
+- [`../investigacion/fase-alfonso-mena-anyel-bechara.md`](../investigacion/fase-alfonso-mena-anyel-bechara.md)
 
 ### Odette / Odeth Bechara Bechara
 
-El proyecto había registrado previamente la forma **Odeth Bechara**. El 11 de septiembre de 2026, María del Rosario Pino Bechara aportó la forma **Odette Bechara Bechara** junto con fechas completas.
+La forma `Odette Bechara Bechara` fue aportada por María del Rosario en 2026; previamente se conservaba `Odeth`.
 
-Estado de la grafía: **X/C fuerte — Odette/Odeth pendiente de documento primario**.
+Estado: **X/C fuerte**.
 
-El doble apellido `Bechara Bechara` es además coherente con la tradición familiar según la cual la primera esposa de Julio también era Bechara, pero **no permite identificar por sí solo a la madre**.
-
-### Angel / Anyel Bechara de Mena — conflicto nominal reabierto
-
-Una fotografía social de *El Universal* de 2010 identifica a la misma mujer como **“Anyer Bechara de Mena”**, sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**.
-
-La tradición familiar previa había corregido `Anyer` como **Anyel**. Sin embargo, María del Rosario Pino Bechara aporta ahora expresamente **Angel Bechara de Mena**, nacida el **23 de noviembre de 1920** y fallecida el **11 de mayo de 2015**.
-
-Por tanto, la forma civil correcta debe considerarse **X — conflicto abierto**:
-
-- `Angel`: C fuerte — testimonio directo de María del Rosario;
-- `Anyel`: C fuerte — tradición familiar previa;
-- `Anyer`: B contextual — grafía publicada por *El Universal*, probablemente errónea.
-
-No debe declararse de nuevo una forma canónica hasta obtener registro civil, bautismo, matrimonio, cédula, defunción u obituario.
+El doble apellido `Bechara Bechara` es coherente con la memoria de que la primera esposa de Julio también era Bechara, pero no basta para identificarla.
 
 ## Segundo matrimonio: Julio Bechara × María Cristina Kahtouny
 
-Hijos atribuidos:
+Hijos conocidos:
 
 1. **Lilia Bechara de Bayter**, ★ **28 de agosto de 1928** / † **11 de abril de 2010**;
-2. **Hortensia Margarita Bechara Castoony**, ★ **22 de marzo de 1935** / † **2 de septiembre de 2026**, con conflicto oral previo sobre 1930;
+2. **Hortensia Margarita Bechara Castoony**, ★ **22 de marzo de 1935** / † **2 de septiembre de 2026**, con conflicto oral sobre 1930;
 3. **Emma**;
 4. **Edmond / Edmundo José**;
 5. **Antonio**;
@@ -133,54 +113,50 @@ Hijos atribuidos:
 7. **Jorge Luis**;
 8. **Katia**.
 
-Los once nombres conocidos representan once hijos de Julio en total, por lo que Hortensia tendría diez hermanos. La tradición de “once hermanos” permanece abierta: puede referirse a once hijos totales o indicar que falta una persona.
+Los nombres conocidos suman once hijos de Julio en ambos matrimonios. La expresión familiar de que Hortensia tenía “once hermanos” permanece abierta: puede tratarse de once hijos totales o indicar que falta una persona.
 
-### Rama Lilia Bechara de Bayter
+### Rama de Lilia Bechara de Bayter
 
 **Lilia Bechara de Bayter**  
-★ **28 de agosto de 1928**  
-† **11 de abril de 2010**
+★ 28 agosto 1928  
+† 11 abril 2010
 
 Hija conocida:
 
-- **Lilian M. Bayter Bechara**, ★ **11 de febrero de 1956** / † **5 de octubre de 2018**.
+- **Lilian M. Bayter Bechara**, ★ **11 febrero 1956** / † **5 octubre 2018**.
 
-Lilian era hija de Lilia y, por tanto, **sobrina de Hortensia Bechara**. Para María del Rosario Pino Bechara corresponde a una prima dentro de su familia adoptiva.
+Lilian era sobrina de Hortensia y prima de María del Rosario dentro de la familia adoptiva.
 
-Estado: **C fuerte — testimonio directo de María del Rosario**, pendiente de registros civiles y de identificar documentalmente al esposo Bayter de Lilia.
+Estado: **C fuerte**, pendiente de registros civiles y de identificar documentalmente al esposo Bayter de Lilia.
 
 ---
 
-# IV. Ramas de hermanos documentadas
+# III. Edmundo José Bechara Castuny
 
-## A. Edmundo José Bechara Castuny
+Fuentes judiciales y notariales documentan a **Edmundo José Bechara Castuny** en Cartagena y registran su fallecimiento allí el **22 de febrero de 2016**.
 
-La identificación de **Edmundo José Bechara Castuny** como el hermano recordado por la familia se ha fortalecido considerablemente.
-
-Documentación judicial y notarial lo sitúa en Cartagena y registra su fallecimiento allí el **22 de febrero de 2016**. Una acción de tutela promovida por uno de sus hijos reconstruye expresamente su descendencia.
-
-### Hijos del primer matrimonio
+Una acción judicial identifica entre sus hijos a:
 
 - **Julio César Bechara Márquez**;
 - **Karina María Bechara Márquez**;
-- **Claudia Patricia Bechara Márquez**.
+- **Claudia Patricia Bechara Márquez**;
+- **Edmond José Bechara Donado**, de otra relación.
 
-Estos tres nombres coinciden con la memoria familiar aportada al proyecto.
+Estado de esa descendencia: **B fuerte judicial**.
 
-### Otro hijo documentado
+Estado de Edmundo como hermano de Hortensia: **D/B muy fuerte**, pendiente de documento de filiación común.
 
-El mismo expediente identifica además a **Edmond José Bechara Donado** como hijo de una segunda relación de Edmundo.
+## Actividad patrimonial y comercial
 
-Estado de la filiación de los hijos: **B fuerte judicial**.
+La familia identifica a Edmundo como propietario de **Pan Francés**: **C fuerte**.
 
-Estado de Edmundo como hermano de Hortensia: **D/B muy fuerte**, pendiente de documento que nombre a Julio Bechara y María Cristina como padres.
+Una crónica de Leonor Espinosa recuerda **El Pan Francés en la calle Segunda de Badillo**, conocido por sus panochas: **B fuerte para existencia, ubicación y fama**.
 
-### Actividad económica
+Un expediente judicial relata además que Edmundo adquirió un terreno en Cartagena en **1979** y desarrolló posteriormente un loteo, aportando evidencia pública de actividad patrimonial/inmobiliaria.
 
-- La familia lo identifica como propietario de **Pan Francés**: **C fuerte**, pendiente de matrícula mercantil.
-- Un expediente judicial relata que adquirió un terreno en Cartagena en **1979** y desarrolló posteriormente un loteo, aportando evidencia de actividad patrimonial/inmobiliaria.
+---
 
-## B. Jorge Luis Bechara Kajtouny
+# IV. Jorge Luis Bechara Kajtouny
 
 La familia identifica a **Jorge Bechara** como hermano de Hortensia y esposo de **María Edilma Hortúa Restrepo**.
 
@@ -190,156 +166,243 @@ Hijos recordados:
 - **Tatiana Nuit Bechara Hortúa**;
 - **Jorge Luis Bechara Hortúa**.
 
-La Rama Judicial registra conjuntamente a **Jorge Luis Bechara Kajtouny** y **Jorge Luis Bechara Hortúa** en procesos civiles en Cartagena, una corroboración nominal fuerte de ambas generaciones.
+La Rama Judicial registra conjuntamente a **Jorge Luis Bechara Kajtouny** y **Jorge Luis Bechara Hortúa**, corroborando nominalmente ambas generaciones.
 
-### María Edilma Hortúa Restrepo
+### Continuidad hacia turismo y servicios
 
-El Registro Nacional de Turismo la documenta como titular de un **hostal en Santa Marta** en registros de 2018–2020. Una ficha contemporánea de alojamiento la identifica además como anfitriona de **Villa Mary Hostel, Taganga**.
+- **María Edilma Hortúa Restrepo** aparece en el Registro Nacional de Turismo con actividad de alojamiento en Santa Marta;
+- **Tatiana Nuit Bechara Hortúa** aparece como titular de una agencia de viajes operadora.
 
-### Tatiana Nuit Bechara Hortúa
+La familia recuerda además **Pan Bechara Ltda.** como negocio familiar y considera posible que perteneciera a Jorge.
 
-El Registro Nacional de Turismo la documenta como titular de una **agencia de viajes operadora en Santa Marta** entre 2019 y 2021.
+Estado:
 
-### Pan Bechara Ltda.
-
-La familia recuerda que **Pan Bechara Ltda.** fue una panadería familiar y considera posible que perteneciera a Jorge.
-
-- vínculo familiar con Pan Bechara: **C fuerte**;
-- propiedad de Jorge: **E/D**, pendiente de Cámara de Comercio.
-
-## C. Angel / Anyel Bechara de Mena
-
-La familia identifica a esta hija del primer matrimonio de **Julio Bechara** como esposa de **Alfonso Mena Delgado**.
-
-Datos familiares directos consolidados:
-
-- **Angel/Anyel Bechara × Alfonso Mena Delgado**;
-- nacimiento reportado: **23 de noviembre de 1920**;
-- fallecimiento reportado: **11 de mayo de 2015**;
-- el matrimonio no tuvo hijos;
-- Alfonso falleció antes que ella;
-- no volvió a casarse;
-- falleció posteriormente en Cartagena según tradición familiar previa.
-
-Estado del nombre del esposo: **C fuerte — confirmado por familia**.
-
-Estado de las fechas de Angel/Anyel: **C fuerte — María del Rosario Pino Bechara**, pendiente de registro primario.
-
-Estado del nombre propio: **X — Angel/Anyel no resuelto**.
-
-### Registro público en 2010
-
-*El Universal*, en la nota social **“Despedida Katia Méndez”** del **11 de junio de 2010**, rotula a la mujer como **“Anyer Bechara de Mena”**, sentada junto a **Hortensia Bechara** y **Emma Bechara de Rosa**.
-
-Fuente:
-
-https://www.eluniversal.com.co/sociales/2010/06/11/despedida-katia-mendez/
-
-La fuente aporta:
-
-- evidencia pública de su presencia dentro del núcleo Bechara de Cartagena;
-- uso público del apellido marital **de Mena**;
-- un hito cronológico público en junio de 2010.
-
-La grafía `Anyer` no debe tomarse como resolución del conflicto `Angel/Anyel`.
-
-### Alfonso Mena Delgado — huellas históricas
-
-Existen dos apariciones públicas relevantes bajo el nombre exacto **Alfonso Mena Delgado**:
-
-1. **Buga, 1952:** aparece como **secretario del fiscal Eduardo Urrutia Rivera / Irurita** durante un episodio de coacción asociado a León María Lozano, “El Cóndor”.
-2. **Valle del Cauca, 1978:** aparece como **director ejecutivo de Procaña** e integrante de una junta vinculada a la organización temprana del Centro de Investigación de la Caña de Azúcar de Colombia.
-
-Ambas apariciones tienen evidencia **B fuerte**.
-
-La identidad del Alfonso de 1952 y del Alfonso de 1978 como el mismo hombre —y como esposo de Angel/Anyel— sigue pendiente de una **fuente puente**. La coincidencia exacta de nombre, continuidad territorial y cronología hacen la hipótesis fuerte, pero no suficiente para elevarla a nivel A.
-
-Estado de continuidad biográfica: **D/B fuerte**.
-
-Expediente específico:
-
-- [`../investigacion/alfonso-mena-delgado.md`](../investigacion/alfonso-mena-delgado.md)
-- [`../investigacion/fase-alfonso-mena-anyel-bechara.md`](../investigacion/fase-alfonso-mena-anyel-bechara.md)
+- Pan Bechara como negocio familiar: **C fuerte**;
+- posible propiedad de Jorge: **E/D**.
 
 ---
 
-# V. Una red panificadora familiar: tres empresas distintas
+# V. Pan Suizo y la trayectoria empresarial de Hortensia
 
-**Pan Suizo, Pan Francés y Pan Bechara fueron negocios distintos**, todos vinculados por memoria familiar a la rama Bechara.
+La tradición familiar identifica a **Hortensia** como propietaria o empresaria de **Pan Suizo**. La existencia histórica y la permanencia del negocio ya están sólidamente documentadas; la titularidad registral de Hortensia todavía no.
 
-## A. Pan Suizo
+## 1. Fundación/aparición industrial
 
-La familia recuerda a **Hortensia** como propietaria de **Pan Suizo**. La sociedad asociada era **Pino Bechara**, no `Fino Bechara`.
+La tesis *Estructura de la mediana y grande industria en Cartagena*, de la Corporación Tecnológica de Bolívar (1987), sitúa a **Pan Suizo** entre las empresas industriales que aparecieron en **1961**.
 
-Una tesis de 1987 de la Corporación Tecnológica de Bolívar sitúa Pan Suizo entre las empresas industriales de Cartagena desde **1961**, lo incluye en el subsector panadero y registra como producción **pan y dulcería**. Información urbana todavía menciona Pan Suizo en 1997.
+Estado: **B fuerte**.
 
-Denominación de trabajo:
+## 2. Denominación impresa en la fuente
 
-**PINO BECHARA E HIJOS — PAN SUIZO**.
+La tesis, cuya muestra utilizó información de empresas registradas en la **Cámara de Comercio de Cartagena en diciembre de 1984**, imprime:
 
-## B. Pan Francés
+**FINO BECHARA E HIJOS “PAN SUIZO”**.
 
-La familia identifica **Pan Francés** como panadería de **Edmundo José Bechara**.
+La fuente debe conservarse literalmente. La memoria familiar ha corregido esa denominación a `Pino Bechara`, pero el proyecto ya no debe presentar esa corrección como documentalmente resuelta.
 
-Una crónica de Leonor Espinosa en *El Espectador* recuerda **El Pan Francés en la calle Segunda de Badillo**, célebre por sus panochas.
+Estado:
 
-- existencia/ubicación/fama: **B fuerte**;
-- propiedad de Edmundo: **C fuerte**, pendiente de matrícula mercantil.
+- `FINO BECHARA E HIJOS “PAN SUIZO”` en la tesis: **B/X**;
+- `PINO BECHARA...` como corrección familiar: **C fuerte**;
+- razón social definitiva: **X**, pendiente de Cámara de Comercio.
 
-## C. Pan Bechara Ltda.
+## 3. Pan Bechara Ltda.
 
-La familia confirma que **Pan Bechara Ltda.** fue otra panadería familiar. La posible propiedad de Jorge permanece abierta.
+La misma tesis registra:
+
+**PAN BECHARA LTDA. — 1961**
+
+con proyecto de expansión:
+
+**“Locativas, incremento de producción”.**
+
+La coincidencia de año, sector y apellido con Pan Suizo hace plausible una conexión empresarial, pero no demuestra identidad jurídica entre `PAN BECHARA LTDA.`, `FINO/PINO BECHARA E HIJOS` y `PAN SUIZO`.
+
+Estado: **D/B fuerte** para la relación posible.
+
+## 4. Actividad y permanencia
+
+La tesis registra como producción de Pan Suizo:
+
+**pan y dulcería**.
+
+Un documento institucional de ordenamiento territorial de Cartagena, basado en información de **1997**, todavía menciona **Pan Suizo** en el sistema comercial del Centro Histórico.
+
+Cronología mínima:
+
+```text
+1961  ── aparición industrial documentada
+1984  ── empresa incluida en muestra basada en Cámara de Comercio
+1987  ── producción documentada: pan y dulcería
+1997  ── Pan Suizo aún visible en la geografía comercial del Centro
+```
+
+Esto permite afirmar que Pan Suizo tuvo una **trayectoria de varias décadas** dentro de la economía cartagenera.
+
+## 5. Estado del vínculo con Hortensia
+
+| Afirmación | Estado |
+|---|---|
+| Pan Suizo existió en Cartagena desde 1961 | **B fuerte** |
+| Produjo pan y dulcería | **B fuerte** |
+| Continuó visible comercialmente en 1997 | **B** |
+| Hortensia estuvo vinculada como propietaria/empresaria | **C fuerte** |
+| Hortensia aparece en documento mercantil como socia/propietaria | **E — no demostrado todavía** |
+
+Expediente específico: [`../investigacion/hortensia-bechara-castoony_trayectoria-comercial.md`](../investigacion/hortensia-bechara-castoony_trayectoria-comercial.md).
 
 ---
 
-# VI. Hipótesis histórica
+# VI. Una red empresarial familiar
 
-La familia muestra una posible continuidad empresarial y patrimonial:
+La evidencia y la memoria disponibles permiten formular una hipótesis más amplia que la de una sola panadería:
 
-- **Hortensia / Pan Suizo**;
-- **Edmundo / Pan Francés + inversiones inmobiliarias**;
-- **Jorge / posible Pan Bechara**;
-- **María Edilma y Tatiana / hostelería y turismo en Santa Marta**.
+- **Hortensia / Pan Suizo** — C fuerte para el vínculo; negocio B fuerte;
+- **Edmundo / Pan Francés** — C fuerte para propiedad; negocio B fuerte;
+- **Jorge / posible Pan Bechara Ltda.** — E/D para propiedad;
+- **Edmundo / inversiones inmobiliarias** — B por expediente judicial;
+- **María Edilma y Tatiana / hotelería y turismo** — B por registros turísticos.
 
-La hipótesis de trabajo es una **red familiar de emprendimiento comercial y de servicios**, cuya estructura formal deberá probarse empresa por empresa.
+La hipótesis de trabajo es una **red familiar de emprendimiento comercial, inmobiliario y de servicios** desarrollada durante varias generaciones.
+
+Debe evitarse convertir esta hipótesis en una sola empresa familiar unificada: cada negocio necesita su propia cadena documental.
 
 ---
 
-# VII. María del Rosario: dos genealogías simultáneas
+# VII. Pista societaria: PINO BECHARA E HIJA LTDA.
 
-### Filiación biológica
+Un directorio empresarial indexa la razón social:
+
+**PINO BECHARA E HIJA LTDA “EN LIQUIDACION”**.
+
+La combinación `PINO + BECHARA + E HIJA` es especialmente relevante para este núcleo, pero el resultado disponible no identifica socios, domicilio, NIT, objeto social, fechas o representante legal.
+
+Estado:
+
+- existencia nominal de la sociedad: **B**;
+- vínculo con Marco Tulio, Hortensia o María del Rosario: **E**;
+- vínculo con Pan Suizo: **E**.
+
+No debe atribuirse a la familia concreta sin certificado histórico.
+
+---
+
+# VIII. María del Rosario “Chayo” Pino Bechara
+
+## Filiación biológica
 
 **Diana Farah Mizrahy** → **María del Rosario**, nacida en Quito según memoria familiar.
 
-### Filiación adoptiva
+## Filiación adoptiva
 
-**Marco Tulio Pino Uribe** (1941–2014) × **Hortensia Margarita Bechara Castoony** (1935–2026, con conflicto oral previo sobre 1930) → **María del Rosario Pino Bechara**.
+**Marco Tulio Pino Uribe × Hortensia Margarita Bechara Castoony** → **María del Rosario Pino Bechara**.
+
+## Nombre social
+
+La prensa social de Cartagena documenta el uso público de **Chayo Pino**. La equivalencia:
+
+**María del Rosario Pino Bechara = Chayo Pino**
+
+se clasifica como **B+C fuerte**: prensa pública + información familiar directa.
+
+## Aparición familiar en prensa
+
+*El Universal*, en una nota de 2013 sobre el lanzamiento de un libro de Juan Pablo Valderrama Pino, identifica en una misma cobertura a miembros del núcleo **Valderrama–Pino** y a **Hortensia Bechara**.
+
+Estado: **B/C fuerte contextual**.
+
+## Posible candidatura al Concejo de Cartagena — 2011
+
+Un archivo electoral que declara utilizar datos de la Registraduría registra una candidata con el nombre exacto:
+
+**MARIA DEL ROSARIO PINO BECHARA**
+
+para el **Concejo Municipal de Cartagena**, movimiento **“Sí es Posible”**, número **011**, con **180 votos** y sin curul.
+
+La coincidencia nominal y territorial es muy fuerte, pero la fuente no aporta fotografía, fecha de nacimiento ni filiación.
+
+Estado: **B/D fuerte**.
+
+Debe localizarse el formulario de inscripción, aval o una confirmación familiar directa antes de convertirlo en hecho biográfico cerrado.
+
+## Pista profesional — MetLife
+
+Un directorio público de LinkedIn indexa:
+
+**Chayo Pino De Valderrama — Colombia — MetLife, +1 more**.
+
+La coincidencia del nombre social y apellido marital hace la identificación muy plausible.
+
+Estado:
+
+- existencia del perfil: **B**;
+- identidad con María del Rosario: **D/B fuerte**;
+- trayectoria en MetLife: **D/B fuerte**, pendiente de perfil completo/certificación;
+- empleo en ALICO: **E — no demostrado**.
+
+Expediente específico: [`../investigacion/maria-del-rosario-chayo-pino-bechara.md`](../investigacion/maria-del-rosario-chayo-pino-bechara.md).
 
 ---
 
-# VIII. Documentos prioritarios
+# IX. Interpretación histórica provisional
 
-1. Registro/partida temprana de Hortensia para resolver **22 marzo 1935 vs. tradición oral 1930**.
-2. Registro civil de defunción de **Hortensia Bechara**, fallecida según familia el **2 septiembre 2026**.
-3. Registro civil de nacimiento y defunción de **Marco Tulio Pino Uribe** (29 mar. 1941–7 dic. 2014).
+La rama Pino–Bechara muestra una posible continuidad histórica en torno a:
+
+1. **panificación y comercio urbano**;
+2. **patrimonio inmobiliario**;
+3. **hotelería y turismo**;
+4. **actividad profesional en servicios**;
+5. **participación social y posiblemente política en Cartagena**.
+
+Por ello esta rama debe investigarse no solo como una sucesión de parentescos, sino como parte de la **historia social y empresarial de Cartagena durante el siglo XX y comienzos del XXI**.
+
+La hipótesis es especialmente relevante para el proyecto genealógico porque permite estudiar qué tradiciones económicas, formas de sociabilidad y prácticas de emprendimiento fueron transmitidas dentro de la familia adoptiva de María del Rosario.
+
+---
+
+# X. Documentos prioritarios
+
+## P0 — Hortensia y Marco Tulio
+
+1. Registro/partida temprana de Hortensia para resolver **22 marzo 1935 vs. 1930**.
+2. Registro de defunción de Hortensia — 2 septiembre 2026.
+3. Registros de nacimiento y defunción de Marco Tulio — 1941–2014.
 4. Matrimonio Marco Tulio Pino Uribe–Hortensia Bechara Castoony.
-5. Matrimonios y sucesión de Julio Bechara.
-6. Registros de **Odette/Odeth Bechara Bechara** (1923–1990) para resolver la grafía y ayudar a identificar a la primera esposa de Julio.
-7. Registro civil/bautismo/matrimonio/defunción de **Angel/Anyel Bechara de Mena** (1920–2015) para resolver definitivamente el nombre.
-8. Registro matrimonial **Angel/Anyel Bechara × Alfonso Mena Delgado**.
-9. Registros de **Lilia Bechara de Bayter** (1928–2010) y de su hija **Lilian M. Bayter Bechara** (1956–2018), incluyendo identificación del esposo Bayter.
-10. Registro de Edmundo José Bechara Castuny con nombres de padres.
-11. Matrícula histórica de **Pan Francés**.
-12. Matrícula histórica de **Pan Suizo / Pino Bechara**.
-13. Matrimonio **Jorge Luis Bechara Kajtouny × María Edilma Hortúa Restrepo**.
-14. Matrícula de **Pan Bechara Ltda.**.
-15. Hoja de vida o expediente institucional de Alfonso en **Procaña**.
-16. Expediente laboral/judicial de Alfonso Mena Delgado en **Buga**.
-17. Registro u obituario de defunción de **Alfonso Mena Delgado**.
-18. Identificación documental de la primera esposa de Julio Bechara.
+5. Documento formal de adopción de María del Rosario, cuando sea legalmente accesible.
+
+## P0 — Cámara de Comercio
+
+Obtener certificados históricos de:
+
+1. `PAN SUIZO`;
+2. `FINO BECHARA E HIJOS`;
+3. `PINO BECHARA E HIJOS`;
+4. `PAN BECHARA LTDA`;
+5. `PAN BECHARA & CIA LTDA`;
+6. `PAN FRANCÉS`;
+7. `PINO BECHARA E HIJA LTDA`.
+
+El objetivo es identificar socios, representantes, capital, reformas, establecimientos, domicilios, liquidaciones y continuidad entre nombres comerciales.
+
+## P0 — María del Rosario “Chayo”
+
+1. Formulario/aval electoral de 2011 para confirmar la candidatura.
+2. Perfil profesional completo o certificación de MetLife.
+3. Certificado de `PINO BECHARA E HIJA LTDA` para comprobar o descartar su participación.
+4. Prensa, directorios profesionales y registros sociales adicionales.
+
+## P1 — Fratría Bechara
+
+1. Matrimonios y sucesión de Julio Bechara.
+2. Identificación de su primera esposa.
+3. Registros de Odette/Odeth Bechara Bechara.
+4. Registros de Angel/Anyel Bechara de Mena y matrimonio con Alfonso Mena Delgado.
+5. Registros de Lilia Bechara de Bayter y Lilian M. Bayter Bechara.
+6. Registro de Edmundo José Bechara Castuny con nombres de padres.
+7. Matrimonio Jorge Luis Bechara Kajtouny × María Edilma Hortúa Restrepo.
 
 ## Regla metodológica
 
-Las variantes `Castoony`, `Castuny`, `Kajtouny`, `Kahtouny` y `Kahtouni` son pistas documentales valiosas, pero no deben uniformarse de manera retroactiva. Cada persona debe conservar la grafía de sus propios documentos.
+Las variantes `Castoony`, `Castuny`, `Kajtouny`, `Kahtouny` y `Kahtouni` son pistas documentales valiosas, pero **no deben uniformarse retroactivamente**. Cada persona debe conservar la grafía de sus propios documentos.
 
-Del mismo modo, los conflictos `Angel/Anyel/Anyer` y `Odette/Odeth` deben permanecer explícitos hasta contar con documentos primarios.
+Los conflictos `Angel/Anyel/Anyer`, `Odette/Odeth` y `FINO/PINO BECHARA` deben permanecer explícitos hasta que fuentes primarias los resuelvan.
