@@ -1,6 +1,6 @@
 # Textos históricos y narrativos
 
-Esta carpeta reúne textos de lectura continua construidos a partir de la investigación genealógica del repositorio. Su propósito es transformar fichas, hipóótesis, documentos y relaciones familiares en relatos históricos comprensibles, sin perder el rigor documental.
+Esta carpeta reúne textos de lectura continua construidos a partir de la investigación genealógica del repositorio. Su propósito es transformar fichas, hipótesis, documentos y relaciones familiares en relatos históricos comprensibles, sin perder el rigor documental.
 
 ## Criterio editorial
 
