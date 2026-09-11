@@ -37,6 +37,8 @@ Genealogías regionales lo sitúan nacido en 1907 y casado con **Zoila Margarita
 
 **Gabriel María Martínez Sossa** × **Zoila Rosa Lugo Olivella**.
 
+Una crónica familiar publicada por *El Universal* recuerda a Gabriel Martínez Lugo y Zoila Cabrales como anfitriones de una casa muy abierta a familiares y amigos. Según esa memoria, Gabriel abastecía la mesa con productos procedentes de la **Hacienda La Santa María**. Este detalle aporta contexto social y económico, aunque debe tratarse como memoria publicada y no como prueba registral de propiedad.
+
 ## Gabriel María Martínez Sossa
 
 Las fuentes genealógicas lo sitúan nacido en **Lorica en 1879** y fallecido allí en 1928. Casó con **Zoila Rosa Lugo Olivella**, también loriquera.
@@ -153,7 +155,7 @@ La reconstrucción de María Victoria García Azuero identifica como hermanos de
 
 - Mara Martínez Cabrales;
 - Eusebio Martínez Cabrales;
-- Guillermo Martínez Cabrales;
+- **Guillermo Martínez Cabrales**;
 - Gabriel Ignacio Martínez Cabrales;
 - Gustavo Adolfo Martínez Cabrales;
 - Juan Martínez Cabrales.
@@ -164,7 +166,36 @@ Esta coincidencia con el testimonio familiar eleva el valor de la reconstrucció
 
 ---
 
-# VI. Documentos prioritarios
+# VI. Guillermo “Chicle Bomba” Martínez Cabrales y David Sánchez Juliao
+
+La identidad del “tío Chicle Bomba” queda ahora razonablemente establecida como **Guillermo Martínez Cabrales**, hermano de Zilia.
+
+Una columna de Willy Martínez publicada en *El Universal* identifica a Guillermo como hijo de **Gabriel Martínez Lugo y Zoila Cabrales**, recuerda su paso de Manga a Lorica, su matrimonio con **Cecilia Corrales** y su ejercicio como **alcalde de Lorica**. La misma fuente sostiene que **David Sánchez Juliao fue quien le puso el apodo “Chicle e’ Bomba”**.
+
+Fuentes literarias independientes sobre Sánchez Juliao incluyen además a **Guillermo Eduardo Martínez (Chicle Bomba)** dentro del grupo de contertulios que se reunían en el bar **El Tuqui Tuqui** junto con David, Salim Jattin, Jorge Jattin Vellojín, René Puche y otros personajes loriqueros.
+
+El vínculo es relevante porque el Tuqui Tuqui y sus contertulios formaron parte del ambiente humano y lingüístico del que Sánchez Juliao extrajo materiales para su literatura de oralidad. El apodo “Chicle Bomba” aparece también en una transcripción digital de *El Flecha*, lo que muestra el tránsito del personaje social al universo literario.
+
+### Relación con Juan Pablo
+
+Si la fratría Martínez Cabrales se confirma con registros primarios:
+
+**Guillermo Martínez Cabrales = hermano de Zilia Margarita Martínez Cabrales = tío abuelo de Juan Pablo Valderrama Pino.**
+
+### Estado de evidencia
+
+- Guillermo como hijo de Gabriel Martínez Lugo y Zoila Cabrales: **B fuerte**, prensa familiar + genealogía secundaria.
+- Guillermo como hermano de Zilia: **B/D fuerte**, pendiente de registros civiles.
+- alcaldía de Lorica: **B**, pendiente de acto administrativo.
+- apodo atribuido a David Sánchez Juliao: **B fuerte**, memoria publicada.
+- participación en tertulia del Tuqui Tuqui: **B fuerte**, corroborada por más de una crónica secundaria.
+- aparición de “Chicle Bomba” en *El Flecha*: **B**, a verificar en edición/fonograma original.
+
+Expediente específico: [`../investigacion/guillermo-chicle-bomba-martinez-cabrales.md`](../investigacion/guillermo-chicle-bomba-martinez-cabrales.md).
+
+---
+
+# VII. Documentos prioritarios
 
 1. Registro civil o bautismo de Zilia Margarita Martínez Cabrales.
 2. Matrimonio de Zilia y Mario Gerardo Valderrama Mutis.
@@ -177,7 +208,11 @@ Esta coincidencia con el testimonio familiar eleva el valor de la reconstrucció
 9. Registro de Ignacio José Cabrales Lora y sus matrimonios.
 10. Partida de Manuel José de la Trinidad Cabrales de Armesto en Ocaña.
 11. Registros de Eusebio José Pineda del Toro, Beleazar Vélez Racero y Lorenza Pineda Vélez.
-12. Entrevistas a Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez para cotejar nombres, lugares, profesiones y documentos conservados.
+12. Registro civil/bautismo de Guillermo Martínez Cabrales.
+13. Matrimonio Guillermo Martínez Cabrales–Cecilia Corrales.
+14. Decreto o acta de nombramiento de Guillermo como alcalde de Lorica.
+15. Fotografías/testimonios que documenten su relación con David Sánchez Juliao y el Tuqui Tuqui.
+16. Entrevistas a Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez para cotejar nombres, lugares, profesiones y documentos conservados.
 
 ## Regla editorial
 
