@@ -30,8 +30,9 @@ Cuando una relación todavía requiere una partida, registro civil, archivo parr
 13. [Los Martínez del Sinú: de Cartagena a Lorica, entre Independencia, comercio y ganadería](13_los_martinez_del_sinu_de_cartagena_a_lorica.md)
 14. [Los Cabrales–Pineda de Montería: ganadería, vida municipal y redes familiares del Sinú](14_los_cabrales_pineda_de_monteria.md)
 15. [Zilia Margarita Martínez Cabrales: entre Cartagena y el Sinú](15_zilia_martinez_cabrales_entre_cartagena_y_el_sinu.md)
-16. [Personajes clave del linaje Martínez–Cabrales](16_personajes_clave_del_linaje_martinez_cabrales.md) — **nuevo**
-17. [Guillermo “Chicle Bomba” Martínez Cabrales y David Sánchez Juliao](17_guillermo_chicle_bomba_martinez_cabrales_y_david_sanchez_juliao.md) — **nuevo**
+16. [Personajes clave del linaje Martínez–Cabrales](16_personajes_clave_del_linaje_martinez_cabrales.md)
+17. [Guillermo “Chicle Bomba” Martínez Cabrales y David Sánchez Juliao](17_guillermo_chicle_bomba_martinez_cabrales_y_david_sanchez_juliao.md)
+18. [Guillermo “Chicle Bomba” Martínez Cabrales: política, sociabilidad y transformación en personaje literario](18_chicle_bomba_politica_sociedad_y_ficcion_loriquera.md) — **investigación ampliada**
 
 ## Dossier Mutis
 
@@ -39,7 +40,7 @@ Los textos **3, 9, 10, 11 y 12** forman un dossier específico sobre la rama Mut
 
 ## Dossier Martínez–Cabrales
 
-Los textos **5, 13, 14, 15, 16 y 17** forman el dossier de la rama de Zilia Margarita Martínez Cabrales. En conjunto permiten estudiar:
+Los textos **5, 13, 14, 15, 16, 17 y 18** forman el dossier de la rama de Zilia Margarita Martínez Cabrales. En conjunto permiten estudiar:
 
 1. **La línea Martínez:** José Casiano Martínez Maijel → Antonio María Martínez Fernández → Diego Ángel Martínez de Lora → Gabriel María Martínez Sossa → Gabriel María Martínez Lugo → Zilia.
 2. **El contexto histórico:** Independencia, desplazamiento Cartagena–Lorica, comercio de importación, ganadería y formación de empresas familiares en el Sinú.
@@ -48,15 +49,19 @@ Los textos **5, 13, 14, 15, 16 y 17** forman el dossier de la rama de Zilia Marg
 5. **La geografía familiar:** Ocaña, Cartagena, Lorica, Montería, Manga y el barrio La Ceiba.
 6. **Personajes históricos:** José Casiano, Antonio María, Diego Ángel, Gabriel María Martínez Sossa, Ignacio José Cabrales González y otros miembros que participaron en guerra, comercio, ganadería o vida municipal.
 7. **La cultura oral del Bajo Sinú:** Guillermo “Chicle Bomba” Martínez Cabrales, hermano de Zilia, alcalde de Lorica y contertulio de David Sánchez Juliao.
-8. **La conexión literaria:** el apodo atribuido a Sánchez Juliao, la tertulia del Tuqui Tuqui y la presencia de “Chicle Bomba” dentro del universo narrativo asociado a _El Flecha_.
-9. **La historia oral viva:** Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez como fuentes clave para verificar la fratría y recuperar documentos familiares.
-10. **Las contradicciones abiertas:** lugar de nacimiento de Zilia, variantes de nombres, composición completa de la fratría y fechas/cargos que todavía requieren documentos primarios.
+8. **La dimensión política de Chicle Bomba:** actividad electoral documentada de forma secundaria hacia la década de 1970 y una alcaldía cuyo decreto de nombramiento permanece pendiente; se descarta por ahora presentarla como elección popular, pues ese mecanismo solo comenzó en Colombia en 1988.
+9. **La conexión literaria:** el apodo atribuido a Sánchez Juliao, las tertulias de El Tuqui Tuqui y La Hernia y la aparición nominal de “Chicle Bomba” dentro de _El Flecha_.
+10. **La poética de la oralidad:** transformación de personas y apodos reales en materia narrativa mediante memoria, exageración, testimonio y ficción.
+11. **La historia oral viva:** Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez como fuentes clave para verificar la fratría y recuperar documentos familiares.
+12. **Las contradicciones abiertas:** lugar de nacimiento de Zilia, variantes de nombres, composición completa de la fratría, período exacto de alcaldía de Guillermo y contexto de la propaganda “Vote por Chicle Bomba”.
 
 El dossier cuenta con:
 
 - matriz genealógica: [`../investigacion/linaje-martinez-cabrales_generacion_por_generacion.md`](../investigacion/linaje-martinez-cabrales_generacion_por_generacion.md)
-- expediente Chicle Bomba: [`../investigacion/guillermo-chicle-bomba-martinez-cabrales.md`](../investigacion/guillermo-chicle-bomba-martinez-cabrales.md)
-- inventario de fuentes: [`../fuentes/martinez-cabrales.md`](../fuentes/martinez-cabrales.md)
+- expediente biográfico inicial de Chicle Bomba: [`../investigacion/guillermo-chicle-bomba-martinez-cabrales.md`](../investigacion/guillermo-chicle-bomba-martinez-cabrales.md)
+- expediente crítico política/literatura: [`../investigacion/chicle-bomba_politica-literatura.md`](../investigacion/chicle-bomba_politica-literatura.md)
+- inventario general de fuentes: [`../fuentes/martinez-cabrales.md`](../fuentes/martinez-cabrales.md)
+- fuentes específicas de Chicle Bomba: [`../fuentes/chicle-bomba.md`](../fuentes/chicle-bomba.md)
 
 ## Núcleo Valderrama–Mutis
 
