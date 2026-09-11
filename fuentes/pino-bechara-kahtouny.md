@@ -1,6 +1,15 @@
-# Fuentes específicas — Pino–Bechara–Kahtouny y Pan Suizo
+# Fuentes específicas — Pino–Bechara–Kahtouny / Castoony y Pan Suizo
 
-Este expediente reúne fuentes públicas y pistas documentales para estudiar la **familia adoptiva materna de María del Rosario Pino Bechara**, especialmente **Hortensia Margarita Bechara Kahtouny** y la historia empresarial de **Pan Suizo**.
+Este expediente reúne fuentes públicas y correcciones familiares para estudiar la **familia adoptiva materna de María del Rosario Pino Bechara**, especialmente **Hortensia Margarita Bechara Castoony** y la historia empresarial de **Pan Suizo**.
+
+## Correcciones canónicas aportadas por la familia
+
+1. El nombre correcto es **Hortensia**, no `Hortencia`.
+2. En la cédula de Hortensia, su segundo apellido figura como **Castoony**.
+3. La forma **Kahtouny** continúa siendo relevante para la línea materna de **María Cristina Kahtouny**.
+4. La sociedad vinculada con Pan Suizo era **Pino Bechara**, no `Fino Bechara`.
+
+Estas correcciones deben prevalecer en la redacción del proyecto, dejando las grafías erróneas solo cuando se cite literalmente una fuente.
 
 ## 1. Corte Suprema de Justicia — radicación 88357
 
@@ -8,8 +17,10 @@ Este expediente reúne fuentes públicas y pistas documentales para estudiar la 
 
 - Institución: Corte Suprema de Justicia, Sala Laboral.
 - URL: https://www.cortesuprema.gov.co/corte/wp-content/uploads/not/laboral21/prov/88357%20%2827-01-21%29.pdf
-- Aporta los nombres **Hortencia Bechara Castoony** y **María del Rosario Pino Bechara** como partes opositoras dentro del litigio relacionado con Marco Tulio Pino Uribe.
-- Nivel: **B fuerte / fuente judicial institucional**.
+- La providencia escribe **“Hortencia Bechara Castoony”** y menciona a **María del Rosario Pino Bechara**.
+- La familia aclara que `Hortencia` es un error de redacción; el nombre correcto es **Hortensia**.
+- `Castoony`, en cambio, coincide con la grafía que aparece en la cédula de Hortensia.
+- Nivel de la fuente: **B fuerte / fuente judicial institucional**.
 
 ### Sentencia SL994-2023
 
@@ -19,7 +30,7 @@ Este expediente reúne fuentes públicas y pistas documentales para estudiar la 
 
 ### Uso genealógico
 
-La combinación de ambas piezas permite reconstruir el núcleo sucesoral **Marco Tulio Pino Uribe – Hortencia Bechara Castoony – María del Rosario Pino Bechara**, pero la identidad `Castoony = Kahtouny` todavía debe cerrarse con un registro civil o matrimonial.
+La combinación de ambas piezas permite reconstruir el núcleo sucesoral **Marco Tulio Pino Uribe – Hortensia Bechara Castoony – María del Rosario Pino Bechara**. La cédula de Hortensia, reportada directamente por la familia, resuelve además la grafía civil `Castoony` aunque todavía debe incorporarse una copia al repositorio para elevarla formalmente como fuente primaria archivada.
 
 ---
 
@@ -33,31 +44,38 @@ https://biblioteca.utb.edu.co/notas/tesis/0013058.pdf
 ### Hallazgos
 
 1. Pan Suizo aparece entre las empresas industriales que surgieron en Cartagena en **1961**.
-2. La muestra de empresas medianas tomó como referencia los registros de la **Cámara de Comercio de Cartagena de diciembre de 1984**.
-3. En el subsector de fabricación de productos de panadería se lee directamente:
-   - **`FINO BECHARA E HIJOS “PAN SUIZO”`**.
-4. El producto atribuido a Pan Suizo es:
-   - **`Pan y dulcería`**.
-5. Otra tabla registra una denominación transcrita como **`PAN BECHARA LTDA.`**, 1961, con proyectos de ampliación locativa e incremento de producción.
+2. La muestra de empresas medianas tomó como referencia registros de la **Cámara de Comercio de Cartagena de diciembre de 1984**.
+3. Una lectura previa interpretó la razón social como `FINO BECHARA E HIJOS`.
+4. La familia corrige esa lectura: la sociedad era **PINO BECHARA**.
+5. El producto atribuido a Pan Suizo es **pan y dulcería**.
+6. Otra tabla fue transcrita como `PAN BECHARA LTDA.`; debe revisarse contra el original porque podría corresponder a `PINO BECHARA` u otra variante societaria.
 
-Nivel: **B fuerte** para existencia, cronología, actividad industrial y asociación Bechara; la propiedad individual requiere matrícula mercantil.
+### Clasificación
 
-### Precaución
+- existencia y cronología de Pan Suizo: **B fuerte**;
+- producción: **B fuerte**;
+- corrección `Pino Bechara`: **C fuerte / información familiar directa**, pendiente de certificado histórico de Cámara de Comercio;
+- lectura `Fino Bechara`: **descartada como hipótesis familiar** y tratada como error de lectura/transcripción hasta revisar el original.
 
-No corregir `Fino Bechara` por intuición. La imagen del documento efectivamente imprime `FINO BECHARA E HIJOS`. Debe localizarse el expediente mercantil original.
+### Precaución actualizada
+
+No investigar a un supuesto individuo llamado `Fino Bechara`. La línea de búsqueda correcta debe ser:
+
+- **PINO BECHARA**;
+- **PINO BECHARA E HIJOS**;
+- PAN SUIZO;
+- posibles variantes jurídicas de la sociedad.
 
 ---
 
 ## 3. Documento urbano de Cartagena, 1984
 
-Tesis/documento de la Corporación Tecnológica de Bolívar fechado en diciembre de 1984.
-
 URL:
 https://biblioteca.utb.edu.co/notas/tesis/0001053.pdf
 
-Incluye **Pan Suizo** entre establecimientos de una zona especial que recibían atención diaria, junto con bancos, hoteles, playas, instituciones públicas y otros comercios.
+Incluye **Pan Suizo** entre establecimientos de una zona especial que recibían atención diaria.
 
-Nivel: **B contextual** para visibilidad comercial del establecimiento.
+Nivel: **B contextual**.
 
 ---
 
@@ -68,17 +86,13 @@ Nivel: **B contextual** para visibilidad comercial del establecimiento.
 URL:
 https://seguimientopot.cartagena.gov.co/sites/default/files/2024-12/Decreto_0977_2001_POT_Tomo_II.PDF
 
-Un cuadro basado en datos recolectados por investigadoras en **febrero de 1997** enumera `Pan Suizo` dentro de los establecimientos asociados al sistema urbano de las **calles Primera y Segunda de Badillo / Plaza Fernández de Madrid**.
+Información recolectada en **febrero de 1997** enumera `Pan Suizo` dentro del sistema comercial de las calles Primera y Segunda de Badillo / Plaza Fernández de Madrid.
 
 Nivel: **B fuerte / fuente oficial urbana**.
-
-No interpretar el cuadro como dirección postal exacta sin corroboración adicional.
 
 ---
 
 ## 5. Banco Mundial — Marco Tulio Pino Uribe
-
-Documento de reasentamiento/gestión predial en Cartagena.
 
 URL:
 https://documents1.worldbank.org/curated/en/334151468242364609/pdf/RP3780Cartagena0PRA0Tierras1.pdf
@@ -91,107 +105,82 @@ Nivel: **B fuerte** para patrimonio inmobiliario, no para parentesco.
 
 ## 6. Edmundo José Bechara Castuny
 
-### Corte Suprema / Rama Judicial
-
-Documentos judiciales de 2022–2025 identifican a **Edmundo José Bechara Castuny** como propietario en Cartagena y padre de varios hijos.
+Documentos judiciales y notariales identifican a **Edmundo José Bechara Castuny** en Cartagena.
 
 Ejemplos:
 - https://cortesuprema.gov.co/corte/wp-content/uploads/not/penal22/avisos/126223fallo28102022.pdf
 - https://archivodigitalapi.cortesuprema.gov.co/share/2024/10/Avisos/140195%20Fallo.pdf
+- https://www.asuntoslegales.com.co/edictos/detalle/005_VEF_1779-3-1
 
-### Sucesión notarial
+Puede ser el hermano recordado como Edmond/Edmundo, pero ninguna fuente localizada hasta ahora suministra los nombres de sus padres.
 
-Edicto de Notaría Sexta de Cartagena:
-https://www.asuntoslegales.com.co/edictos/detalle/005_VEF_1779-3-1
-
-Aporta fecha de fallecimiento: **22 de febrero de 2016**, Cartagena.
-
-### Valor para la investigación
-
-Puede ser el hermano recordado como `Edmond/Edmundo Bechara`, especialmente por el apellido `Castuny`, pero ninguna fuente localizada hasta ahora suministra los nombres de sus padres.
-
-Nivel para identidad como hermano de Hortensia: **D fuerte**, no confirmado.
+Nivel para identidad como hermano: **D fuerte**, no confirmado.
 
 ---
 
 ## 7. Katia Bechara — Universidad de Cartagena
 
-Ricardo Chica Geliz, estudio sobre cineclubes de Cartagena.
-
-URL:
+Fuente:
 https://dialnet.unirioja.es/descarga/articulo/8982888.pdf
 
-Registra a **Katia Bechara** como **tesorera del Cine Club Universitario** en marzo de 1970.
+Registra a **Katia Bechara** como tesorera del Cine Club Universitario en marzo de 1970.
 
-Nivel para el hecho histórico: **B fuerte**.
-
-Nivel para identificarla como hermana de Hortensia: **E/D**, porque el documento no incluye segundo apellido ni padres.
+Nivel del hecho histórico: **B fuerte**. Identidad como hermana de Hortensia: **E/D**.
 
 ---
 
 ## 8. Jorge Bechara K. — pista empresarial
 
-Una tesis histórica de la Corporación Tecnológica de Bolívar sobre la industria de Cartagena contiene el nombre abreviado **`Jorge Bechara K.`** en un listado empresarial de finales de los años setenta.
-
-URL de referencia:
+Fuente:
 https://biblioteca.utb.edu.co/notas/tesis/0012962.pdf
 
-Nivel: **E/D** como posible identidad del hermano Jorge. Se requiere revisar página, empresa, nombre completo y documentación empresarial original.
+Aparece **`Jorge Bechara K.`** en un listado empresarial cartagenero.
+
+Nivel: **E/D** como posible identidad del hermano Jorge.
 
 ---
 
-## 9. Contexto histórico de la grafía Cajtuni
+## 9. Variantes históricas del apellido materno
 
-Estudios académicos sobre inmigración y comercio en Colombia registran una firma histórica denominada **`Cajtuni Hermanos / Cajtuni Brothers`**, activa en redes comerciales de comienzos del siglo XX y mencionada en Cartagena en torno a 1930.
+`Castoony` queda confirmado por la familia como **grafía civil de Hortensia**. `Kahtouny` se conserva para la madre **María Cristina Kahtouny** y como forma genealógica histórica.
 
-Fuente historiográfica de revisión:
-https://www.scielo.org.co/scielo.php?pid=S0122-20662024000200221&script=sci_arttext
+Otras grafías —`Castuny`, `Khatouny`, `Katouny`, `Kahtouni`, `Cajtuni`— se usan solo como variantes de búsqueda y deben asignarse persona por persona.
 
-### Precaución obligatoria
-
-Esta referencia **no demuestra ninguna relación** entre Cajtuni Hermanos y María Cristina Kahtouny. Solo muestra que grafías fonéticamente próximas existieron históricamente en Colombia y justifica buscar variantes. No debe atribuirse origen nacional, étnico o religioso a la familia concreta sin documentos de sus integrantes.
+La existencia de grafías similares en estudios migratorios colombianos no demuestra por sí misma relación genealógica ni origen nacional, étnico o religioso.
 
 ---
 
-## Contradicciones / preguntas abiertas
+## Preguntas abiertas actualizadas
 
-1. `Kahtouny` vs. `Castoony` vs. `Castuny`.
-2. `Hortensia` vs. `Hortencia`.
-3. 11 hijos de Julio conocidos vs. memoria de “11 hermanos” de Hortensia.
-4. Identidad de la primera esposa de Julio.
-5. Significado/identidad de `Fino Bechara`.
-6. Evolución societaria `Fino Bechara e Hijos` → `Pan Bechara Ltda.` → Pan Suizo.
-7. Participación exacta de Hortensia en la propiedad.
-8. Identidad de Edmundo José Bechara Castuny.
-9. Identidad de Jorge Bechara K.
-10. Identidad de Katia Bechara del cineclub.
+1. ¿Cómo aparece exactamente María Cristina en su matrimonio con Julio Bechara?
+2. ¿Qué grafías utilizaron los hermanos de Hortensia en sus propios documentos?
+3. ¿Cuál era la razón social exacta y forma jurídica de **Pino Bechara**?
+4. ¿Quiénes fueron socios de Pan Suizo y en qué fechas?
+5. ¿Cuándo entró Hortensia como propietaria o socia?
+6. ¿La tabla transcrita como `PAN BECHARA LTDA.` corresponde realmente a `PINO BECHARA LTDA.`?
+7. ¿Edmundo José Bechara Castuny era hijo de Julio y María Cristina?
+8. ¿Jorge Bechara K. y Katia Bechara corresponden a los hermanos recordados?
 
 ## Solicitudes documentales prioritarias
 
 ### Cámara de Comercio de Cartagena
 
 Solicitar certificados históricos y expedientes de:
-- PAN SUIZO;
-- FINO BECHARA E HIJOS;
-- PAN BECHARA LTDA.;
-- PAN BECHARA & CIA LTDA.;
-- cualquier matrícula vinculada con esas denominaciones.
+- **PAN SUIZO**;
+- **PINO BECHARA**;
+- **PINO BECHARA E HIJOS**;
+- posibles `PINO BECHARA LTDA.` / `PINO BECHARA & CIA LTDA.`;
+- cualquier matrícula vinculada con estas denominaciones.
 
 ### Registro civil / notarías
 
-- nacimiento de Hortensia;
-- matrimonio Pino Uribe–Bechara;
+- cédula/registro civil de **Hortensia Margarita Bechara Castoony**;
+- matrimonio Pino Uribe–Bechara Castoony;
 - matrimonio Julio Bechara–María Cristina Kahtouny;
 - primer matrimonio de Julio;
-- defunción/sucesión de Julio;
+- sucesión de Julio;
 - registro de Edmundo José Bechara Castuny.
 
 ### Archivo familiar
 
-Priorizar:
-- fotos de Pan Suizo;
-- empaques, membretes, avisos o facturas;
-- documentos de Cámara de Comercio;
-- escrituras o acciones/participaciones;
-- fotografías de Julio y María Cristina con sus hijos;
-- álbumes con nombres escritos al reverso.
+Priorizar fotografías, empaques, membretes, avisos, facturas, documentos camerales y escrituras de Pan Suizo.
