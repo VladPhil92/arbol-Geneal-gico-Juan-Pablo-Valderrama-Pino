@@ -19,12 +19,16 @@ La estructura es sólida como hipótesis genealógica secundaria, pero todavía 
 
 ← **Gabriel María Martínez Lugo** × **Zoila Margarita Cabrales Pineda**.
 
-Una genealogía regional de Cartagena atribuye a esta pareja siete hijos: Mara, Eusebio, Guillermo, Gabriel Ignacio, Zilia, Gustavo Adolfo y Juan Martínez Cabrales. La misma fuente identifica a **Gabriel Rodrigo Martínez Méndez** como hijo de Gabriel Ignacio Martínez Cabrales y Xenia Méndez de la Espriella, lo que coincide con la información familiar suministrada en esta investigación sobre Gabriel Rodrigo como primo de Juan Pablo e hijo de un hermano de Zilia.
+Una genealogía regional de Cartagena atribuye a esta pareja siete hijos: Mara, Eusebio, Guillermo, Gabriel Ignacio, Zilia, Gustavo Adolfo y Juan Martínez Cabrales. La familia precisa que **Mara Martínez Cabrales es la misma persona que Luz Marina del Rosario Martínez Cabrales**, nacida el **29 de noviembre de 1941**. Por tanto, `Mara` no representa una hermana adicional ni un registro separado, sino el nombre familiar de Luz Marina del Rosario.
+
+La misma fuente identifica a **Gabriel Rodrigo Martínez Méndez** como hijo de Gabriel Ignacio Martínez Cabrales y Xenia Méndez de la Espriella, lo que coincide con la información familiar suministrada en esta investigación sobre Gabriel Rodrigo como primo de Juan Pablo e hijo de un hermano de Zilia.
 
 ### Estado
 
 - Zilia → Gabriel José Valderrama Martínez: **C — confirmado por familia**.
 - Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda → Zilia: **B/D — reconstrucción secundaria fuerte, pendiente de partida primaria**.
+- `Mara Martínez Cabrales = Luz Marina del Rosario Martínez Cabrales`: **C fuerte — identificación familiar directa**.
+- Luz Marina del Rosario nació el 29 de noviembre de 1941: **C fuerte**, pendiente de registro civil/bautismo.
 - composición completa de la fratría Martínez Cabrales: **B/D**, a confirmar mediante registros y entrevistas familiares.
 
 ---
@@ -153,16 +157,20 @@ Este movimiento regional ayuda a explicar por qué distintas fuentes discrepan s
 
 La reconstrucción de María Victoria García Azuero identifica como hermanos de Zilia a:
 
-- Mara Martínez Cabrales;
+- **Mara Martínez Cabrales = Luz Marina del Rosario Martínez Cabrales** (n. 29 de noviembre de 1941, según memoria familiar);
 - Eusebio Martínez Cabrales;
 - **Guillermo Martínez Cabrales**;
 - Gabriel Ignacio Martínez Cabrales;
 - Gustavo Adolfo Martínez Cabrales;
 - Juan Martínez Cabrales.
 
+La equivalencia `Mara = Luz Marina del Rosario` procede de identificación familiar directa. El nombre completo **Luz Marina del Rosario Martínez Cabrales** cuenta además con una coincidencia oficial exacta en una publicación de Colpensiones de 2014. Falta todavía el registro civil o bautismal que cierre su filiación en nivel A.
+
 La misma genealogía identifica a **Gabriel Rodrigo Martínez Méndez** como hijo de **Gabriel Ignacio Martínez Cabrales** y **Xenia Méndez de la Espriella**, haciendo de Gabriel Rodrigo un primo hermano de los hijos de Zilia.
 
-Esta coincidencia con el testimonio familiar eleva el valor de la reconstrucción, pero la composición completa de la fratría debe confirmarse mediante entrevistas y registros civiles.
+La composición completa de la fratría debe seguir confirmándose mediante entrevistas y registros civiles, pero **Mara y Luz Marina del Rosario no deben contabilizarse como dos personas distintas**.
+
+Expediente de Mara/Luz Marina: [`../investigacion/luz-marina-del-rosario-martinez-cabrales.md`](../investigacion/luz-marina-del-rosario-martinez-cabrales.md).
 
 ---
 
@@ -198,21 +206,23 @@ Expediente específico: [`../investigacion/guillermo-chicle-bomba-martinez-cabra
 # VII. Documentos prioritarios
 
 1. Registro civil o bautismo de Zilia Margarita Martínez Cabrales.
-2. Matrimonio de Zilia y Mario Gerardo Valderrama Mutis.
-3. Registro/matrimonio de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda.
-4. Partidas de Gabriel María Martínez Sossa y Zoila Rosa Lugo Olivella.
-5. Matrimonio Diego Ángel Martínez de Lora–Carmen Sossa Camargo.
-6. Partidas de Antonio María Martínez Fernández y Manuela Lora Gómez.
-7. Partida matrimonial de José Casiano Martínez Maijel y María Manuela Fernández para resolver Herrera/Miranda.
-8. Registro de Ignacio José Cabrales González y matrimonio con Lorenza Pineda Vélez.
-9. Registro de Ignacio José Cabrales Lora y sus matrimonios.
-10. Partida de Manuel José de la Trinidad Cabrales de Armesto en Ocaña.
-11. Registros de Eusebio José Pineda del Toro, Beleazar Vélez Racero y Lorenza Pineda Vélez.
-12. Registro civil/bautismo de Guillermo Martínez Cabrales.
-13. Matrimonio Guillermo Martínez Cabrales–Cecilia Corrales.
-14. Decreto o acta de nombramiento de Guillermo como alcalde de Lorica.
-15. Fotografías/testimonios que documenten su relación con David Sánchez Juliao y el Tuqui Tuqui.
-16. Entrevistas a Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez para cotejar nombres, lugares, profesiones y documentos conservados.
+2. **Registro civil o bautismo de Luz Marina del Rosario “Mara” Martínez Cabrales.**
+3. **Expediente laboral de Mara/Luz Marina que confirme su trabajo en el Aeropuerto de Cartagena.**
+4. Matrimonio de Zilia y Mario Gerardo Valderrama Mutis.
+5. Registro/matrimonio de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda.
+6. Partidas de Gabriel María Martínez Sossa y Zoila Rosa Lugo Olivella.
+7. Matrimonio Diego Ángel Martínez de Lora–Carmen Sossa Camargo.
+8. Partidas de Antonio María Martínez Fernández y Manuela Lora Gómez.
+9. Partida matrimonial de José Casiano Martínez Maijel y María Manuela Fernández para resolver Herrera/Miranda.
+10. Registro de Ignacio José Cabrales González y matrimonio con Lorenza Pineda Vélez.
+11. Registro de Ignacio José Cabrales Lora y sus matrimonios.
+12. Partida de Manuel José de la Trinidad Cabrales de Armesto en Ocaña.
+13. Registros de Eusebio José Pineda del Toro, Beleazar Vélez Racero y Lorenza Pineda Vélez.
+14. Registro civil/bautismo de Guillermo Martínez Cabrales.
+15. Matrimonio Guillermo Martínez Cabrales–Cecilia Corrales.
+16. Decreto o acta de nombramiento de Guillermo como alcalde de Lorica.
+17. Fotografías/testimonios que documenten su relación con David Sánchez Juliao y el Tuqui Tuqui.
+18. Entrevistas a Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez para cotejar nombres, lugares, profesiones y documentos conservados.
 
 ## Regla editorial
 
