@@ -2,234 +2,186 @@
 
 ## Naturaleza de esta rama
 
-Esta es la **línea adoptiva materna** de **María del Rosario Pino Bechara**. Debe mantenerse diferenciada de su filiación biológica **Farah–Mizrahy**, pero no tratarse como una rama secundaria: corresponde a la familia que la adoptó, crió y le transmitió su identidad jurídica y social en Colombia.
+Esta es la **línea adoptiva materna** de **María del Rosario Pino Bechara**. Debe mantenerse diferenciada de su filiación biológica **Farah–Mizrahy**, pero no tratarse como secundaria: corresponde a la familia que la adoptó, crió y le transmitió identidad jurídica, social y patrimonial en Colombia.
 
-La información familiar actualmente disponible indica que **María del Rosario nació originalmente en Quito, Ecuador**, como hija biológica de **Diana Farah Mizrahy**, y posteriormente fue adoptada en Colombia por:
+Según memoria familiar directa, **María del Rosario nació en Quito, Ecuador**, hija biológica de **Diana Farah Mizrahy**, y posteriormente fue adoptada en Colombia por:
 
 - **Marco Tulio Pino Uribe**;
 - **Hortensia Margarita Bechara Castoony**.
 
-La familia conserva además la forma histórica/original del apellido materno como **Kahtouny**. Según testimonio familiar directo, en la **cédula de ciudadanía de Hortensia su segundo apellido figura como `Castoony`**. Por tanto, para Hortensia se adopta `Castoony` como grafía civil documentada por la familia, mientras `Kahtouny` se mantiene como forma genealógica/histórica de la línea materna que deberá rastrearse en generaciones anteriores.
-
-La filiación adoptiva y el nacimiento en Quito se clasifican por ahora como **C — testimonio familiar directo**, hasta localizar los documentos civiles y de adopción legalmente accesibles. La grafía `Castoony` cuenta además con referencia a documento primario familiar —la cédula— cuya copia todavía no reposa en el repositorio.
+La familia conserva la forma histórica **Kahtouny** para la línea de la madre de Hortensia, **María Cristina Kahtouny**. En la cédula de Hortensia, sin embargo, el segundo apellido figura como **Castoony**. Por ello el nombre canónico del proyecto es **Hortensia Margarita Bechara Castoony**. `Hortencia`, que aparece en algunas providencias, se considera un error de redacción.
 
 ---
 
 # I. Marco Tulio Pino Uribe y el hogar adoptivo
 
-## Corroboración pública del núcleo familiar
+La sentencia **SL994-2023**, radicación 88357, de la Corte Suprema de Justicia, estudió un litigio contra herederos de **Marco Tulio Pino Uribe**. Entre ellos aparecen **María del Rosario Pino Bechara** y una persona identificada como H.B.C. Una providencia anterior desarrolla ese nombre como **“Hortencia Bechara Castoony”**.
 
-Existe una corroboración judicial importante. La sentencia **SL994-2023**, radicación 88357, de la Corte Suprema de Justicia, estudió un litigio seguido contra varias personas reconocidas como herederos de **Marco Tulio Pino Uribe**. Entre ellas aparecen **María del Rosario Pino Bechara** y una persona identificada mediante las iniciales **H.B.C.**.
+La familia aclara que el nombre correcto es **Hortensia**; `Castoony`, en cambio, coincide con su cédula. La evidencia pública enlaza así el núcleo:
 
-Una providencia anterior del mismo expediente, del 27 de enero de 2021, desarrolla el nombre de esa parte como **“Hortencia Bechara Castoony”**, junto a María del Rosario Pino Bechara.
+**Marco Tulio Pino Uribe — Hortensia Bechara Castoony — María del Rosario Pino Bechara**.
 
-La familia aclara que **`Hortencia` es un error de redacción en esa providencia**. El nombre correcto es **Hortensia**, tal como fue usado por la propia familia y como debe registrarse en este proyecto. En cambio, `Castoony` coincide con la grafía que figura en su cédula.
+Estado:
 
-Esta coincidencia enlaza públicamente, dentro del mismo hogar sucesoral:
-
-**Marco Tulio Pino Uribe → Hortensia Bechara Castoony → María del Rosario Pino Bechara**.
-
-### Estado de evidencia
-
-- pertenencia de María del Rosario al núcleo sucesoral de Marco Tulio: **B fuerte / fuente judicial institucional**;
-- nombre correcto `Hortensia`: **C fuerte / corrección familiar directa frente a error de redacción público**;
-- apellido civil `Castoony`: **C fuerte con documento primario reportado por la familia**, pendiente de incorporar copia de la cédula;
-- forma histórica/genealógica `Kahtouny`: **C**, asociada a la línea de María Cristina Kahtouny y pendiente de documentación generacional;
-- naturaleza jurídica exacta de la adopción: **C**, pendiente del registro o sentencia correspondiente.
-
-Fuente principal:
-https://vlex.com.co/vid/sentencia-corte-suprema-justicia-932130827
-
-Providencia oficial de 2021:
-https://www.cortesuprema.gov.co/corte/wp-content/uploads/not/laboral21/prov/88357%20%2827-01-21%29.pdf
+- María del Rosario dentro del núcleo sucesoral de Marco Tulio: **B fuerte**;
+- nombre correcto `Hortensia`: **C fuerte**;
+- apellido civil `Castoony`: **C fuerte con documento primario reportado por la familia**;
+- adopción: **C**, pendiente de sentencia/registro legalmente accesible.
 
 ---
 
 # II. Hortensia Margarita Bechara Castoony
 
-## Identidad familiar
-
-Según memoria familiar directa:
+Según memoria familiar:
 
 **Hortensia Margarita Bechara Castoony**
-
-← hija de **Julio Bechara** × **María Cristina Kahtouny**.
+← **Julio Bechara** × **María Cristina Kahtouny**.
 
 Fue esposa de **Marco Tulio Pino Uribe** y madre adoptiva de **María del Rosario Pino Bechara**.
 
-### Regla nominal del proyecto
+Regla nominal:
 
-Para evitar repetir errores de fuentes secundarias:
-
-- **Nombre canónico de la persona:** Hortensia Margarita Bechara Castoony.
-- **Forma incorrecta encontrada en algunas providencias:** Hortencia.
-- **Forma histórica/familiar de la línea materna:** Kahtouny.
-- `Castuny`, `Khatouny`, `Katouny`, `Kahtouni` y otras formas deben conservarse únicamente como variantes de búsqueda hasta atribuirlas a personas concretas mediante documentos.
+- forma canónica: **Hortensia Margarita Bechara Castoony**;
+- `Hortencia`: error de redacción de fuentes públicas;
+- `Kahtouny`: forma histórica/familiar de la línea de María Cristina;
+- `Castuny`, `Khatouny`, `Katouny`, `Kahtouni` y otras grafías se usan solo como variantes de búsqueda hasta asignarlas documentalmente a personas concretas.
 
 ---
 
 # III. Julio Bechara y sus dos matrimonios
 
-La memoria familiar reconstruye a **Julio Bechara** como padre de una familia numerosa formada en dos matrimonios.
-
 ## Primer matrimonio
 
-La primera esposa de Julio aún no ha sido identificada por nombre completo. La tradición familiar recuerda que también llevaba **Bechara** como apellido y que era pariente de Julio. Falleció y Julio contrajo posteriormente un segundo matrimonio.
+La primera esposa de Julio no ha sido identificada por nombre completo. La familia recuerda que también llevaba el apellido **Bechara** y era pariente de Julio.
 
-Hijos atribuidos a la primera unión:
+Hijos atribuidos:
 
-1. **Odeth Bechara**, conocida familiarmente como **“La Mona”**;
+1. **Odeth Bechara**, “La Mona”;
 2. **Alfredo Bechara**;
-3. **Anyel Bechara**, recordada como **Anyel Bechara de Mena**.
-
-Estado: **C — memoria familiar**, pendiente de partidas civiles, bautismos, matrimonios y/o sucesión de Julio.
+3. **Anyel Bechara de Mena**.
 
 ## Segundo matrimonio: Julio Bechara × María Cristina Kahtouny
 
 Hijos atribuidos:
 
-1. **Lilia Bechara Kahtouny/Castoony**;
-2. **Hortensia Margarita Bechara Castoony**;
-3. **Emma Bechara Kahtouny/Castoony**;
-4. **Edmond / Edmundo Bechara Kahtouny/Castoony**;
-5. **Antonio Bechara Kahtouny/Castoony**;
-6. **Nemesio Bechara Kahtouny/Castoony**;
-7. **Jorge Bechara Kahtouny/Castoony**;
-8. **Katia Bechara Kahtouny/Castoony**.
+1. **Lilia**;
+2. **Hortensia Margarita**;
+3. **Emma**;
+4. **Edmond / Edmundo**;
+5. **Antonio**;
+6. **Nemesio**;
+7. **Jorge**;
+8. **Katia**.
 
-No debe imponerse `Castoony` automáticamente a todos los hermanos hasta revisar sus documentos personales; la forma se confirma por ahora para Hortensia.
-
-### Problema de conteo que debe conservarse
-
-Los nombres actualmente recordados producen **11 hijos de Julio en total**: tres de la primera unión y ocho de la segunda. Esto significa que Hortensia tendría **10 hermanos**, no once. Como la memoria familiar utiliza también la expresión “tuvo 11 hermanos”, existen dos posibilidades abiertas:
-
-- la expresión se refiere en realidad a una **fratría de once hijos** incluyendo a Hortensia;
-- falta todavía identificar un duodécimo hijo de Julio.
-
-No debe corregirse la tradición por intuición: la sucesión, partidas o una entrevista con familiares mayores deberá resolverlo.
+Los once nombres conocidos representan once hijos de Julio en total, por lo que Hortensia tendría diez hermanos. La tradición de “once hermanos” permanece abierta: puede referirse a once hijos totales o indicar que falta una persona.
 
 ---
 
-# IV. Posibles corroboraciones de hermanos
+# IV. Hermanos y candidatos documentales
 
 ## Edmundo José Bechara Castuny
 
-Documentación judicial y notarial reciente registra a un **Edmundo José Bechara Castuny**, residente y propietario en Cartagena, fallecido allí el **22 de febrero de 2016**. Su apellido materno `Castuny` es cercano a la grafía civil `Castoony` de Hortensia y a la forma familiar `Kahtouny`.
+Documentación judicial y notarial registra en Cartagena a **Edmundo José Bechara Castuny**, fallecido el 22 de febrero de 2016. Por nombre, ciudad y variante materna es un candidato muy fuerte para el hermano recordado como Edmond/Edmundo, pero falta un documento que nombre a **Julio Bechara y María Cristina** como sus padres.
 
-Es un candidato fuerte para ser el hermano recordado como **Edmond Bechara**, pero **la identificación no está aún demostrada** porque las fuentes localizadas no indican los nombres de sus padres.
+La familia aporta además un dato empresarial directo: **Pan Francés fue propiedad de Edmond/Edmundo Bechara**.
 
-Estado: **D fuerte — candidato de identidad**.
+Estado de esa propiedad: **C fuerte — memoria familiar directa**, pendiente de matrícula mercantil o escritura societaria.
 
-Documento decisivo: registro civil de nacimiento o matrimonio de Edmundo José donde consten Julio Bechara y María Cristina como padres.
+## Jorge Bechara
 
-## Jorge Bechara K.
+Una fuente industrial cartagenera menciona a **“Jorge Bechara K.”**, posible candidato para el hermano Jorge. La familia recuerda además que **Pan Bechara Ltda. perteneció a la familia** y considera posible que fuera de Jorge, pero no lo afirma con certeza.
 
-Una tesis industrial de la Corporación Tecnológica de Bolívar de finales de la década de 1970 contiene una referencia a **“Jorge Bechara K.”** dentro de un listado empresarial cartagenero. La inicial `K.` y el contexto cronológico convierten a esta persona en un posible candidato para el hermano Jorge recordado por la familia.
+Estado:
 
-Estado: **E/D — pista**, no identidad demostrada.
+- Pan Bechara Ltda. como panadería familiar: **C fuerte**;
+- propiedad de Jorge: **E/D — hipótesis familiar pendiente de prueba**.
 
 ## Katia Bechara
 
-Un estudio académico sobre los cineclubes cartageneros identifica a una estudiante **Katia Bechara** como tesorera del Cine Club Universitario de la Universidad de Cartagena en marzo de **1970**.
-
-La coincidencia de nombre, ciudad y generación hace que sea una pista útil, pero no existe todavía información de filiación que permita identificarla con seguridad como hermana de Hortensia.
-
-Estado: **E/D — posible identidad**.
-
-Fuente:
-https://dialnet.unirioja.es/descarga/articulo/8982888.pdf
+Un estudio académico identifica a una **Katia Bechara** como tesorera del Cine Club Universitario de la Universidad de Cartagena en 1970. Es una pista nominal pendiente de filiación.
 
 ---
 
-# V. Hortensia y Pan Suizo
+# V. Una red panificadora familiar: tres empresas distintas
 
-La tradición familiar recuerda a **Hortensia Margarita Bechara Castoony como propietaria de la panadería Pan Suizo** de Cartagena.
+La nueva información obliga a abandonar la idea de que `Pan Bechara Ltda.` pudiera ser una mala lectura de `Pino Bechara`. **Pan Suizo, Pan Francés y Pan Bechara fueron negocios distintos**, todos vinculados por memoria familiar a la rama Bechara.
 
-La búsqueda documental demuestra que **Pan Suizo fue una empresa real y relevante dentro de la historia industrial y comercial cartagenera**.
+## A. Pan Suizo
 
-## 1961: aparición de Pan Suizo
+La familia recuerda a **Hortensia** como propietaria de **Pan Suizo**. La sociedad asociada al negocio era **Pino Bechara**, no `Fino Bechara`.
 
-La tesis de 1987 **_Estructura de la mediana y grande industria en Cartagena_**, de la Corporación Tecnológica de Bolívar, incluye a **Pan Suizo** entre las empresas industriales que aparecieron en Cartagena en **1961**.
+Una tesis de 1987 de la Corporación Tecnológica de Bolívar sitúa Pan Suizo entre las empresas industriales de Cartagena desde **1961**, lo incluye en el subsector panadero y registra como producción **pan y dulcería**. Información urbana todavía menciona Pan Suizo en 1997.
 
-Fuente:
-https://biblioteca.utb.edu.co/notas/tesis/0013058.pdf
+Denominación de trabajo:
 
-## 1984: Pino Bechara e Hijos — Pan Suizo
+**PINO BECHARA E HIJOS — PAN SUIZO**.
 
-La misma investigación explica que tomó como referencia las empresas medianas registradas en la **Cámara de Comercio de Cartagena en diciembre de 1984**.
+Estado:
 
-Una lectura/transcripción previa del documento había interpretado la razón social como `FINO BECHARA E HIJOS`. La familia corrige este punto: **la sociedad era `PINO BECHARA`, no `Fino Bechara`**.
+- existencia y actividad industrial: **B fuerte**;
+- razón familiar `Pino Bechara`: **C fuerte**, pendiente de certificado histórico;
+- propiedad de Hortensia: **C fuerte**, pendiente de matrícula mercantil.
 
-Por tanto, la denominación de trabajo correcta es:
+## B. Pan Francés
 
-**PINO BECHARA E HIJOS — “PAN SUIZO”**.
+La familia identifica **Pan Francés** como panadería de **Edmond/Edmundo Bechara**.
 
-Esta corrección es genealógicamente muy significativa porque combina precisamente los apellidos del matrimonio **Pino Uribe × Bechara Castoony**. El documento mercantil original deberá consultarse para fijar la razón social completa, forma jurídica y socios, pero `Fino Bechara` deja de tratarse como persona o hipótesis familiar.
+Existe corroboración pública independiente de la existencia y relevancia social del establecimiento: una crónica de Leonor Espinosa en *El Espectador* recuerda **El Pan Francés en la calle Segunda de Badillo**, famoso por el olor de sus panochas y como parte de la memoria gastronómica de Cartagena de las décadas de 1960–1980.
 
-## Producción
+La fuente pública no identifica al propietario. Por ello:
 
-La misma tesis especifica el producto de Pan Suizo como:
+- existencia, ubicación histórica y fama: **B fuerte**;
+- propiedad de Edmond/Edmundo: **C fuerte**, pendiente de Cámara de Comercio, escritura o directorio empresarial.
 
-**“Pan y dulcería”.**
+## C. Pan Bechara Ltda.
 
-Otra tabla fue transcrita previamente como `PAN BECHARA LTDA.`. A la luz de la corrección familiar, debe revisarse el original porque podría corresponder a **PINO BECHARA LTDA.** u otra denominación de la misma sociedad. No se normalizará hasta comprobar la imagen/documento mercantil.
+La familia aclara que **Pan Bechara Ltda. fue otra panadería familiar**, distinta de Pan Suizo. La titularidad exacta no está clara; existe la posibilidad de que estuviera vinculada con **Jorge Bechara**.
 
-## Presencia urbana posterior
+Además de la memoria familiar, existen rastros nominales públicos de **PAN BECHARA & CIA LTDA.**, útiles como pista registral, pero deben reemplazarse por certificados históricos de la Cámara de Comercio.
 
-Un documento de 1984 sobre servicios urbanos de Cartagena incluye a **Pan Suizo** entre establecimientos que recibían atención diaria.
+Estado:
 
-El diagnóstico que sirvió al **Plan de Ordenamiento Territorial de Cartagena de 2001**, basado en trabajo de campo de **febrero de 1997**, todavía enumera **Pan Suizo** dentro del sistema comercial asociado a las calles Primera y Segunda de Badillo y la Plaza Fernández de Madrid.
-
-Esto permite establecer una trayectoria pública mínima:
-
-**1961 → 1984 → 1997**.
-
-### Estado de la afirmación de propiedad de Hortensia
-
-- existencia de Pan Suizo: **B fuerte**;
-- actividad desde 1961: **B fuerte**;
-- razón social familiar `Pino Bechara`: **C fuerte / corrección familiar directa**, pendiente de certificado histórico camerario;
-- condición de empresa mediana en 1984: **B fuerte**;
-- producción de pan y dulcería: **B fuerte**;
-- propiedad personal de Hortensia: **C — tradición familiar directa**, pendiente de Cámara de Comercio, escritura social, matrícula mercantil o sucesión.
+- existencia como negocio familiar: **C fuerte**;
+- posible continuidad/identidad con `Pan Bechara & Cía. Ltda.`: **D**;
+- propiedad de Jorge: **E/D**.
 
 ---
 
-# VI. María del Rosario: adopción y dos genealogías simultáneas
+# VI. Hipótesis histórica: una familia especializada en panificación y alimentos
 
-La investigación debe representar a María del Rosario con dos estructuras paralelas:
+La coexistencia de **Pan Suizo, Pan Francés y Pan Bechara Ltda.** dentro de la memoria de una misma fratría transforma la interpretación de la familia.
+
+Ya no se trata únicamente de una abuela que tuvo una panadería. La hipótesis de trabajo pasa a ser la existencia de una **red empresarial familiar especializada en panificación, dulcería y comercio alimentario en Cartagena**, posiblemente distribuida entre varios hermanos y hogares.
+
+Esta hipótesis debe probarse negocio por negocio mediante matrículas mercantiles, sociedades, directorios, prensa, avisos, facturas y sucesiones.
+
+---
+
+# VII. María del Rosario: dos genealogías simultáneas
 
 ### Filiación biológica
 
-**Diana Farah Mizrahy**
-→ **María del Rosario** — nacida en Quito según memoria familiar.
+**Diana Farah Mizrahy** → **María del Rosario**, nacida en Quito según memoria familiar.
 
 ### Filiación adoptiva
 
-**Marco Tulio Pino Uribe × Hortensia Margarita Bechara Castoony**
-→ **María del Rosario Pino Bechara**.
-
-Una genealogía rigurosa no debe borrar ninguna de las dos. La primera explica ascendencia biológica; la segunda explica familia, crianza, identidad jurídica y una parte central de la historia de vida.
+**Marco Tulio Pino Uribe × Hortensia Margarita Bechara Castoony** → **María del Rosario Pino Bechara**.
 
 ---
 
-# VII. Documentos prioritarios
+# VIII. Documentos prioritarios
 
-1. Registro civil ecuatoriano de nacimiento de María del Rosario en **Quito**.
-2. Registro civil colombiano posterior y notas marginales legalmente accesibles.
-3. Sentencia o escritura/documento de adopción, si existe y puede consultarse legalmente.
-4. Matrimonio **Marco Tulio Pino Uribe × Hortensia Margarita Bechara Castoony**.
-5. Copia o transcripción certificada de la cédula/registro civil de Hortensia.
-6. Matrimonio **Julio Bechara × María Cristina Kahtouny**.
-7. Identidad y matrimonio de la primera esposa de Julio Bechara.
-8. Registros de los once hijos actualmente identificados de Julio.
-9. Sucesión/testamento de Julio Bechara, que podría resolver ambos matrimonios y la fratría completa.
-10. Matrícula mercantil histórica de **Pan Suizo**, desde 1961.
-11. Expediente histórico de **Pino Bechara e Hijos** y posibles variantes societarias en la Cámara de Comercio de Cartagena.
-12. Documentos societarios que identifiquen socios, propietarios, administradores y sucesores de Pan Suizo.
-13. Registro de Edmundo José Bechara Castuny para comprobar o descartar que sea el hermano de Hortensia.
-14. Fuentes familiares: fotografías, avisos de Pan Suizo, empaques, facturas, escrituras, recetas, nóminas y álbumes.
+1. Registro de nacimiento de María del Rosario en Quito.
+2. Documento de adopción / registro colombiano.
+3. Matrimonio Marco Tulio Pino Uribe–Hortensia Bechara Castoony.
+4. Registro/cédula de Hortensia.
+5. Matrimonios y sucesión de Julio Bechara.
+6. Matrícula histórica de **Pan Suizo** y **Pino Bechara e Hijos**.
+7. Matrícula histórica de **Pan Francés**, buscando expresamente a **Edmundo/Edmond José Bechara** y variantes.
+8. Matrícula y expediente histórico de **Pan Bechara Ltda. / Pan Bechara & Cía. Ltda.**, buscando especialmente a **Jorge Bechara** y variantes.
+9. Directorios telefónicos/comerciales de Cartagena entre 1955 y 1995.
+10. Fotografías, bolsas, cajas, membretes, facturas, recetas y publicidad de las tres panaderías.
 
 ## Regla metodológica
 
-La grafía civil de Hortensia debe registrarse como **Castoony** y su nombre como **Hortensia**. `Hortencia` se conserva únicamente cuando se cita literalmente una fuente que contiene ese error. La forma `Kahtouny` continúa siendo relevante para reconstruir la línea materna de María Cristina, pero no debe sustituir la forma civil de Hortensia en documentos contemporáneos.
+Las tres empresas deben investigarse por separado. La coincidencia del apellido Bechara y el hecho de compartir actividad panificadora no permite asumir automáticamente la misma sociedad, propietarios o fechas.
