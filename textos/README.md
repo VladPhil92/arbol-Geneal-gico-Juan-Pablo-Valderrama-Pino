@@ -33,7 +33,8 @@ Los textos distinguen entre:
 18. [Guillermo “Chicle Bomba” Martínez Cabrales: política, sociabilidad y transformación en personaje literario](18_chicle_bomba_politica_sociedad_y_ficcion_loriquera.md)
 19. [Hortensia Margarita Bechara Castoony y Pan Suizo](19_hortensia_bechara_kahtouny_y_pan_suizo.md)
 20. [Julio Bechara, María Cristina Kahtouny y una familia formada por dos matrimonios](20_julio_bechara_maria_cristina_kahtouny_y_la_fratria.md)
-21. [Pan Suizo, Pan Francés y Pan Bechara: una red familiar de panificación en Cartagena](21_pan_suizo_pan_frances_y_pan_bechara_una_red_familiar.md) — **nuevo**
+21. [Pan Suizo, Pan Francés y Pan Bechara: una red familiar de panificación en Cartagena](21_pan_suizo_pan_frances_y_pan_bechara_una_red_familiar.md)
+22. [Edmundo, Jorge y Anyer Bechara: empresa, familia y redes entre Cartagena, Santa Marta y el Valle del Cauca](22_edmundo_jorge_anyer_bechara_hermanos_y_redes.md) — **nuevo**
 
 ## Dossier Mutis
 
@@ -45,7 +46,7 @@ Los textos **5, 13, 14, 15, 16, 17 y 18** estudian el linaje Martínez del Sinú
 
 ## Dossier materno Pino–Bechara–Kahtouny / Castoony / Farah–Mizrahy
 
-Los textos **6, 19, 20 y 21** desarrollan la historia materna mediante dos líneas claramente diferenciadas.
+Los textos **6, 19, 20, 21 y 22** desarrollan la historia materna mediante dos líneas claramente diferenciadas.
 
 ### Línea adoptiva
 
@@ -55,14 +56,19 @@ El dossier incorpora:
 
 1. corroboración judicial del núcleo sucesoral Pino–Bechara;
 2. corrección canónica de **Hortensia** frente al error `Hortencia`;
-3. **Castoony** como grafía civil de la cédula de Hortensia y `Kahtouny` como forma histórica de la línea de María Cristina;
-4. los dos matrimonios de Julio Bechara y la fratría conocida;
-5. la historia de **Pan Suizo**, vinculada a Hortensia y a la sociedad **Pino Bechara**;
-6. **Pan Francés**, establecimiento histórico de la Segunda de Badillo, atribuido por memoria familiar a **Edmond/Edmundo Bechara**;
-7. **Pan Bechara Ltda.**, otra panadería familiar cuya posible vinculación con **Jorge Bechara** permanece como hipótesis;
-8. la hipótesis de una **red familiar especializada en panificación y alimentos**;
-9. pistas documentales para Edmundo José Bechara Castuny, Jorge Bechara K. y Katia Bechara;
-10. la necesidad de obtener matrículas mercantiles de las tres panaderías para reconstruir propiedad y sociedades.
+3. **Castoony** como grafía civil de la cédula de Hortensia y `Kahtouny/Kajtouny/Castuny` como variantes documentales históricas de la familia;
+4. conflicto de nacimiento de Hortensia: **1935 en cédula vs. 1930 declarado personalmente**, mantenido como contradicción abierta;
+5. los dos matrimonios de Julio Bechara y la fratría conocida;
+6. la historia de **Pan Suizo**, vinculada a Hortensia y a la sociedad **Pino Bechara**;
+7. **Pan Francés**, establecimiento histórico de la Segunda de Badillo, atribuido por memoria familiar a **Edmundo José Bechara**;
+8. descendencia de Edmundo corroborada por expediente judicial: **Julio César, Karina María y Claudia Patricia Bechara Márquez**, además de **Edmond José Bechara Donado**;
+9. **Jorge Luis Bechara Kajtouny**, su núcleo con **María Edilma Hortúa Restrepo** y los hijos Fadia, Tatiana y Jorge;
+10. continuidad empresarial de esa rama hacia **hostelería y turismo en Santa Marta**;
+11. **Anyer/Anyel Bechara de Mena**, corroborada socialmente junto a Hortensia y Emma;
+12. investigación abierta sobre su esposo **Alfonso Mena**, con **Alfonso Mena Delgado** como candidato histórico aún no demostrado;
+13. **Pan Bechara Ltda.**, otra panadería familiar cuya posible vinculación con Jorge permanece como hipótesis;
+14. la hipótesis de una **red familiar especializada en panificación, propiedad y servicios**;
+15. la necesidad de obtener matrículas mercantiles, matrimonios y registros civiles para elevar las conexiones a evidencia primaria.
 
 ### Línea biológica
 
@@ -75,6 +81,7 @@ Esta línea permanece abierta y se investigará mediante registros ecuatorianos,
 - [`../familias/pino-bechara.md`](../familias/pino-bechara.md)
 - [`../familias/farah-mizrahy.md`](../familias/farah-mizrahy.md)
 - [`../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md`](../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md)
+- [`../investigacion/edmundo-jorge-anyer-bechara.md`](../investigacion/edmundo-jorge-anyer-bechara.md)
 - [`../fuentes/pino-bechara-kahtouny.md`](../fuentes/pino-bechara-kahtouny.md)
 
 ## Núcleo Valderrama–Mutis
