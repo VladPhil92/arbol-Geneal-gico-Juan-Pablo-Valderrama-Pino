@@ -244,9 +244,12 @@ Padres atribuidos secundariamente:
 
 # Línea materna biológica
 
-## María del Rosario Pino Bechara
+## María del Rosario “Chayo” Pino Bechara
 Madre biológica:
 - Diana Farah Mizrahy.
+
+Nacimiento según memoria familiar:
+- Quito, Ecuador.
 
 Padre biológico:
 - pendiente de identificación/documentación.
@@ -259,30 +262,88 @@ Pendiente:
 - padres;
 - abuelos;
 - hermanos;
-- origen de Farah y Mizrahy;
-- migración a Colombia;
+- documentación de filiación;
 - variantes ortográficas.
+
+No inferir etnia, religión o nacionalidad ancestral únicamente por los apellidos.
 
 ---
 
-# Línea materna adoptiva
+# Línea materna adoptiva Pino–Bechara
 
-## María del Rosario Pino Bechara
-Padres adoptivos:
-- Marco Tulio Pino Uribe.
-- Hortensia Bechara Kahtouny.
+## María del Rosario “Chayo” Pino Bechara
 
-## Marco Tulio Pino Uribe
-Ascendencia: pendiente.
+Padres adoptivos/criadores según memoria familiar:
+- **Marco Tulio Pino Uribe** — ★ 29 mar. 1941 / † 7 dic. 2014;
+- **Hortensia Margarita Bechara Castoony** — ★ 22 mar. 1935 / † 2 sep. 2026, con tradición autobiográfica previa que sitúa su nacimiento en 1930.
 
-## Hortensia Bechara Kahtouny
-Ascendencia: pendiente.
+La Corte Suprema documenta a María del Rosario dentro del núcleo sucesoral de Marco Tulio y registra una `Hortencia Bechara Castoony`; la familia corrige el nombre a **Hortensia**.
 
-Variantes del segundo apellido a investigar:
+Estado de la adopción formal: **C + B contextual**, pendiente del documento específico.
+
+Expediente canónico: [`pino-bechara.md`](pino-bechara.md).
+
+### Hortensia — variantes nominales
+
+Forma civil de trabajo:
+- **Hortensia Margarita Bechara Castoony**.
+
+Variantes documentales/familiares relevantes:
 - Kahtouny;
+- Kahtouni;
+- Castuny;
+- Kajtouny;
 - Khatouny;
-- Katouny;
-- Kahtouni.
+- Katouny.
+
+No uniformarlas entre personas sin documento.
+
+### Julio Bechara — fratría conocida
+
+Primer matrimonio, con mujer Bechara todavía no identificada:
+- **Angel / Anyel Bechara de Mena** — 1920–2015, conflicto nominal abierto;
+- **Odette / Odeth Bechara Bechara** — 1923–1990, conflicto ortográfico abierto;
+- Alfredo Bechara.
+
+Segundo matrimonio con **María Cristina Kahtouny**:
+- **Lilia Bechara de Bayter** — 1928–2010;
+- Hortensia;
+- Emma;
+- Edmond / Edmundo José;
+- Antonio;
+- Nemesio;
+- Jorge Luis;
+- Katia.
+
+Hija conocida de Lilia:
+- **Lilian M. Bayter Bechara** — 1956–2018.
+
+### Red empresarial y comercial
+
+La investigación ya permite tratar esta rama como una línea de **historia empresarial y social de Cartagena**:
+
+- **Pan Suizo** aparece documentado desde **1961**, producía **pan y dulcería** y todavía era visible comercialmente en **1997**;
+- la fuente industrial de 1987 imprime `FINO BECHARA E HIJOS “PAN SUIZO”`; la familia recuerda `PINO BECHARA`, por lo que la razón social exacta está en **X** hasta revisar Cámara de Comercio;
+- la misma fuente registra **PAN BECHARA LTDA. — 1961**;
+- la familia vincula a **Hortensia con Pan Suizo**: **C fuerte**, pendiente de prueba mercantil;
+- **Pan Francés** está documentado públicamente como negocio histórico de Segunda de Badillo y la familia lo atribuye a **Edmundo Bechara**;
+- **Pan Bechara Ltda.** es recordado como negocio familiar, posiblemente relacionado con Jorge;
+- Edmundo presenta además huella patrimonial/inmobiliaria pública;
+- descendientes de la rama Jorge aparecen vinculados a hotelería y turismo en Santa Marta.
+
+Pista societaria prioritaria:
+- **PINO BECHARA E HIJA LTDA. “EN LIQUIDACIÓN”** — existencia nominal localizada, vínculo con el núcleo todavía no demostrado.
+
+Expediente empresarial de Hortensia: [`../investigacion/hortensia-bechara-castoony_trayectoria-comercial.md`](../investigacion/hortensia-bechara-castoony_trayectoria-comercial.md).
+
+### Huella pública de Chayo
+
+- `María del Rosario Pino Bechara = Chayo Pino`: **B+C fuerte**, por prensa social + familia;
+- existe una coincidencia electoral exacta de **MARIA DEL ROSARIO PINO BECHARA** como candidata al Concejo de Cartagena en **2011**, movimiento `Sí es Posible`, n.º 011, 180 votos: **B/D fuerte**, pendiente de puente individual;
+- existe un perfil indexado `Chayo Pino De Valderrama — MetLife`: **D/B fuerte** para identidad/trayectoria profesional, pendiente de confirmación;
+- una nota social de 2013 conecta públicamente a miembros del núcleo Valderrama–Pino con Hortensia Bechara.
+
+Expediente de Chayo: [`../investigacion/maria-del-rosario-chayo-pino-bechara.md`](../investigacion/maria-del-rosario-chayo-pino-bechara.md).
 
 ---
 
