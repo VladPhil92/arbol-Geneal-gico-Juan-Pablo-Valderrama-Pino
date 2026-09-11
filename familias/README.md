@@ -2,10 +2,21 @@
 
 ## Generación central
 
+### Gabriel José Valderrama Martínez × María del Rosario Pino Bechara
+
+Hijos confirmados por información familiar directa:
+
+- **Juan Pablo Valderrama Pino**, n. **7 de febrero de 1992**.
+- **Gabriel Andrés Valderrama Pino**, n. **25 de agosto de 1995**.
+- **Jacobo José Valderrama Pino**, n. **3 de enero de 2003**.
+
+Expediente familiar: [`valderrama-martinez.md`](valderrama-martinez.md).
+
 ### Juan Pablo Valderrama Pino
-- Nacimiento: Cartagena de Indias, 1992.
+- Nacimiento: Cartagena de Indias, **7 de febrero de 1992**.
 - Padre: Gabriel José Valderrama Martínez.
 - Madre: María del Rosario Pino Bechara.
+- Hermanos: Gabriel Andrés Valderrama Pino y Jacobo José Valderrama Pino.
 
 ---
 
@@ -18,9 +29,17 @@ Padres:
 - Mario Gerardo Valderrama Mutis.
 - Zilia Margarita Martínez Cabrales.
 
+Cónyuge:
+- María del Rosario Pino Bechara.
+
+Hijos:
+- Juan Pablo Valderrama Pino, n. 7 feb 1992.
+- Gabriel Andrés Valderrama Pino, n. 25 ago 1995.
+- Jacobo José Valderrama Pino, n. 3 ene 2003.
+
 Hermanos identificados por la familia:
 - **Mario Gerardo Valderrama Martínez**, nacido en **1962**, fallecido en año todavía pendiente de confirmar.
-- **Juan Carlos Valderrama Martínez**, nacido en **1966**, casado con **Leida Pernett**.
+- **Juan Carlos Valderrama Martínez**, nacido en **1966**, casado con **Leyda del Carmen Pernett Cárdenas**.
 
 Expediente de esta generación: [`valderrama-martinez.md`](valderrama-martinez.md).
 
@@ -31,12 +50,18 @@ La familia informa que tuvo varios hijos. Hasta ahora se conocen:
 - **Sebastián Valderrama [segundo apellido desconocido]**.
 - otros hijos cuya existencia es conocida, pero cuyas identidades están pendientes.
 
-### Rama de Juan Carlos Valderrama Martínez × Leida Pernett
+### Rama de Juan Carlos Valderrama Martínez × Leyda del Carmen Pernett Cárdenas
+
+**Leyda del Carmen Pernett Cárdenas**, n. **31 de octubre de 1967**.
 
 Hijos:
-- **Zilia Valderrama Pernett**.
-- **Vanessa Valderrama Pernett**.
-- **Alejandro Valderrama Pernett**.
+- **Zilia Valderrama Pernett**, n. **12 de marzo de 1995**.
+- **Vanessa Valderrama Pernett**, fecha de nacimiento pendiente.
+- **Alejandro Valderrama Pernett**, fecha de nacimiento pendiente.
+
+Juan Carlos ha aportado además testimonio oral directo sobre la fratría de su madre, Zilia Margarita Martínez Cabrales. Señala a **Gabriel Ignacio Martínez Cabrales como el hijo mayor** de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda, y recuerda también a Eusebio, Juan, Guillermo, Luz Marina, Zilia y Gustavo, sin poder precisar el orden posterior.
+
+Testimonio: [`../entrevistas/testimonio-juan-carlos-valderrama-martinez.md`](../entrevistas/testimonio-juan-carlos-valderrama-martinez.md).
 
 Estado de estos datos: **C fuerte — información familiar directa**, pendiente de registros civiles.
 
@@ -178,6 +203,20 @@ Padres atribuidos:
 Posible nacimiento:
 - año 1942;
 - lugar controvertido: Cartagena de Indias vs. Montería.
+
+### Hermanos
+
+La composición actualmente reconocida de la fratría de Zilia es:
+
+- Gabriel Ignacio Martínez Cabrales — **hijo mayor según testimonio oral de Juan Carlos Valderrama Martínez**;
+- Eusebio Martínez Cabrales;
+- Juan Martínez Cabrales;
+- Guillermo Martínez Cabrales;
+- Luz Marina del Rosario “Mara” Martínez Cabrales;
+- Zilia Margarita Martínez Cabrales;
+- Gustavo Adolfo Martínez Cabrales.
+
+**No se conoce todavía el orden cronológico de los seis hermanos posteriores a Gabriel Ignacio.**
 
 ## Gabriel María Martínez Lugo
 Padres atribuidos:
