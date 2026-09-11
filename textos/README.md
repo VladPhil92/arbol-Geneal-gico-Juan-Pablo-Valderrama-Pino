@@ -20,7 +20,7 @@ Cuando una relación todavía requiere una partida, registro civil, archivo parr
 3. [Los Mutis de Santander: de Cádiz y la Ilustración a Bucaramanga y sus descendientes](03_los_mutis_de_santander.md) — **edición ampliada**
 4. [Una constelación familiar de escritores, científicos e intelectuales](04_parentescos_literarios_y_culturales.md) — **edición ampliada**
 5. [La rama Martínez–Cabrales: Cartagena, Lorica y Montería en una misma memoria familiar](05_la_rama_martinez_cabrales.md) — **edición ampliada**
-6. [La línea materna: Pino–Bechara y Farah–Mizrahy](06_linea_materna_pino_bechara_farah_mizrahy.md)
+6. [La línea materna: dos genealogías, Pino–Bechara–Kahtouny y Farah–Mizrahy](06_linea_materna_pino_bechara_farah_mizrahy.md) — **edición ampliada**
 7. [Memoria oral, archivo y verdad genealógica](07_memoria_familiar_y_metodo_genealogico.md)
 8. [El encuentro Valderrama–Mutis: dos redes santandereanas en una misma familia](08_el_encuentro_valderrama_mutis.md)
 9. [José Celestino Mutis y nuestra rama familiar: una conexión colateral, histórica y documentable](09_jose_celestino_mutis_y_nuestra_rama.md)
@@ -33,6 +33,8 @@ Cuando una relación todavía requiere una partida, registro civil, archivo parr
 16. [Personajes clave del linaje Martínez–Cabrales](16_personajes_clave_del_linaje_martinez_cabrales.md)
 17. [Guillermo “Chicle Bomba” Martínez Cabrales y David Sánchez Juliao](17_guillermo_chicle_bomba_martinez_cabrales_y_david_sanchez_juliao.md)
 18. [Guillermo “Chicle Bomba” Martínez Cabrales: política, sociabilidad y transformación en personaje literario](18_chicle_bomba_politica_sociedad_y_ficcion_loriquera.md) — **investigación ampliada**
+19. [Hortensia Margarita Bechara Kahtouny y Pan Suizo: familia, empresa y memoria en Cartagena](19_hortensia_bechara_kahtouny_y_pan_suizo.md) — **nuevo**
+20. [Julio Bechara, María Cristina Kahtouny y una familia formada por dos matrimonios](20_julio_bechara_maria_cristina_kahtouny_y_la_fratria.md) — **nuevo**
 
 ## Dossier Mutis
 
@@ -40,20 +42,7 @@ Los textos **3, 9, 10, 11 y 12** forman un dossier específico sobre la rama Mut
 
 ## Dossier Martínez–Cabrales
 
-Los textos **5, 13, 14, 15, 16, 17 y 18** forman el dossier de la rama de Zilia Margarita Martínez Cabrales. En conjunto permiten estudiar:
-
-1. **La línea Martínez:** José Casiano Martínez Maijel → Antonio María Martínez Fernández → Diego Ángel Martínez de Lora → Gabriel María Martínez Sossa → Gabriel María Martínez Lugo → Zilia.
-2. **El contexto histórico:** Independencia, desplazamiento Cartagena–Lorica, comercio de importación, ganadería y formación de empresas familiares en el Sinú.
-3. **La línea Cabrales:** Manuel José de la Trinidad Cabrales de Armesto → Ignacio José Cabrales Lora → Ignacio José Cabrales González → Zoila Margarita Cabrales Pineda → Zilia.
-4. **La línea Pineda:** Nicolás José Pineda de Lora → Eusebio José Pineda del Toro → Lorenza Pineda Vélez → Zoila Margarita Cabrales Pineda.
-5. **La geografía familiar:** Ocaña, Cartagena, Lorica, Montería, Manga y el barrio La Ceiba.
-6. **Personajes históricos:** José Casiano, Antonio María, Diego Ángel, Gabriel María Martínez Sossa, Ignacio José Cabrales González y otros miembros que participaron en guerra, comercio, ganadería o vida municipal.
-7. **La cultura oral del Bajo Sinú:** Guillermo “Chicle Bomba” Martínez Cabrales, hermano de Zilia, alcalde de Lorica y contertulio de David Sánchez Juliao.
-8. **La dimensión política de Chicle Bomba:** actividad electoral documentada de forma secundaria hacia la década de 1970 y una alcaldía cuyo decreto de nombramiento permanece pendiente; se descarta por ahora presentarla como elección popular, pues ese mecanismo solo comenzó en Colombia en 1988.
-9. **La conexión literaria:** el apodo atribuido a Sánchez Juliao, las tertulias de El Tuqui Tuqui y La Hernia y la aparición nominal de “Chicle Bomba” dentro de _El Flecha_.
-10. **La poética de la oralidad:** transformación de personas y apodos reales en materia narrativa mediante memoria, exageración, testimonio y ficción.
-11. **La historia oral viva:** Gabriel José Valderrama Martínez y Gabriel Rodrigo Martínez como fuentes clave para verificar la fratría y recuperar documentos familiares.
-12. **Las contradicciones abiertas:** lugar de nacimiento de Zilia, variantes de nombres, composición completa de la fratría, período exacto de alcaldía de Guillermo y contexto de la propaganda “Vote por Chicle Bomba”.
+Los textos **5, 13, 14, 15, 16, 17 y 18** forman el dossier de la rama de Zilia Margarita Martínez Cabrales. En conjunto estudian el linaje Martínez del Sinú, los Cabrales–Pineda de Montería, la generación de Zilia y la figura política y literaria de Guillermo “Chicle Bomba” Martínez Cabrales.
 
 El dossier cuenta con:
 
@@ -62,6 +51,38 @@ El dossier cuenta con:
 - expediente crítico política/literatura: [`../investigacion/chicle-bomba_politica-literatura.md`](../investigacion/chicle-bomba_politica-literatura.md)
 - inventario general de fuentes: [`../fuentes/martinez-cabrales.md`](../fuentes/martinez-cabrales.md)
 - fuentes específicas de Chicle Bomba: [`../fuentes/chicle-bomba.md`](../fuentes/chicle-bomba.md)
+
+## Dossier materno Pino–Bechara–Kahtouny / Farah–Mizrahy
+
+Los textos **6, 19 y 20** desarrollan ahora la historia materna mediante dos líneas claramente diferenciadas.
+
+### Línea adoptiva
+
+**Marco Tulio Pino Uribe × Hortensia Margarita Bechara Kahtouny → María del Rosario Pino Bechara.**
+
+El dossier incorpora:
+
+1. la corroboración judicial del núcleo sucesoral Pino–Bechara;
+2. la variante documental `Hortencia Bechara Castoony`;
+3. la reconstrucción de los dos matrimonios de Julio Bechara;
+4. la fratría formada por Odeth, Alfredo, Anyel, Lilia, Hortensia, Emma, Edmond/Edmundo, Antonio, Nemesio, Jorge y Katia;
+5. la contradicción de conteo entre once hijos conocidos y “once hermanos” recordados;
+6. la historia empresarial de **Pan Suizo**, documentado desde 1961 y asociado en fuentes industriales de 1984 con `Fino Bechara e Hijos`;
+7. pistas documentales para Edmundo José Bechara Castuny, Jorge Bechara K. y Katia Bechara;
+8. la necesidad de demostrar mediante matrícula mercantil la condición de Hortensia como propietaria de Pan Suizo.
+
+### Línea biológica
+
+**Diana Farah Mizrahy → María del Rosario**, nacida en **Quito, Ecuador**, según memoria familiar.
+
+Esta línea permanece abierta y se investigará inicialmente mediante el registro ecuatoriano de nacimiento, entrevista a Diana y documentación de sus padres y abuelos. No se inferirá origen nacional, étnico, religioso o comunitario a partir de los apellidos.
+
+El dossier cuenta con:
+
+- expediente familiar: [`../familias/pino-bechara.md`](../familias/pino-bechara.md)
+- línea biológica: [`../familias/farah-mizrahy.md`](../familias/farah-mizrahy.md)
+- matriz de evidencia: [`../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md`](../investigacion/linaje-adoptivo-pino-bechara-kahtouny.md)
+- inventario específico de fuentes: [`../fuentes/pino-bechara-kahtouny.md`](../fuentes/pino-bechara-kahtouny.md)
 
 ## Núcleo Valderrama–Mutis
 
