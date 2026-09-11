@@ -1,10 +1,10 @@
 # Julio Bechara, María Cristina Kahtouny y una familia formada por dos matrimonios
 
-La reconstrucción de la familia adoptiva de **María del Rosario Pino Bechara** conduce una generación más atrás de su madre adoptiva, **Hortensia Margarita Bechara Castoony**, hasta el hogar de **Julio Bechara**. La memoria familiar describe a Julio como padre de una extensa descendencia nacida de dos matrimonios sucesivos.
+La reconstrucción de la familia adoptiva de **María del Rosario Pino Bechara** conduce una generación más atrás de **Hortensia Margarita Bechara Castoony**, hasta el hogar de **Julio Bechara**. La memoria familiar describe a Julio como padre de una extensa descendencia nacida de dos matrimonios sucesivos y, a medida que aparecen nuevas pistas, también como origen de una fratría con una marcada vocación empresarial.
 
-La forma **Castoony** se utiliza aquí para Hortensia porque, según la familia, así figura en su cédula. La forma **Kahtouny** se conserva para su madre, **María Cristina Kahtouny**, y como referencia histórica de la línea familiar.
+La forma **Castoony** se utiliza para Hortensia porque así figura en su cédula, según la familia. La forma **Kahtouny** se conserva para su madre, **María Cristina Kahtouny**, y como referencia histórica de esa línea.
 
-El árbol provisional es:
+## La estructura familiar
 
 **Julio Bechara**
 
@@ -23,85 +23,76 @@ El árbol provisional es:
 → Jorge Bechara  
 → Katia Bechara.
 
-Esta estructura procede, por ahora, de **memoria familiar directa** y funciona como mapa para buscar registros civiles, matrimonios, obituarios, sociedades comerciales y sucesiones.
+Esta estructura procede de memoria familiar directa y funciona como mapa de investigación.
 
-## El primer matrimonio de Julio
+## Del parentesco a la historia empresarial
 
-La tradición familiar señala que la primera esposa de Julio también llevaba **Bechara** como apellido y era pariente de él. De esa unión se recuerdan tres hijos: **Odeth, Alfredo y Anyel**.
+Un cambio importante de esta investigación es que varios hijos de Julio empiezan a aparecer vinculados con negocios de alimentos y panificación.
 
-Odeth era conocida como **“La Mona”**. Anyel aparece recordada como **“Anyel Bechara de Mena”**, lo que proporciona una pista matrimonial directa.
+La memoria familiar identifica tres panaderías diferentes:
 
-La muerte de la primera esposa habría precedido al segundo matrimonio de Julio. Un registro de defunción seguido del matrimonio con María Cristina podría fijar cronológicamente ambas ramas.
+- **Pan Suizo**, vinculada a Hortensia y al núcleo Pino–Bechara;
+- **Pan Francés**, atribuida a Edmond/Edmundo Bechara;
+- **Pan Bechara Ltda.**, negocio de la familia cuya propiedad exacta todavía no se recuerda con certeza, aunque existe la posibilidad de que estuviera asociada a Jorge Bechara.
 
-## María Cristina Kahtouny
+Esto permite plantear que la generación Bechara–Kahtouny no solo compartía parentesco, sino también una **cultura empresarial común alrededor de panadería, dulcería y alimentos**.
 
-El segundo matrimonio de Julio fue con **María Cristina Kahtouny**. De ella proceden ocho hijos actualmente recordados, incluida Hortensia.
+## Hortensia y Pan Suizo
 
-Hasta ahora no se ha localizado un registro público inequívoco de María Cristina. La búsqueda debe ensayar variantes ortográficas, pero sin asumir equivalencia automática.
+Pan Suizo está documentado públicamente desde 1961 y aparece durante décadas dentro del paisaje comercial de Cartagena. La familia sostiene que Hortensia fue su propietaria y corrige la razón social como **Pino Bechara**, no `Fino Bechara`.
 
-La aclaración familiar sobre Hortensia permite una regla más precisa:
+El expediente de Cámara de Comercio deberá explicar cómo se distribuyó la propiedad entre **Marco Tulio Pino Uribe**, Hortensia y otros posibles familiares.
 
-- `Castoony` está confirmado familiarmente como grafía de cédula de Hortensia;
-- `Kahtouny` corresponde a la tradición nominal de María Cristina;
-- `Castuny`, `Khatouny`, `Katouny`, `Kahtouni` y similares son variantes de búsqueda pendientes de atribución documental.
+## Edmond/Edmundo y Pan Francés
 
-## Hortensia, no Hortencia
+La familia atribuye de forma directa **Pan Francés** a **Edmond/Edmundo Bechara**.
 
-Algunas providencias públicas escriben **“Hortencia Bechara Castoony”**. La familia aclara que el nombre correcto es **Hortensia** y que `Hortencia` es un error de redacción.
+Esta afirmación resulta especialmente interesante porque el establecimiento aparece también en la memoria pública de Cartagena. Una crónica de Leonor Espinosa en *El Espectador* recuerda **El Pan Francés en la calle Segunda de Badillo**, célebre por sus panochas y por el aroma que marcaba esa zona del centro histórico.
 
-El proyecto no tratará ambas formas como variantes equivalentes: **Hortensia** será la forma canónica y `Hortencia` aparecerá únicamente al citar literalmente la fuente que contiene el error.
+La fuente pública no identifica al dueño, por lo que todavía necesitamos el puente jurídico. Pero la convergencia entre memoria familiar y existencia histórica del establecimiento convierte a Edmond en una prioridad documental.
 
-## Edmundo/Edmond: la pista más fuerte entre los hermanos
+El candidato público **Edmundo José Bechara Castuny**, fallecido en Cartagena en 2016, sigue siendo una hipótesis fuerte para identificar al hermano de Hortensia. Si esa identidad se confirma y la matrícula de Pan Francés lo registra como propietario, dos problemas genealógicos se resolverían simultáneamente.
 
-El candidato público más prometedor continúa siendo **Edmundo José Bechara Castuny**. Documentos judiciales lo sitúan en Cartagena y registran su fallecimiento allí en 2016.
+## Jorge y Pan Bechara Ltda.
 
-La cercanía entre `Castuny` y el `Castoony` oficial de Hortensia fortalece el interés del candidato, pero la filiación no debe cerrarse hasta encontrar un documento que nombre a **Julio Bechara y María Cristina** como sus padres.
+La familia confirma que **Pan Bechara Ltda.** fue otra panadería de la familia. El recuerdo sobre su titularidad es menos preciso: **podría haber sido del tío Jorge**, pero no existe certeza.
 
-## Jorge y Katia
+Esta incertidumbre es importante y debe preservarse. La investigación no debe transformar un “creo que era de Jorge” en una filiación empresarial definitiva.
 
-Una fuente industrial cartagenera menciona a **“Jorge Bechara K.”**, posible pista para Jorge. Un estudio sobre el Cine Club Universitario de la Universidad de Cartagena registra a una **Katia Bechara** como tesorera en 1970.
+Sin embargo, existe una pista adicional: una fuente industrial cartagenera menciona a **“Jorge Bechara K.”** dentro de un listado empresarial. Eso no demuestra que se trate del mismo Jorge ni que tuviera Pan Bechara, pero ahora existe una hipótesis concreta que puede ponerse a prueba con Cámara de Comercio.
 
-Ambas coincidencias son interesantes, pero siguen siendo hipótesis nominales pendientes de filiación.
+## Una posible red de empresas hermanas
+
+Las tres panaderías abren varias preguntas históricas:
+
+- ¿surgieron de un negocio familiar común y luego se separaron?
+- ¿cada hermano fundó su establecimiento de manera independiente?
+- ¿compartían proveedores de harina, levadura, azúcar y hornos?
+- ¿circulaban empleados, recetas o capital entre los negocios?
+- ¿el apellido Bechara funcionaba como marca comercial reconocible en Cartagena?
+
+La respuesta requiere algo más que genealogía: implica reconstruir una **historia empresarial familiar**.
 
 ## El problema de los once hermanos
 
-La lista actual contiene:
+La lista actual contiene once hijos de Julio en total, lo que dejaría diez hermanos para Hortensia. La memoria de “once hermanos” sigue abierta. Una sucesión de Julio podría resolver tanto esta discrepancia como la estructura patrimonial de la familia.
 
-- 3 hijos del primer matrimonio;
-- 8 hijos del segundo matrimonio;
-- **11 hijos de Julio en total**.
+## Otras pistas entre los hermanos
 
-Hortensia tendría entonces diez hermanos. Sin embargo, se recuerda que ella “tuvo once hermanos”. Puede tratarse de una forma de recordar que eran once hijos en total o puede faltar un nombre.
+- **Katia Bechara** aparece nominalmente en la vida cultural universitaria de Cartagena en 1970, pendiente de identificación.
+- **Jorge Bechara K.** aparece en documentación empresarial, pendiente de filiación.
+- **Edmundo José Bechara Castuny** aparece en documentos judiciales y notariales, pendiente de conexión con Julio y María Cristina.
 
-La sucesión de Julio será probablemente el documento más eficaz para resolver esta discrepancia.
+## Próxima fase
 
-## Pan Suizo y la sociedad Pino Bechara
+El objetivo inmediato es reconstruir a cada hijo de Julio no solo como individuo genealógico, sino como actor social y económico. Para los hermanos vinculados a panaderías debemos buscar:
 
-La existencia documentada de **Pan Suizo** abre una historia empresarial familiar relevante. Una lectura anterior de una fuente industrial había interpretado la razón social como `Fino Bechara e Hijos`. La familia corrige este punto: **la sociedad era Pino Bechara**.
+1. matrículas mercantiles;
+2. escrituras de sociedades;
+3. directorios telefónicos y comerciales;
+4. anuncios en prensa;
+5. registros tributarios históricos;
+6. fotografías y papelería comercial;
+7. sucesiones y compraventas de establecimientos.
 
-Esta corrección elimina la hipótesis de un personaje desconocido llamado “Fino” y orienta la investigación hacia el matrimonio:
-
-**Marco Tulio PINO Uribe × Hortensia BECHARA Castoony**.
-
-La denominación **Pino Bechara** podría reflejar directamente la unión de ambos apellidos dentro de la empresa, aunque los socios formales y la estructura jurídica deben establecerse mediante el expediente histórico de Cámara de Comercio.
-
-La memoria familiar asigna a Hortensia la propiedad de Pan Suizo. La documentación mercantil deberá precisar si fue fundadora, socia, heredera, administradora o propietaria en una etapa determinada.
-
-## Una genealogía adoptiva con historia propia
-
-La rama Bechara–Kahtouny/Castoony no debe estudiarse únicamente como contexto de una adopción. Ya aparecen una empresa alimentaria duradera, una familia numerosa, actividad patrimonial y posibles vínculos de algunos hermanos con la industria y la vida cultural cartagenera.
-
-El objetivo será reconstruir a cada hijo de Julio como persona: nacimiento, matrimonio, profesión, empresa, descendencia y memoria familiar.
-
-## Preguntas documentales prioritarias
-
-1. ¿Cuál era el nombre completo de la primera esposa de Julio Bechara?
-2. ¿Cuál era exactamente su parentesco con Julio?
-3. ¿Cuándo murió?
-4. ¿Cuándo se casaron Julio y María Cristina Kahtouny?
-5. ¿Cómo aparece escrito el apellido de María Cristina en el registro matrimonial?
-6. ¿La sucesión de Julio enumera once o doce hijos?
-7. ¿Edmundo José Bechara Castuny era hijo de Julio y María Cristina?
-8. ¿Jorge Bechara K. corresponde al hermano de Hortensia?
-9. ¿Katia Bechara del Cine Club Universitario es la misma Katia de la familia?
-10. ¿Quiénes integraron formalmente la sociedad **Pino Bechara** y qué papel tuvo cada miembro en Pan Suizo?
+Si los tres negocios quedan documentalmente enlazados con la misma fratría, la familia Bechara–Kahtouny podrá estudiarse como una **dinastía panificadora cartagenera de escala familiar**, y no solamente como un conjunto de nombres unidos por parentesco.
