@@ -1,50 +1,143 @@
-# Juan José Valderrama y la Cervecería La Violeta — posible rama colateral Valderrama de Málaga
+# Juan José Valderrama, La Violeta y los Valderrama de Málaga — reconstrucción genealógica crítica
 
 ## Objetivo
 
-Determinar si **Juan José Valderrama**, identificado en varias historias de la cerveza colombiana como fundador o propietario inicial de la **Cervecería La Violeta** de Málaga (Santander), pertenece al mismo tronco familiar que la línea Valderrama de Bucaramanga que conduce a Juan Pablo Valderrama Pino.
+Determinar si **Juan José Valderrama**, asociado por la historiografía cervecera a la fundación de la **Cervecería La Violeta** en Málaga (Santander), pertenece al mismo tronco familiar que la línea Valderrama de Bucaramanga que conduce a **Juan Pablo Valderrama Pino**.
 
-La investigación debe separar tres preguntas distintas:
-
-1. ¿Quién fue exactamente Juan José Valderrama y cuáles fueron sus padres?
-2. ¿La Cervecería La Violeta fue fundada por Juan José solo, por Juan José junto a otro Valderrama, o por los hermanos Ramón y José Valderrama?
-3. ¿Puede conectarse documentalmente ese fundador con el tronco **Félix Valderrama Piñeros / Ignacia Pinzón**?
+La pregunta ya no puede resolverse por simple coincidencia de apellido y región. La investigación demuestra que en Málaga existían **varias redes Valderrama desde finales del siglo XVIII y comienzos del XIX**, y que una de ellas se cruza matrimonialmente con un ramal secundario del tronco de **Félix Valderrama Piñeros**. Por tanto, debe reconstruirse primero la identidad civil del fundador y la sucesión familiar de La Violeta.
 
 ---
 
-## I. La Cervecería La Violeta
+# I. Conclusión provisional
 
-Diversas fuentes históricas y académicas coinciden en ubicar en **Málaga, Santander**, hacia **1893–1895**, una cervecería artesanal conocida como **La Violeta**, famosa por una cerveza negra popularmente llamada **“Perra Loca”**.
+A septiembre de 2026 **NO existe todavía evidencia suficiente para afirmar que Juan José Valderrama sea pariente documentado de Mario Valderrama Ordóñez o de Juan Pablo Valderrama Pino**.
 
-Una tesis de la Universidad Industrial de Santander sobre industrialización regional, citando a Ricardo Plano Danais, identifica a **Juan José Valderrama** como propietario de La Violeta hacia 1893.
+Sí existe, en cambio, una hipótesis genealógica seria porque:
 
-Otras historias de la cerveza en Colombia repiten la fundación por **Juan José Valderrama**, generalmente en 1893 o 1895.
+1. el tronco secundario de **Félix Valderrama Piñeros × Ignacia Pinzón** llega documentalmente de forma secundaria hasta un matrimonio en **Málaga en 1831**;
+2. en Málaga ya existía por la línea materna de ese matrimonio otra población **Valderrama–Suárez** anterior;
+3. Juan José aparece en Málaga como empresario hacia 1893 y seguía exponiendo productos bajo la marca La Violeta en 1913;
+4. ninguna fuente abierta localizada identifica todavía a sus padres, esposa o registro de bautismo;
+5. las fuentes históricas se contradicen sobre quién heredó la empresa y sobre el parentesco de **Ramón Muñoz Valderrama**, **Susana Muñoz Valderrama** y **Angélica Muñoz Valderrama**.
 
-Estado: **B fuerte para la existencia de La Violeta y la asociación del nombre Juan José Valderrama con su fundación/propiedad inicial**.
+Estado de la conexión con la rama de Juan Pablo: **D/E — hipótesis plausible, no probada**.
 
-### Contradicción sobre los fundadores
-
-Una presentación histórica local de Málaga, basada en memoria regional y colección de la propia cervecería, ofrece una versión diferente: identifica como fundadores a **Ramón y José Valderrama, hermanos**, y afirma que ambos murieron hacia 1952, pasando la fábrica a familiares cercanas, **Angélica y Susana Muñoz Valderrama**.
-
-En cambio, otra historia ampliamente reproducida sostiene:
-
-- fundador: **Juan José Valderrama**;
-- fallecimiento: **1935**;
-- sucesor: **Ramón Muñoz Valderrama**;
-- fallecimiento de Ramón: **1952**;
-- herederas posteriores: **Susana y Angélica Muñoz Valderrama**.
-
-Otras fuentes simplifican y afirman directamente que Susana y Angélica eran hijas de Juan José.
-
-Estado: **X — cronología y parentesco interno de los primeros propietarios de La Violeta no resueltos**.
-
-No deben fusionarse automáticamente `Juan José Valderrama`, `José Valderrama`, `Ramón Valderrama` y `Ramón Muñoz Valderrama`.
+No debe asignarse un grado de primo hasta encontrar un documento que coloque a Juan José dentro de una de las ramas reconstruidas.
 
 ---
 
-## II. El tronco Valderrama de Juan Pablo
+# II. Juan José Valderrama como empresario, no solamente cervecero
 
-La reconstrucción secundaria actualmente usada por el proyecto propone:
+Ricardo Plano Danais y estudios universitarios derivados de su trabajo sitúan en **1893** la Cervecería La Violeta de **Juan José Valderrama** en Málaga. La cerveza negra `La Violeta` fue conocida popularmente como **“Perra Loca”**.
+
+Una investigación sobre la modernización de Tunja aporta un dato biográfico adicional muy valioso. En la **Exposición Artística, Industrial y Agrícola de Tunja de 1913**, aparecen productos **marca La Violeta elaborados en Málaga por Juan José Valderrama**:
+
+- cerveza;
+- jabón;
+- café;
+- vinagre.
+
+La fuente remite a documentación de la **Junta del Centenario**.
+
+Esto cambia la lectura de Juan José: no fue únicamente un fabricante de cerveza artesanal, sino un **empresario manufacturero diversificado**, al menos para 1913.
+
+Estado:
+
+- Juan José asociado a La Violeta: **B fuerte**;
+- actividad empresarial diversificada en 1913: **B fuerte secundario con referencia a fuente histórica contemporánea**;
+- identidad civil, padres, esposa y descendencia: **E — aún no resueltos**.
+
+---
+
+# III. Tres modelos incompatibles de la sucesión de La Violeta
+
+La historia empresarial no puede reconstruirse repitiendo una única versión. Actualmente existen al menos **tres modelos**.
+
+## Modelo A — Ricardo Plano Danais
+
+Secuencia publicada por Plano:
+
+```text
+Juan José Valderrama
+fundador — 1893
+│
+† 1935
+│
+▼
+Ramón Muñoz Valderrama
+hereda La Violeta
+│
+† 1952
+│
+├── Susana Muñoz Valderrama
+└── Angélica Muñoz Valderrama
+     │
+     └── Hnas. Muñoz Valderrama
+```
+
+Según esta versión, **Susana y Angélica son hijas de Ramón Muñoz Valderrama**.
+
+Problema abierto: Plano no explica **qué parentesco tenía Ramón con Juan José** ni por qué fue su heredero.
+
+## Modelo B — memoria histórica local de Málaga
+
+Una presentación dedicada a la fábrica afirma que los fundadores fueron:
+
+**Ramón Valderrama y José Valderrama, hermanos**.
+
+La misma reconstrucción sostiene que en **1952 murieron “los Señores Valderrama”** y que la fábrica pasó a sus **familiares más cercanas**, las señoritas:
+
+- Angélica Muñoz Valderrama;
+- Susana Muñoz Valderrama.
+
+Esta versión no las denomina hijas, sino familiares cercanas.
+
+Además documenta una capa administrativa que otras historias omiten:
+
+- **José Vicente Mogollón** fue designado administrador por los Valderrama;
+- en 1948, por razones políticas, salió temporalmente de Málaga;
+- su hijo **Rodolfo Mogollón**, que había aprendido el oficio cervecero, sostuvo la fábrica durante el intervalo;
+- José Vicente regresó en 1950 y retomó la administración;
+- junto a **Aníbal Carvajal** creó en la misma planta la gaseosa **Reina**, distribuida en Málaga, Carcasí y Concepción;
+- las hermanas Muñoz Valderrama mantuvieron posteriormente la producción y, según esta versión, vendieron la infraestructura en **1973** y emigraron a Bucaramanga.
+
+Este relato es especialmente valioso por su detalle local, pero contradice la cronología de Plano en nombres, fechas de muerte y transferencia empresarial.
+
+## Modelo C — historiografía derivada simplificada
+
+Otros estudios y notas regionales afirman:
+
+```text
+Juan José Valderrama
+│
+† 1935
+│
+├── Susana Muñoz Valderrama
+└── Angélica Muñoz Valderrama
+```
+
+y llaman directamente a Susana y Angélica **“hijas” de Juan José**.
+
+Este modelo presenta un problema genealógico evidente: si eran hijas reconocidas de Juan José, el patronímico esperado requeriría explicar por qué ambas aparecen como **Muñoz Valderrama**. La explicación podría existir —por ejemplo, filiación materna/paterna distinta, adopción, uso social de apellidos o una simplificación del historiador—, pero no debe inventarse.
+
+### Estado de la sucesión
+
+**X — contradicción abierta.**
+
+Hasta localizar sucesiones, bautismos y matrimonios, no deben fusionarse automáticamente:
+
+- Juan José Valderrama;
+- José Valderrama;
+- Ramón Valderrama;
+- Ramón Muñoz Valderrama.
+
+Tampoco debe afirmarse aún si Susana y Angélica fueron hijas, nietas, sobrinas u otro tipo de familiares de Juan José.
+
+---
+
+# IV. El tronco de Juan Pablo: Valderrama de Bucaramanga
+
+La reconstrucción secundaria actualmente utilizada por el proyecto propone:
 
 ```text
 Félix Valderrama Piñeros × Ignacia Pinzón
@@ -66,143 +159,238 @@ Félix Valderrama Piñeros × Ignacia Pinzón
                     └── Juan Pablo Valderrama Pino
 ```
 
-Esta cadena sigue pendiente de documentación primaria en sus generaciones más antiguas, pero cuenta con varias reconstrucciones genealógicas secundarias concordantes.
+Los segmentos antiguos de esta cadena continúan pendientes de registros primarios. `Félix → Elciario → Ricardo` debe seguir tratándose como reconstrucción secundaria fuerte, no como filiación A.
 
 ---
 
-## III. La clave: un hermano de Elciario conduce directamente a Málaga
+# V. Primer puente con Málaga: Pedro Ignacio Valderrama Pinzón
 
-La información genealógica secundaria consultada identifica a otro hijo de **Félix Valderrama Piñeros × Ignacia Pinzón**:
+Las genealogías secundarias colocan también bajo **Félix Valderrama Piñeros × Ignacia Pinzón** a:
 
-**Pedro Ignacio Valderrama Pinzón**, nacido aproximadamente hacia 1815 y fallecido el 10 de julio de 1870 según una reconstrucción secundaria.
+**Pedro Ignacio Valderrama Pinzón**, hermano de Elciario en esa reconstrucción.
 
-Pedro Ignacio se casó con **Francisca Carvajal** y tuvo, entre otros, a:
+Pedro Ignacio × **Francisca Carvajal** tuvieron a:
 
 **José María Valderrama Carvajal**.
 
-José María se casó el **23 de noviembre de 1831** con:
+José María contrajo matrimonio el **23 de noviembre de 1831** con:
 
-**Juana Antonia Navas Valderrama**, nacida en **Málaga, Santander, el 24 de julio de 1813**.
-
-Este matrimonio establece un puente geográfico directo entre el mismo tronco Valderrama y **Málaga** varias décadas antes de la fundación de La Violeta.
+**Juana Antonia Navas Valderrama**, nacida en **Málaga el 24 de julio de 1813**.
 
 Esquema:
 
 ```text
-                         Félix Valderrama Piñeros
-                         × Ignacia Pinzón
-                                  │
-                    ┌─────────────┴─────────────┐
-                    │                           │
-        Elciario Valderrama Pinzón     Pedro Ignacio Valderrama Pinzón
-                    │                           × Francisca Carvajal
-                    │                                    │
-      Ricardo Valderrama Valderrama             José María Valderrama Carvajal
-                    │                           × Juana Antonia Navas Valderrama
-                    │                             (Málaga, 1813)
-        Mario Valderrama Ordóñez                         │
-                    │                             [descendencia por reconstruir]
-                    │                                    │
-        Mario Gerardo Valderrama Mutis          ¿Juan José / José / Ramón
-                    │                              Valderrama de La Violeta?
-        Gabriel José Valderrama Martínez
-                    │
-        Juan Pablo Valderrama Pino
+Félix Valderrama Piñeros × Ignacia Pinzón
+│
+├── Elciario Valderrama Pinzón
+│   └── Ricardo → Mario Valderrama Ordóñez → ... → Juan Pablo
+│
+└── Pedro Ignacio Valderrama Pinzón
+    × Francisca Carvajal
+    │
+    └── José María Valderrama Carvajal
+        × Juana Antonia Navas Valderrama
+          Málaga, 1813
 ```
 
----
+Este es un **puente geográfico real** entre el tronco secundario del usuario y Málaga décadas antes de La Violeta.
 
-## IV. Hipótesis de parentesco
+Sin embargo, una reconstrucción Geni/Urdaneta muestra a José María también asociado a **María Carlota Escobar Nieto** y enumera descendencia `Valderrama Escobar` —Joviano, María Jacinta, Francisco Caraciolo, Amadeo y Ana Joaquina— ligada principalmente a **Tasco**, no a Málaga. No se localizaron hijos documentados de José María × Juana Antonia en las fuentes abiertas consultadas.
 
-La evidencia disponible **no permite todavía afirmar** que Juan José Valderrama sea hijo o nieto de José María Valderrama Carvajal y Juana Antonia Navas Valderrama.
-
-Sin embargo, la hipótesis es genealógicamente fuerte por tres razones:
-
-1. **Mismo apellido y misma región:** el fundador de La Violeta aparece en Málaga, donde ya está documentada una rama descendiente del tronco Valderrama investigado.
-2. **Cronología compatible:** José María y Juana Antonia se casaron en 1831; un hijo o nieto suyo podría encontrarse en edad empresarial hacia 1893–1895.
-3. **Tronco común identificable:** Pedro Ignacio Valderrama Pinzón y Elciario Valderrama Pinzón aparecen como hermanos, hijos de Félix Valderrama Piñeros e Ignacia Pinzón en reconstrucciones secundarias.
-
-Estado actual de la conexión `Juan José Valderrama → rama José María Valderrama Carvajal`: **D — hipótesis fuerte, no probada**.
+Consecuencia metodológica: **el matrimonio de 1831 demuestra presencia y conexión, pero no demuestra que Juan José descienda de esa pareja.**
 
 ---
 
-## V. ¿Qué parentesco tendría con Juan Pablo si se confirma?
+# VI. Segundo hallazgo: en Málaga ya existía otra red Valderrama
 
-El grado exacto depende de dónde encaje Juan José dentro de la rama de Málaga.
+La investigación localizó una población Valderrama anterior o paralela a la llegada del ramal `Valderrama Pinzón`.
 
-### Escenario A — Juan José fuera hijo de José María Valderrama Carvajal
+## Petronila Valderrama Suárez
 
-Entonces la estructura sería:
+Genealogías secundarias identifican a:
+
+**Petronila Valderrama Suárez × Gabriel Navas Suárez**, este último nacido en Málaga en 1782.
+
+Hijos registrados secundariamente:
+
+- **Juana Antonia Navas Valderrama**, n. Málaga, 24 jul. 1813;
+- **José Antonio Navas Valderrama**;
+- **Carmen Navas Valderrama**, n. Málaga, 6 sep. 1818.
+
+José Antonio formó a su vez una familia numerosa en Málaga durante el siglo XIX.
+
+Esto demuestra que el apellido Valderrama ya estaba integrado a familias de Málaga mediante la línea **Valderrama–Suárez**.
+
+## Confirmación independiente de presencia Valderrama en Málaga hacia 1800
+
+FamilySearch indexa a:
+
+**Faustino Martín Agüero y Valderrama**, nacido en Málaga el **15 de febrero de 1804**, hijo de:
+
+- Teodoro Agüero;
+- **Anna Joaquina Valderrama Suárez**, nacida aproximadamente en **1782**.
+
+El perfil remite a `Colombia, Catholic Church Records, 1576–2018`.
+
+Este registro es importante porque confirma de manera independiente que una mujer **Valderrama Suárez** estaba formando familia en Málaga a comienzos del siglo XIX.
+
+Estado: **B/A indirecto** para la presencia del apellido; la filiación completa de Anna Joaquina aún debe leerse en el registro parroquial original.
+
+---
+
+# VII. Advertencia: Pedro Ignacio Valderrama Castro no puede usarse todavía como tronco seguro
+
+Genealogías de Colombia atribuye a **Petronila Valderrama Suárez** y **Micaela Valderrama Suárez** como hijas de:
+
+**Pedro Ignacio Valderrama Castro × Petronila Suárez**.
+
+Sin embargo, la misma base asigna a los supuestos padres de Pedro Ignacio fechas aproximadas alrededor de **1805 y 1815**, cronológicamente incompatibles con una hija que ya era madre de Juana Antonia Navas Valderrama en 1813 y con otras evidencias de la generación anterior.
+
+Por tanto:
+
+- `Valderrama Suárez` en Málaga = **rama histórica real que requiere reconstrucción**;
+- `Pedro Ignacio Valderrama Castro` como padre de esa rama = **X/E, cronología inconsistente**;
+- no debe fusionarse con **Pedro Ignacio Valderrama Pinzón** solo por compartir nombre.
+
+Este hallazgo reduce el riesgo de fabricar una conexión falsa entre Juan José y Félix Valderrama Piñeros.
+
+---
+
+# VIII. Una convergencia genealógica llamativa en 1831
+
+El matrimonio de **José María Valderrama Carvajal × Juana Antonia Navas Valderrama** une dos redes:
 
 ```text
+RAMA A — tronco Félix (reconstrucción secundaria)
 Félix Valderrama Piñeros
-├── Elciario → Ricardo → Mario Valderrama Ordóñez
-└── Pedro Ignacio → José María → Juan José Valderrama
+└── Pedro Ignacio Valderrama Pinzón
+    └── José María Valderrama Carvajal
+                               │
+                               × 1831
+                               │
+RAMA B — Valderrama de Málaga
+Petronila Valderrama Suárez
+└── Juana Antonia Navas Valderrama
 ```
 
-En ese escenario:
+Es decir, para 1831 un hombre proveniente del tronco que también conduce a **Elciario–Ricardo–Mario** se casó con una mujer cuya madre pertenecía a una **familia Valderrama ya asentada en Málaga**.
 
-- **Juan José Valderrama y Mario Valderrama Ordóñez serían primos segundos**;
-- respecto de **Juan Pablo Valderrama Pino**, Juan José sería un **primo segundo con tres generaciones de diferencia** (`second cousin three times removed`).
-
-### Escenario B — Juan José fuera nieto de José María
-
-El parentesco se alejaría una generación:
-
-- **Juan José sería primo segundo una vez removido de Mario Valderrama Ordóñez**;
-- respecto de **Juan Pablo**, sería **primo tercero con dos generaciones de diferencia** (`third cousin twice removed`).
-
-Estos cálculos son condicionales y no deben trasladarse al árbol canónico hasta identificar a los padres de Juan José.
+Esto hace históricamente plausible que distintas ramas Valderrama de Santander/Boyacá se entrecruzaran. Pero también significa que el apellido, por sí solo, es todavía menos suficiente para determinar de cuál rama procedía Juan José.
 
 ---
 
-## VI. Fuentes localizadas
+# IX. ¿Podemos calcular ya el parentesco con Juan Pablo?
 
-### Cervecería La Violeta
+No.
 
-- Universidad Industrial de Santander, investigación histórica sobre industrialización regional: menciona La Violeta en Málaga hacia 1893 como propiedad de Juan José Valderrama y remite a Ricardo Plano Danais.
-- Ricardo Plano Danais / Historia de la cerveza en Colombia: versión reproducida en varias fuentes que atribuye la fundación a Juan José Valderrama y registra sucesión posterior.
-- Historia local de Málaga / presentación “Cerveza Violeta”: atribuye la fundación a **Ramón y José Valderrama**, hermanos, y conserva detalles técnicos y administrativos de la fábrica.
+Los cálculos anteriores que planteaban `primo segundo` o `primo tercero` deben tratarse exclusivamente como **escenarios condicionales**, no como conclusión.
 
-### Genealogía Valderrama
+Para calcular el grado real se requiere una cadena de este tipo:
 
-- Genealogías de Colombia: Félix Valderrama Piñeros → Pedro Ignacio Valderrama Pinzón → José María Valderrama Carvajal × Juana Antonia Navas Valderrama.
-- Genealogías de Colombia: Juana Antonia Navas Valderrama, nacida en Málaga el 24 julio 1813; matrimonio con José María Valderrama Carvajal el 23 noviembre 1831.
-- Reconstrucción genealógica Urdaneta/Geni: coloca simultáneamente las ramas de Pedro Ignacio y Elciario bajo el mismo tronco Valderrama y sitúa a Ricardo Valderrama Valderrama como descendiente de Elciario.
+```text
+Juan José Valderrama
+↓ padre/madre confirmado
+↓ abuelo/a confirmado
+↓ bisabuelo/a confirmado
+↓
+[persona común con la línea de Elciario/Ricardo/Mario]
+```
 
-Todas estas fuentes genealógicas son **secundarias** y requieren confrontación con partidas parroquiales y civiles.
+En este momento la primera flecha —**los padres de Juan José**— sigue sin resolverse.
 
----
+Por tanto:
 
-## VII. Documentos prioritarios
-
-### P0 — identidad del fundador
-
-1. Registro civil o partida de bautismo de **Juan José Valderrama** en Málaga o parroquias cercanas.
-2. Registro de defunción del Valderrama asociado a La Violeta (1935 y/o 1952).
-3. Matrimonio de Juan José / José / Ramón Valderrama.
-4. Escritura, matrícula comercial, licencia de funcionamiento o documentos fiscales de **Cervecería La Violeta**.
-5. Sucesión del fundador y documentos que identifiquen jurídicamente a sus herederos.
-
-### P0 — reconstrucción de la rama de Málaga
-
-6. Hijos de **José María Valderrama Carvajal × Juana Antonia Navas Valderrama**.
-7. Bautismos en Málaga entre aproximadamente 1831 y 1875 bajo los apellidos Valderrama Navas.
-8. Matrimonios y defunciones de esa descendencia.
-9. Identificar si alguno de sus hijos o nietos se llamó **Juan José, José o Ramón Valderrama**.
-
-### P1 — resolver las herederas
-
-10. Filiación de **Angélica Muñoz Valderrama**.
-11. Filiación de **Susana Muñoz Valderrama**.
-12. Identidad y filiación de **Ramón Muñoz Valderrama**.
-
-Su patronímico puede ser decisivo para reconstruir el vínculo entre los fundadores y la generación que conservó La Violeta durante el siglo XX.
+- conexión posible con el mismo tronco: **D/E**;
+- grado exacto de parentesco: **no calculable todavía**;
+- afirmar que Juan José era primo de Mario o ancestro de la familia: **no sustentado**.
 
 ---
 
-## Conclusión provisional
+# X. Registros primarios que pueden resolver la investigación
 
-**Juan José Valderrama es un candidato plausible a miembro de una rama colateral del mismo tronco Valderrama de Juan Pablo.** La pista más importante no es únicamente el apellido: el hermano de Elciario Valderrama Pinzón, **Pedro Ignacio Valderrama Pinzón**, conduce mediante su hijo **José María Valderrama Carvajal** a un matrimonio documentado secundariamente en **Málaga en 1831**.
+FamilySearch cataloga los **registros parroquiales de la Iglesia Católica de La Inmaculada Concepción de Málaga**, dentro de la colección `Colombia, Catholic Church Records, 1576–2019`, con bautismos, matrimonios y defunciones que cubren ampliamente el período necesario.
 
-La hipótesis más prometedora es que el fundador o los fundadores Valderrama de La Violeta desciendan de esta rama malagueña. Hasta encontrar la partida que identifique a los padres de Juan José/José/Ramón Valderrama, la conexión debe mantenerse como **D — hipótesis fuerte** y no como parentesco confirmado.
+## Prioridad P0 — Juan José / José / Ramón
+
+Buscar en Málaga y parroquias cercanas:
+
+1. bautismo de **Juan José Valderrama**, probablemente nacido varias décadas antes de 1893;
+2. matrimonio de Juan José;
+3. defunción de Juan José alrededor de **1935**, si la cronología de Plano es correcta;
+4. bautismo y matrimonio de **Ramón Muñoz Valderrama**;
+5. defunción de Ramón alrededor de **1952**;
+6. cualquier **José Valderrama** y **Ramón Valderrama** adultos vinculables a La Violeta;
+7. sucesiones notariales de 1935 y 1952.
+
+## Prioridad P0 — hermanas Muñoz Valderrama
+
+8. bautismos de **Susana Muñoz Valderrama** y **Angélica Muñoz Valderrama**;
+9. identificar padre y madre de ambas;
+10. comprobar documentalmente si eran hijas de Ramón, hijas de Juan José, sobrinas, nietas u otro parentesco;
+11. buscar su traslado a **Bucaramanga** después de 1973/1975.
+
+## Prioridad P0 — rama de Málaga anterior
+
+12. registro original de **Anna Joaquina Valderrama Suárez**, ca. 1782;
+13. matrimonio de **Petronila Valderrama Suárez × Gabriel Navas Suárez**;
+14. bautismos de Juana Antonia, José Antonio y Carmen Navas Valderrama;
+15. reconstruir padres y hermanos de Petronila y Anna Joaquina;
+16. resolver si ambas eran hermanas o pertenecían a generaciones distintas.
+
+## Prioridad P1 — rama de Félix
+
+17. obtener partidas que confirmen a **Pedro Ignacio Valderrama Pinzón y Elciario Valderrama Pinzón** como hijos del mismo Félix;
+18. matrimonio de Pedro Ignacio × Francisca Carvajal;
+19. bautismo/matrimonios de **José María Valderrama Carvajal**;
+20. establecer si José María × Juana Antonia tuvieron descendencia y dónde se asentó.
+
+## Prioridad P1 — empresa
+
+21. documentos notariales y fiscales de **La Violeta**;
+22. matrícula mercantil/registro industrial cuando exista;
+23. escrituras de transferencia de la fábrica;
+24. documentos de la razón social **Hnas. Muñoz Valderrama**;
+25. expediente de la Exposición de Tunja de 1913 para recuperar datos biográficos/comerciales de Juan José.
+
+---
+
+# XI. Matriz de evidencia
+
+| Afirmación | Estado |
+|---|---|
+| Juan José Valderrama estuvo vinculado a La Violeta en Málaga | **B fuerte** |
+| Juan José operaba productos La Violeta en 1913 | **B fuerte** |
+| Juan José murió en 1935 | **B secundario**, por corroborar |
+| Ramón Muñoz Valderrama heredó directamente de Juan José | **B/X**, una de varias versiones |
+| Susana y Angélica fueron hijas de Ramón | **B/X**, versión Plano |
+| Susana y Angélica fueron hijas de Juan José | **B/X**, tradición simplificada contradictoria |
+| Fundadores fueron Ramón y José Valderrama hermanos | **C/B local-X**, contradice a Plano |
+| El ramal de Félix Valderrama llega a Málaga por matrimonio en 1831 | **B secundario fuerte** |
+| Existía una rama Valderrama Suárez en Málaga antes de ese matrimonio | **B fuerte**, con apoyo independiente FamilySearch |
+| Pedro Ignacio Valderrama Castro fue padre de Petronila/Micaela Valderrama Suárez | **X/E**, cronología de la base es incompatible |
+| Juan José descendía de Félix Valderrama Piñeros | **D/E — posible, no demostrado** |
+| Juan José era pariente determinado de Mario Valderrama Ordóñez | **E — no calculable aún** |
+
+---
+
+# XII. Conclusión de esta fase
+
+La investigación **no ha demostrado todavía una conexión genealógica entre Juan José Valderrama y los antepasados directos de Juan Pablo**, pero sí ha reducido notablemente el problema.
+
+Ya sabemos que:
+
+1. la rama secundaria de **Félix Valderrama Piñeros** tuvo un enlace matrimonial directo con Málaga en 1831;
+2. Málaga poseía al menos otra red **Valderrama–Suárez** desde finales del siglo XVIII / comienzos del XIX;
+3. ambas redes se cruzan en el matrimonio José María Valderrama Carvajal × Juana Antonia Navas Valderrama;
+4. Juan José aparece empresarialmente en la misma localidad unas dos o tres generaciones después;
+5. faltan justamente los registros que deberían unir —o separar definitivamente— a Juan José de estas familias.
+
+La hipótesis correcta ya no es:
+
+> “Juan José seguramente descendía de Félix porque era Valderrama de Málaga”.
+
+La hipótesis correcta es:
+
+> **“Juan José perteneció a una población Valderrama malagueña donde confluyeron varias ramas. Una de esas ramas sí está conectada secundariamente al mismo tronco de Félix–Elciario que conduce a la familia de Juan Pablo. Debemos identificar los padres de Juan José antes de decidir si esa convergencia lo incluye.”**
+
+Hasta entonces, la conexión se conserva como **D/E — investigación abierta**, no como parentesco familiar establecido.
