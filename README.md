@@ -17,7 +17,7 @@ Reconstruir el árbol genealógico familiar con metodología documental, disting
 - la posible conexión con **Juan José Valderrama y la Cervecería La Violeta de Málaga**, todavía no probada genealógicamente;
 - la rama materna biológica **Farah–Mizrahy**;
 - la rama materna adoptiva **Pino–Bechara** y su historia empresarial/social en Cartagena;
-- la rama por afinidad **Anyel Bechara de Mena × Alfonso Mena Delgado**.
+- la rama por afinidad **Angel/Anyel Bechara de Mena × Alfonso Mena Delgado**, manteniendo abierta la forma civil exacta del nombre.
 
 ## Corte consolidado más reciente
 
@@ -35,7 +35,7 @@ Este corte distingue explícitamente entre **identidad histórica**, **filiació
 - **Juan Nepomuceno Valderrama Pinzón**, general, gobernador de Cundinamarca y benefactor del Hospital de San José, es un posible hermano de Elciario: hipótesis fuerte pero aún no canónica.
 - **Domingo Soriano Valderrama** constituye una hipótesis prioritaria para extender la línea hasta Belén de Cerinza en el siglo XVIII, pero faltan documentos para `Domingo Soriano → Tadeo → Zoila Teresa`.
 - La investigación de **Juan José Valderrama / Cervecería La Violeta** confirma una importante historia empresarial en Málaga, pero todavía no demuestra parentesco con la línea directa.
-- **Alfonso Mena Delgado**, esposo de **Anyel Bechara de Mena**, aparece documentado en Buga durante La Violencia y posteriormente en la institucionalidad agroindustrial del Valle del Cauca; falta una fuente puente entre ambas etapas.
+- **Alfonso Mena Delgado**, esposo de **Angel/Anyel Bechara de Mena**, aparece documentado en Buga durante La Violencia y posteriormente en la institucionalidad agroindustrial del Valle del Cauca; falta una fuente puente entre ambas etapas. La forma civil `Angel/Anyel` permanece en **X — conflicto abierto**.
 - La línea **Pino–Bechara** se amplió con historia empresarial, redes sociales y testimonios; la investigación conserva separadas filiación biológica, crianza/adopción y actividad pública.
 
 ## Escala de evidencia
@@ -59,7 +59,7 @@ Este corte distingue explícitamente entre **identidad histórica**, **filiació
 - [`familias/martinez-cabrales.md`](familias/martinez-cabrales.md): ascendencia de Zilia Margarita Martínez Cabrales.
 - [`familias/pino-bechara.md`](familias/pino-bechara.md): filiación adoptiva/crianza materna y red Bechara.
 - [`familias/farah-mizrahy.md`](familias/farah-mizrahy.md): filiación biológica materna.
-- [`familias/mena-delgado.md`](familias/mena-delgado.md): Alfonso Mena Delgado y Anyel Bechara de Mena.
+- [`familias/mena-delgado.md`](familias/mena-delgado.md): Alfonso Mena Delgado y el conflicto nominal Angel/Anyel Bechara de Mena.
 - [`familias/conexiones-literarias.md`](familias/conexiones-literarias.md): parentescos culturales y literarios.
 - [`familias/fajardo-valderrama.md`](familias/fajardo-valderrama.md): hipótesis Valderrama Tobón de Antioquia.
 
@@ -83,7 +83,7 @@ Este corte distingue explícitamente entre **identidad histórica**, **filiació
 
 - [`entrevistas/cuestionarios.md`](entrevistas/cuestionarios.md): historia oral en curso.
 - [`entrevistas/testimonio-juan-carlos-valderrama-martinez.md`](entrevistas/testimonio-juan-carlos-valderrama-martinez.md): testimonio sobre la fratría Valderrama Martínez y Martínez Cabrales.
-- [`entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md`](entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md): memoria familiar Pino–Bechara.
+- [`entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md`](entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md): memoria familiar Pino–Bechara y conflicto Angel/Anyel.
 - [`fuentes/README.md`](fuentes/README.md): fuentes utilizadas y documentos prioritarios por localizar.
 - [`textos/README.md`](textos/README.md): ensayos históricos y narrativos derivados de la investigación.
 - [`aportes-manuales/`](aportes-manuales/): bandeja de entrada para nueva información familiar.
