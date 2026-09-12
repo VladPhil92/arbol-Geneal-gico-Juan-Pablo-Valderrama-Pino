@@ -2,21 +2,42 @@
 
 ## Naturaleza de la relación
 
-**Alfonso Mena Delgado** ingresó a la familia por matrimonio con **Anyel Bechara**, hija del primer matrimonio de **Julio Bechara**.
+**Alfonso Mena Delgado** ingresó a la familia por matrimonio con una hija del primer matrimonio de **Julio Bechara**, cuyo nombre aparece actualmente en conflicto entre **Angel Bechara de Mena** y **Anyel Bechara de Mena**.
 
-No existe descendencia del matrimonio.
+No existe descendencia del matrimonio según testimonio familiar directo.
 
-Según testimonio familiar directo:
+La familia sostiene que:
 
-- **Anyel Bechara × Alfonso Mena Delgado**;
+- **Angel/Anyel Bechara × Alfonso Mena Delgado**;
 - no tuvieron hijos;
-- Alfonso falleció antes que Anyel;
-- Anyel no volvió a casarse;
-- Anyel murió posteriormente en **Cartagena**.
+- Alfonso falleció antes que ella;
+- ella no volvió a casarse;
+- murió posteriormente en **Cartagena**.
 
-Estado: **C fuerte — memoria familiar directa**.
+Estado del vínculo matrimonial: **C fuerte — memoria familiar directa**.
 
-> **Regla nominal:** el nombre correcto es **Anyel Bechara de Mena**. La grafía `Anyer`, presente en una nota social de *El Universal* de 2010, se considera un error de transcripción/editorial de esa fuente y no una variante válida.
+### Conflicto nominal Angel / Anyel / Anyer
+
+El proyecto utilizó inicialmente **Anyel Bechara de Mena** a partir de memoria familiar previa. Una nota social de *El Universal* de 2010 publicó la grafía `Anyer`.
+
+El **11 de septiembre de 2026**, **María del Rosario Pino Bechara** aportó expresamente:
+
+- **Angel Bechara de Mena**;
+- nacimiento: **23 de noviembre de 1920**;
+- fallecimiento: **11 de mayo de 2015**.
+
+Por tanto, la forma del nombre ya no puede considerarse resuelta.
+
+Clasificación actual:
+
+- `Angel Bechara de Mena`: **C fuerte — testimonio directo de María del Rosario**;
+- `Anyel Bechara de Mena`: **C fuerte — tradición familiar previa**;
+- `Anyer Bechara de Mena`: **B contextual — grafía publicada, probablemente error editorial**;
+- forma civil correcta: **X — conflicto abierto**.
+
+Documento decisivo: registro civil/bautismo, matrimonio con Alfonso Mena Delgado, cédula, registro de defunción u obituario de 2015.
+
+Testimonio: [`../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md`](../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md).
 
 ---
 
@@ -137,7 +158,7 @@ sea la misma persona que:
 
 **Alfonso Mena Delgado — director ejecutivo de Procaña y miembro de junta vinculada a Cenicaña, 1978**.
 
-La familia confirma que el esposo de **Anyel** se llamaba exactamente **Alfonso Mena Delgado**, fortaleciendo considerablemente la identificación general, pero aún falta una fuente puente que reúna ambas etapas.
+La familia confirma que el esposo de **Angel/Anyel** se llamaba exactamente **Alfonso Mena Delgado**, fortaleciendo considerablemente la identificación general, pero aún falta una fuente puente que reúna ambas etapas.
 
 Estado: **D/B fuerte**.
 
@@ -147,11 +168,12 @@ Estado: **D/B fuerte**.
 
 La historia familiar aporta aspectos que no aparecen todavía en internet:
 
-- estuvo casado con **Anyel Bechara**;
+- estuvo casado con **Angel/Anyel Bechara de Mena**;
 - el matrimonio **no tuvo hijos**;
 - Alfonso murió primero;
-- Anyel permaneció viuda y no volvió a casarse;
-- Anyel terminó sus días en Cartagena.
+- ella permaneció viuda y no volvió a casarse;
+- terminó sus días en Cartagena;
+- María del Rosario Pino Bechara aporta para ella las fechas **23 nov. 1920 – 11 may. 2015**, clasificadas por ahora como C fuerte.
 
 La ausencia de descendencia directa aumenta el riesgo de pérdida del archivo personal de la pareja. Fotografías, cartas, tarjetas de matrimonio, invitaciones, esquelas, documentos de Procaña y correspondencia profesional pueden ser decisivos para reconstruir su vida privada.
 
@@ -161,32 +183,33 @@ La ausencia de descendencia directa aumenta el riesgo de pérdida del archivo pe
 
 No se ha logrado establecer todavía:
 
-1. fecha y lugar de nacimiento;
-2. nombres de los padres y hermanos;
+1. fecha y lugar de nacimiento de Alfonso;
+2. nombres de sus padres y hermanos;
 3. estudios secundarios/universitarios;
 4. profesión titulada;
 5. fecha de ingreso a la administración judicial;
 6. cargos desempeñados entre 1952 y 1978;
 7. fecha exacta de ingreso y salida de Procaña;
-8. fecha y lugar de matrimonio con Anyel;
+8. fecha y lugar de matrimonio con Angel/Anyel;
 9. lugar de residencia principal del matrimonio;
 10. fecha, lugar y causa de fallecimiento de Alfonso;
 11. patrimonio o propiedades personales;
-12. redes sociales/cívicas fuera de sus cargos institucionales.
+12. redes sociales/cívicas fuera de sus cargos institucionales;
+13. forma civil exacta del nombre Angel/Anyel Bechara de Mena.
 
 ---
 
 ## Documentos prioritarios
 
-1. Matrimonio **Anyel Bechara × Alfonso Mena Delgado**.
+1. Matrimonio **Angel/Anyel Bechara × Alfonso Mena Delgado**.
 2. Registro civil de defunción de Alfonso.
 3. Obituario o necrología en prensa de Cali, Buga o Cartagena.
-4. Archivo histórico de **Procaña**: actas, nóminas, informes, fotografías y hojas de vida, especialmente 1973–1985.
-5. Archivo histórico de **Cenicaña**: actas de juntas 1977–1980 y fotografías de la primera dirección.
-6. Archivo judicial de Buga: nombramiento, posesión y expediente laboral de Alfonso como secretario del fiscal.
-7. Registro de defunción de Anyel en Cartagena.
+4. Registro civil/bautismo o defunción de **Angel/Anyel Bechara de Mena** para resolver el conflicto nominal.
+5. Archivo histórico de **Procaña**: actas, nóminas, informes, fotografías y hojas de vida, especialmente 1973–1985.
+6. Archivo histórico de **Cenicaña**: actas de juntas 1977–1980 y fotografías de la primera dirección.
+7. Archivo judicial de Buga: nombramiento, posesión y expediente laboral de Alfonso como secretario del fiscal.
 8. Documentos familiares, fotografías, correspondencia y tarjetas sociales del matrimonio.
 
 ## Próxima hipótesis de archivo
 
-La ruta de mayor rendimiento ya no es una búsqueda web general. Es localizar **archivos institucionales no indexados** en Procaña, Cenicaña, el Tribunal Superior de Buga, notarías y hemerotecas de Cali. Allí es donde probablemente se encuentran la fotografía, profesión, fechas y trayectoria intermedia de Alfonso.
+La ruta de mayor rendimiento ya no es una búsqueda web general. Es localizar **archivos institucionales no indexados** en Procaña, Cenicaña, el Tribunal Superior de Buga, notarías y hemerotecas de Cali, además de registros civiles de Cartagena. Allí es donde probablemente se encuentran la fotografía, profesión, fechas, trayectoria intermedia de Alfonso y la forma civil exacta del nombre de su esposa.
