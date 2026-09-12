@@ -1,94 +1,132 @@
 {
+  "updated_at": "2026-09-11",
+  "methodological_rule": "Priorizar documentos puente y fuentes primarias. No promover identidad histórica a filiación genealógica sin evidencia específica del vínculo. No tratar hipótesis degradadas o controvertidas como hechos de entrada.",
   "topics": [
     {
       "id": "valderrama_ordonez_primary",
-      "title": "Valderrama–Ordóñez: documentos primarios",
-      "query": "Buscar registros primarios o referencias archivísticas para Ricardo Valderrama Valderrama, Celia Ordóñez Bretón, Mario Valderrama Ordóñez y sus hermanos. Priorizar Bucaramanga, Santander, Sopetrán y Antioquia. Resolver especialmente la controversia Ricardo Valderrama Valderrama vs. Ricardo Valderrama O'Leary."
+      "priority": "P0",
+      "title": "Valderrama–Ordóñez: documentos primarios del tramo Ricardo → Mario",
+      "query": "Localizar matrimonio de Ricardo Valderrama con Celia Soledad Ordóñez Bretón, bautismo/nacimiento de Mario Valderrama Ordóñez, bautismos de sus hermanos y matrimonio Mario Valderrama Ordóñez × Dolores Rosa Mutis. Priorizar Bucaramanga y archivos parroquiales, notariales, civiles y sucesorales. La forma Ricardo Valderrama Valderrama es la hipótesis secundaria principal. Ricardo Valderrama O’Leary está debilitado y debe tratarse como X/D: buscar documento primario capaz de confirmarlo o descartarlo, sin asumir que la inicial O. significa O’Leary. Distinguir siempre al padre Ricardo Valderrama de su hijo Ricardo Valderrama Ordóñez, cuya coexistencia en 1895 ya está históricamente sustentada."
+    },
+    {
+      "id": "juan_nepomuceno_valderrama_pinzon",
+      "priority": "P0",
+      "title": "Juan Nepomuceno Valderrama Pinzón: filiación y fraternidad con Elciario",
+      "query": "Resolver documentalmente si el general y gobernador Juan Nepomuceno Valderrama Pinzón fue hijo de Félix Valderrama × Ignacia Pinzón y hermano de Elciario Valderrama Pinzón. Buscar bautismo en Tasco ca. 1825, matrimonio de Félix e Ignacia, bautismos de Elciario y Pedro Ignacio, testamento/sucesión de Félix, hoja de servicios militares, decreto de nombramiento como gobernador de Cundinamarca y escritura de donación del lote del Hospital de San José. La identidad histórica del general es fuerte; la fraternidad con Elciario permanece D fuerte/B secundaria y no debe asumirse como canónica."
+    },
+    {
+      "id": "domingo_soriano_belen_cerinza",
+      "priority": "P0",
+      "title": "Domingo Soriano Valderrama: Belén de Cerinza y enlace hacia Tadeo",
+      "query": "Resolver la hipótesis Soriano Valderrama = Domingo Soriano Valderrama y la cadena potencial Domingo Soriano × Gertrudis Salcedo → Tadeo Valderrama Salcedo → Zoila Teresa Valderrama Piñeros. Buscar matrimonio Soriano/Domingo Soriano × Gertrudis Salcedo, bautismos de Tadeo y Micaela, testamento/sucesión, padrones y documentos de formación de Belén/Cerinza 1730–1770; luego matrimonios y bautismos de Tadeo y Zoila Teresa. La identificación Soriano=Domingo Soriano es D fuerte; Tadeo→Zoila sigue X/B. No incorporar a Domingo Soriano como ancestro directo hasta cerrar ambos enlaces."
+    },
+    {
+      "id": "felix_valderrama_primary",
+      "priority": "P0",
+      "title": "Félix Valderrama × Ignacia Pinzón: cerrar segundo apellido y descendencia",
+      "query": "Localizar matrimonio de Félix Valderrama × Ignacia Pinzón, bautismos de sus hijos y testamento/sucesión. La forma de trabajo es Félix Valderrama [segundo apellido pendiente; atribuido secundariamente como Piñeros]. Piñeros = B secundario/D fuerte. La variante Félix Tomás Valderrama Guevara procede de una ficha contaminada y queda E/X; no presentarla como alternativa equiprobable salvo aparición de documento independiente. Priorizar Tasco, Boyacá y jurisdicciones parroquiales vecinas."
     },
     {
       "id": "la_violeta_valderrama_genealogy",
+      "priority": "P0",
       "title": "La Violeta: reconstrucción genealógica Valderrama de Málaga",
-      "query": "PRIORIDAD P0. Determinar documentalmente si Juan José Valderrama, asociado a la fundación de Cervecería La Violeta en Málaga hacia 1893, pertenece al mismo tronco que Félix Valderrama Piñeros -> Elciario Valderrama Pinzón -> Ricardo Valderrama Valderrama -> Mario Valderrama Ordóñez. No asumir conexión por apellido o región. Las fuentes son contradictorias: Ricardo Plano sostiene Juan José Valderrama (f. 1935) -> heredero Ramón Muñoz Valderrama (f. 1952) -> hijas Susana y Angélica Muñoz Valderrama; una memoria local de Málaga atribuye la fundación a los hermanos Ramón y José Valderrama y llama a Susana/Angélica familiares cercanas; otras fuentes las llaman hijas directas de Juan José. Buscar bautismo, matrimonio, defunción y sucesión de Juan José/José/Ramón; filiación de Ramón Muñoz Valderrama; bautismos y padres de Susana y Angélica; documentos de Hnas. Muñoz Valderrama; notarías y registros de la fábrica. Reconstruir además los Valderrama de Málaga anteriores: Petronila Valderrama Suárez × Gabriel Navas Suárez; Anna Joaquina Valderrama Suárez (ca. 1782, madre de Faustino Martín Agüero y Valderrama, n. Málaga 1804); Juana Antonia Navas Valderrama (n. Málaga 1813) × José María Valderrama Carvajal (hijo de Pedro Ignacio Valderrama Pinzón, rama de Félix). Genealogías de Colombia atribuye Petronila/Micaela Valderrama Suárez a Pedro Ignacio Valderrama Castro, pero sus fechas parentales son cronológicamente incompatibles: tratar esa filiación como X/E y no fusionar a Pedro Ignacio Castro con Pedro Ignacio Pinzón. Usar registros parroquiales de La Inmaculada Concepción de Málaga / Colombia Catholic Church Records para resolver las filiaciones. El objetivo final es identificar un ancestro común documentado o descartar la conexión con la rama de Juan Pablo."
+      "query": "Determinar documentalmente si Juan José Valderrama, empresario asociado a Cervecería La Violeta en Málaga desde la década de 1890, pertenece al mismo tronco que la línea Félix → Elciario → Ricardo → Mario. No asumir conexión por apellido, región ni tradición cervecera. Resolver padres, matrimonio, defunción y sucesión de Juan José/José/Ramón; filiación de Ramón Muñoz Valderrama; padres de Susana y Angélica Muñoz Valderrama; documentos de Hnas. Muñoz Valderrama y notarías de la fábrica. Reconstruir también Petronila Valderrama Suárez, Anna Joaquina Valderrama Suárez y Juana Antonia Navas Valderrama. Tratar la filiación atribuida a Pedro Ignacio Valderrama Castro como X/E por inconsistencias cronológicas y no fusionarlo con Pedro Ignacio Valderrama Pinzón. Objetivo final: identificar un ancestro común documentado o descartar la conexión."
     },
     {
-      "id": "mutis_santander",
-      "title": "Mutis de Santander",
-      "query": "Profundizar la cadena Manuel Mutis Bossio -> Facundo Primitivo Mutis Consuegra -> Ricardo Mutis Troyano -> Luis Eduardo Mutis Collazos -> Dolores Rosa Mutis Uribe. Buscar registros primarios, publicaciones académicas y archivos regionales."
-    },
-    {
-      "id": "mario_gerardo",
-      "title": "Mario Gerardo Valderrama Mutis",
-      "query": "Localizar evidencia sobre nacimiento, hermanos, padres, matrimonio, carrera y registros de Armada Nacional de Mario Gerardo Valderrama Mutis. Contrastar posibles datos de Bucaramanga, Cartagena y Escuela Naval."
+      "id": "mario_gerardo_valderrama_mutis",
+      "priority": "P0",
+      "title": "Mario Gerardo Valderrama Mutis: identidad civil, Armada y familia",
+      "query": "Localizar nacimiento, bautismo, matrimonio, defunción, hoja de servicios y registros de Armada Nacional de Mario Gerardo Valderrama Mutis. Confirmar documentalmente su filiación como hijo de Mario Valderrama Ordóñez y Dolores Rosa Mutis y reconstruir su fratría. Contrastar Bucaramanga, Cartagena, Escuela Naval y archivos de la Armada. Mantener separados hechos familiares C fuerte de documentos primarios todavía pendientes."
     },
     {
       "id": "siblings_valderrama_mutis",
+      "priority": "P1",
       "title": "Hermanos Valderrama Mutis",
-      "query": "Verificar la descendencia de Mario Valderrama Ordóñez y Dolores Rosa Mutis Uribe: Mario Gerardo, Francisco, Carmenza, Mariela, Lyda Inés, Lucy y cualquier otro hijo. Buscar obituarios, matrimonios y documentos independientes."
+      "query": "Verificar la descendencia de Mario Valderrama Ordóñez y Dolores Rosa Mutis/Mutis Uribe: Mario Gerardo, Francisco, Carmenza, Mariela, Lyda Inés, Lucy y cualquier otro hijo. Buscar bautismos, registros civiles, matrimonios, obituarios y sucesiones; establecer orden de nacimiento sin depender de árboles colaborativos."
     },
     {
       "id": "valderrama_martinez_descendencia",
-      "title": "Valderrama–Martínez: hijos de Mario Gerardo Valderrama Mutis y Zilia Martínez Cabrales",
-      "query": "Reconstruir documentalmente la generación Valderrama Martínez formada por los hijos de Mario Gerardo Valderrama Mutis y Zilia Margarita Martínez Cabrales. La familia identifica a Gabriel José Valderrama Martínez y a sus hermanos Mario Gerardo Valderrama Martínez, nacido en 1962 y fallecido en año por confirmar, y Juan Carlos 'Chanchy' Valderrama Martínez, nacido en 1966. Mario Gerardo tuvo varios hijos; se conocen Zilia Valderrama y Sebastián Valderrama, ambos con segundo apellido pendiente, y existen otros hijos todavía no identificados. Priorizar registro civil de nacimiento y defunción de Mario Gerardo, obituarios, sucesiones y registros que permitan reconstruir toda su descendencia sin inventar madres ni segundos apellidos. Gabriel José Valderrama Martínez se casó con María del Rosario Pino Bechara y tuvieron a Juan Pablo Valderrama Pino (7 febrero 1992), Gabriel Andrés Valderrama Pino (25 agosto 1995) y Jacobo José Valderrama Pino (3 enero 2003); corroborar matrimonio y registros civiles. Juan Carlos, conocido familiarmente como Chanchy, se casó con Leyda del Carmen Pernett Cárdenas, nacida el 31 octubre 1967, y tuvieron a Zilia Valderrama Pernett (12 marzo 1995), Alejandro Valderrama Pernett (24 julio 1999) y Vanessa/Vanesa Valderrama Pernett (27 julio 2001). Las fechas de Alejandro y Vanessa fueron comunicadas directamente por Juan Carlos el 11 septiembre 2026. Buscar registros civiles y matrimoniales para corroborar filiaciones, fechas y la ortografía civil exacta de Vanessa/Vanesa. Distinguir siempre a Mario Gerardo Valderrama Martínez del abuelo homónimo Mario Gerardo Valderrama Mutis."
+      "priority": "P1",
+      "title": "Valderrama–Martínez: generación y descendencia",
+      "query": "Reconstruir documentalmente a los hijos de Mario Gerardo Valderrama Mutis y Zilia Margarita Martínez Cabrales. La familia identifica a Mario Gerardo Valderrama Martínez (n. 1962, fallecimiento pendiente), Gabriel José Valderrama Martínez y Juan Carlos 'Chanchy' Valderrama Martínez (n. 1966). Confirmar registros civiles, matrimonios, defunciones y descendencia. Para Juan Carlos × Leyda del Carmen Pernett Cárdenas confirmar a Zilia (12 mar 1995), Alejandro (24 jul 1999) y Vanessa/Vanesa (27 jul 2001), incluida la ortografía civil exacta. Para Mario Gerardo hijo, reconstruir hijos conocidos Zilia, Sebastián y los restantes sin inventar madres ni segundos apellidos. Distinguir siempre a Mario Gerardo Valderrama Martínez del abuelo Mario Gerardo Valderrama Mutis."
     },
     {
-      "id": "pedro_augusto",
+      "id": "pedro_augusto_parentesco",
+      "priority": "P1",
       "title": "Pedro Gómez Valderrama y Augusto Espinosa Valderrama",
-      "query": "Comprobar con fuentes de alta calidad la filiación de Pedro Gómez Valderrama y Augusto Espinosa Valderrama respecto de Lucía e Isabel Valderrama Ordóñez y documentar el parentesco con Mario Gerardo Valderrama Mutis."
+      "query": "Comprobar con registros civiles, parroquiales y fuentes biográficas de alta calidad la filiación de Pedro Gómez Valderrama respecto de Lucía Valderrama Ordóñez y de Augusto Espinosa Valderrama respecto de Isabel Valderrama Ordóñez. Luego documentar el parentesco con Mario Valderrama Ordóñez y Mario Gerardo Valderrama Mutis. No calcular grado definitivo mientras los enlaces Ordóñez no estén documentados."
+    },
+    {
+      "id": "mutis_santander",
+      "priority": "P1",
+      "title": "Mutis de Santander: cadena documental",
+      "query": "Profundizar y documentar generación por generación la cadena Manuel Domingo de las Nieves Mutis Bossio → Facundo Primitivo Mutis Consuegra → Ricardo Mutis Troyano → Luis Eduardo Mutis Collazos → Dolores Rosa Mutis Uribe. Buscar partidas sacramentales, registros civiles, matrimonios, sucesiones, publicaciones académicas y archivos regionales. Mantener a José Celestino Mutis como colateral histórico, no antepasado directo."
     },
     {
       "id": "alvaro_mutis",
+      "priority": "P1",
       "title": "Álvaro Mutis y la rama de Facundo",
-      "query": "Verificar generación por generación la rama Facundo Primitivo Mutis Consuegra -> Domingo Mutis Amaya -> Pedro Manuel Mutis Durán -> Santiago Mutis Dávila -> Álvaro Mutis Jaramillo y calcular el parentesco con Mario Gerardo Valderrama Mutis."
+      "query": "Verificar generación por generación la rama Facundo Primitivo Mutis Consuegra → Domingo Mutis Amaya → Pedro Manuel Mutis Durán → Santiago Mutis Dávila → Álvaro Mutis Jaramillo y, solo después de cerrar la cadena, calcular el parentesco con Mario Gerardo Valderrama Mutis. Priorizar documentos primarios y biografías académicas con filiación explícita."
     },
     {
       "id": "aurelio_martinez_mutis",
-      "title": "Aurelio Martínez Mutis",
-      "query": "Verificar la rama Mutis que conduce a Aurelio Martínez Mutis, su relación con Paulina Martínez Mutis y Jesús Valderrama Ordóñez, manteniéndola separada de la familia Martínez Cabrales de Zilia."
+      "priority": "P1",
+      "title": "Aurelio Martínez Mutis y conexiones Mutis–Valderrama",
+      "query": "Verificar la rama Mutis que conduce a Aurelio Martínez Mutis, su relación con Paulina Martínez Mutis y el matrimonio Paulina Martínez Mutis × Jesús Valderrama Ordóñez. Mantener completamente separada esta familia Martínez Mutis de la familia Martínez Cabrales de Zilia. Buscar registros primarios y documentación biográfica."
     },
     {
       "id": "martinez_cabrales",
-      "title": "Martínez–Cabrales",
-      "query": "Buscar documentación sobre Zilia Margarita Martínez Cabrales, Gabriel María Martínez Lugo, Zoila Margarita Cabrales Pineda y ascendientes Martínez, Lugo, Cabrales, Pineda y Sossa. La fratría reconocida comprende a Gabriel Ignacio, Eusebio, Juan, Guillermo, Luz Marina del Rosario 'Mara', Zilia y Gustavo Adolfo Martínez Cabrales. El testimonio oral directo de Juan Carlos Valderrama Martínez, nieto de Gabriel María y Zoila, coincide con esos siete nombres y afirma que Gabriel Ignacio era el primero / hijo mayor; también declara que no recuerda el orden de nacimiento de los demás. Buscar registros civiles/bautismales de los siete hermanos para confirmar a Gabriel Ignacio como mayor y reconstruir el orden completo, sin inferir el orden restante. Mantener Mara Martínez Cabrales = Luz Marina del Rosario Martínez Cabrales como una sola persona. Resolver además lugar de nacimiento de Zilia y obtener registros primarios de la fratría."
+      "priority": "P1",
+      "title": "Martínez–Cabrales: fratría y ascendencia",
+      "query": "Buscar documentación sobre Zilia Margarita Martínez Cabrales, Gabriel María Martínez Lugo, Zoila Margarita Cabrales Pineda y ascendientes Martínez, Lugo, Cabrales, Pineda y Sossa. La fratría reconocida comprende a Gabriel Ignacio, Eusebio, Juan, Guillermo, Luz Marina del Rosario 'Mara', Zilia y Gustavo Adolfo Martínez Cabrales. El testimonio oral de Juan Carlos Valderrama Martínez sostiene que Gabriel Ignacio era el hijo mayor y no recuerda el orden de los demás. Buscar registros civiles/bautismales de los siete para confirmar el orden sin inferir datos faltantes. Resolver además el lugar de nacimiento de Zilia."
     },
     {
       "id": "luz_marina_martinez_cabrales",
-      "title": "Luz Marina del Rosario ‘Mara’ Martínez Cabrales: identidad, descendencia y trayectoria aeroportuaria",
-      "query": "Investigar a Luz Marina del Rosario Martínez Cabrales, conocida familiarmente como Mara Martínez Cabrales. Mara y Luz Marina del Rosario son la misma persona. Hermana de Zilia Margarita Martínez Cabrales, nacida según memoria familiar el 29 de noviembre de 1941 e hija de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda. Existe una coincidencia oficial exacta del nombre en un aviso de Colpensiones de 2014 y una genealogía secundaria que la incluye bajo el nombre Mara. La familia informa que tuvo una única hija: Mara del Carmen Martínez Martínez, nacida el 13 de julio de 1978. La memoria familiar conserva que el padre de Mara del Carmen era un hombre de apellido Mogollón, pero su nombre completo y demás datos son desconocidos. Buscar el registro civil o bautismal de Mara del Carmen, documentos de reconocimiento o anotaciones marginales y fuentes contemporáneas a 1977–1979 que conecten a Luz Marina, Mara del Carmen y un hombre de apellido Mogollón. No seleccionar ni fusionar a ningún Mogollón concreto por coincidencia de apellido, ciudad o edad. El hecho de que Mara del Carmen sea conocida como Martínez Martínez no permite confirmar ni descartar la pista paterna sin registro original. Prioridad especial: comprobar el testimonio de Gabriel José Valderrama Martínez de que Luz Marina trabajó en el Aeropuerto de Cartagena. Buscar por ambos nombres en hojas de vida, actos de nombramiento, posesión, directorios y certificaciones de Empresa Colombiana de Aeródromos (ECA), Departamento Administrativo de Aeronáutica Civil (DAAC), Fondo Aeronáutico Nacional (FAN), Aerocivil, Aeropuerto de Crespo/Rafael Núñez y aerolíneas que operaron en Cartagena. No asumir que fue empleada de Aerocivil hasta hallar fuente directa. Distinguirla siempre de Luz Marina Martínez Lugo, nacida en 1904, hermana de Gabriel María Martínez Lugo."
+      "priority": "P1",
+      "title": "Luz Marina del Rosario 'Mara' Martínez Cabrales",
+      "query": "Investigar a Luz Marina del Rosario Martínez Cabrales, conocida familiarmente como Mara Martínez Cabrales, y mantener Mara = Luz Marina del Rosario como una sola persona. Confirmar nacimiento, descendencia y trayectoria laboral. La familia informa una única hija, Mara del Carmen Martínez Martínez, n. 13 jul 1978, y recuerda que el padre era un hombre de apellido Mogollón; no seleccionar ningún Mogollón por simple coincidencia. Buscar registro civil/bautismal de Mara del Carmen y documentos de reconocimiento. Comprobar además el testimonio de que Luz Marina trabajó en el Aeropuerto de Cartagena mediante ECA, DAAC, FAN, Aerocivil, aeropuerto Rafael Núñez y aerolíneas. Distinguirla de Luz Marina Martínez Lugo, n. 1904."
     },
     {
       "id": "fajardo_sopetran",
-      "title": "Valderrama de Sopetrán y Sergio Fajardo",
-      "query": "Identificar padres y abuelos de María Elena 'Mara' Valderrama Tobón y Jairo Valderrama Tobón. Reconstruir la rama Valderrama de Sopetrán y buscar el punto de convergencia, si existe, con Elciario Valderrama Pinzón o ascendientes de Ricardo Valderrama Valderrama. No asumir parentesco por apellido."
+      "priority": "P2",
+      "title": "Valderrama de Sopetrán y Valderrama Tobón",
+      "query": "Identificar padres y abuelos de María Elena 'Mara' Valderrama Tobón y Jairo Valderrama Tobón. Reconstruir la rama Valderrama de Sopetrán y buscar el punto de convergencia, si existe, con Elciario Valderrama Pinzón o sus ascendientes. No asumir parentesco por apellido, municipio ni notoriedad pública."
     },
     {
       "id": "farah_mizrahy",
-      "title": "Farah–Mizrahy",
-      "query": "Investigar documentalmente a Diana Farah Mizrahy y variantes ortográficas Farah/Mizrahy/Mizrahi/Mizrachi, buscando padres, abuelos, migración y asentamiento en Colombia sin inferir origen étnico o religioso por apellido."
+      "priority": "P1",
+      "title": "Farah–Mizrahy: línea materna biológica",
+      "query": "Investigar documentalmente a Diana Farah Mizrahy y variantes ortográficas Farah/Mizrahy/Mizrahi/Mizrachi, buscando padres, abuelos, nacimiento, migración y asentamiento. No inferir origen étnico, religioso o nacional únicamente por apellidos. Priorizar documentos civiles y testimonios verificables."
     },
     {
       "id": "pino_bechara",
-      "title": "Pino–Bechara–Kahtouny/Kahtouni: cronología, fratría y documentos primarios",
-      "query": "Buscar documentación primaria y hemerográfica para la línea adoptiva materna de María del Rosario Pino Bechara. Datos familiares consolidados: Marco Tulio Pino Uribe 29 marzo 1941–7 diciembre 2014; Hortensia Margarita Bechara Castoony, también asociada familiarmente a Kahtouny/Kahtouni, 22 marzo 1935–2 septiembre 2026, con tradición oral previa que sitúa su verdadero nacimiento en 1930. Buscar registro temprano de Hortensia, defunción 2026, matrimonio con Marco Tulio y documento formal de adopción de María del Rosario cuando sea accesible. María del Rosario aporta además Odette/Odeth Bechara Bechara 18 octubre 1923–25 marzo 1990; Lilia Bechara de Bayter 28 agosto 1928–11 abril 2010; Lilian M. Bayter Bechara 11 febrero 1956–5 octubre 2018; Angel/Anyel Bechara de Mena 23 noviembre 1920–11 mayo 2015. Mantener explícitos los conflictos nominales y las variantes Castoony, Castuny, Kajtouny, Kahtouny y Kahtouni."
+      "priority": "P1",
+      "title": "Pino–Bechara: cronología, fratría y documentos primarios",
+      "query": "Buscar documentación primaria y hemerográfica para la línea adoptiva/crianza de María del Rosario Pino Bechara. Confirmar Marco Tulio Pino Uribe (29 mar 1941–7 dic 2014), Hortensia Margarita Bechara y las variantes Castoony/Kahtouny/Kahtouni, matrimonio, defunción y documento formal de adopción cuando sea accesible. Mantener visibles las variantes nominales de la fratría Bechara: Angel/Anyel, Odette/Odeth y Castoony/Kahtouny/Kahtouni. No uniformar grafías sin documento primario."
     },
     {
       "id": "hortensia_bechara_empresarial",
-      "title": "Hortensia Bechara y la red empresarial Pino–Bechara",
-      "query": "Reconstruir documentalmente la trayectoria comercial y empresarial de Hortensia Margarita Bechara Castoony/Kahtouny/Kahtouni y de la red familiar Bechara en Cartagena. Pan Suizo está documentado desde 1961 y todavía aparece en fuentes urbanas de 1997; una tesis industrial de 1987 imprime 'FINO BECHARA E HIJOS “PAN SUIZO”', registra producción de pan y dulcería y también 'PAN BECHARA LTDA. — 1961' con expansión locativa e incremento de producción. La familia recuerda que Hortensia fue propietaria/empresaria de Pan Suizo y corrige oralmente FINO a PINO, pero no asumir la razón social ni la propiedad registral sin expediente mercantil. Obtener certificados históricos de Cámara de Comercio para PAN SUIZO, FINO BECHARA E HIJOS, PINO BECHARA E HIJOS, PAN BECHARA LTDA, PAN BECHARA & CIA LTDA, PAN FRANCÉS y PINO BECHARA E HIJA LTDA. Buscar socios, representantes, capital, reformas, establecimientos, domicilios, liquidaciones y escrituras. Mantener separados Pan Suizo, Pan Francés y Pan Bechara hasta demostrar puentes jurídicos. La familia atribuye Pan Francés a Edmundo Bechara y recuerda Pan Bechara como negocio familiar posiblemente asociado a Jorge. Investigar también la huella patrimonial/inmobiliaria de Edmundo y la continuidad hacia turismo/hotelería en descendientes de Jorge."
+      "priority": "P1",
+      "title": "Hortensia Bechara y red empresarial Pino–Bechara",
+      "query": "Reconstruir documentalmente la trayectoria comercial de Hortensia Bechara y de la red familiar Bechara en Cartagena. Obtener certificados históricos de Cámara de Comercio para Pan Suizo, FINO/PINO BECHARA E HIJOS, Pan Bechara Ltda., Pan Bechara & Cía., Pan Francés y Pino Bechara e Hija Ltda. Buscar socios, representantes, capital, reformas, establecimientos, domicilios y liquidaciones. Mantener separados Pan Suizo, Pan Francés y Pan Bechara hasta demostrar puentes jurídicos."
     },
     {
       "id": "chayo_pino_publica",
-      "title": "María del Rosario ‘Chayo’ Pino Bechara: trayectoria pública, política y profesional",
-      "query": "Investigar la trayectoria pública de María del Rosario Pino Bechara, conocida como Chayo Pino. La Corte Suprema la documenta por nombre completo dentro del núcleo sucesoral de Marco Tulio Pino Uribe. La prensa social de Cartagena utiliza 'Chayo Pino', por lo que María del Rosario = Chayo cuenta con familia + corroboración hemerográfica. Existe una coincidencia electoral exacta de MARIA DEL ROSARIO PINO BECHARA como candidata al Concejo de Cartagena en 2011 por 'Sí es Posible', n.º 011, 180 votos y sin curul: buscar formulario de inscripción, aval, fotografía, prensa de campaña o confirmación familiar antes de cerrar identidad. Existe además un perfil indexado 'Chayo Pino De Valderrama — Colombia — MetLife, +1 more'; buscar perfil completo, cargo, fechas, ciudad y documentación laboral. No atribuir ALICO sin evidencia directa. Investigar también si PINO BECHARA E HIJA LTDA tuvo como socios a Marco Tulio, Hortensia o María del Rosario, sin inferirlo por la razón social."
+      "priority": "P2",
+      "title": "María del Rosario 'Chayo' Pino Bechara: trayectoria pública",
+      "query": "Investigar la trayectoria pública de María del Rosario Pino Bechara, conocida como Chayo Pino. Verificar documentalmente la coincidencia electoral de 2011 al Concejo de Cartagena y el perfil profesional indexado asociado a MetLife. Buscar formulario de inscripción, aval, fotografía, prensa, documentos laborales y fuentes familiares. No atribuir cargos o empleadores adicionales por inferencia."
     },
     {
       "id": "alfonso_mena_bridge",
-      "title": "Alfonso Mena Delgado: puente Buga–Procaña–Angel/Anyel",
-      "query": "Buscar una fuente puente que permita demostrar si Alfonso Mena Delgado, secretario del fiscal en Buga en noviembre de 1952, es el mismo Alfonso Mena Delgado documentado como director ejecutivo de Procaña en 1978 y el mismo hombre que la familia identifica como esposo de Angel/Anyel Bechara de Mena. Priorizar hojas de vida, actas de Procaña y Cenicaña, expedientes judiciales de Buga, directorios profesionales, obituarios, matrimonios, sucesiones y prensa de Cali/Buga. No fusionar identidades solo por coincidencia nominal."
+      "priority": "P0",
+      "title": "Alfonso Mena Delgado: puente Buga–Procaña–familia Bechara",
+      "query": "Buscar una fuente puente que permita demostrar si Alfonso Mena Delgado, secretario del fiscal en Buga en noviembre de 1952, es el mismo Alfonso Mena Delgado documentado como director ejecutivo de Procaña en 1978 y el mismo hombre que la familia identifica como esposo de Angel/Anyel Bechara de Mena. Priorizar hojas de vida, actas de Procaña y Cenicaña, expedientes judiciales de Buga, directorios profesionales, obituarios, matrimonio, sucesión y prensa de Cali/Buga/Cartagena. No fusionar identidades solo por coincidencia nominal."
     },
     {
-      "id": "anyel_bechara_civil",
-      "title": "Angel/Anyel Bechara de Mena: identidad civil y cronología",
-      "query": "Resolver documentalmente la identidad civil de la hija del primer matrimonio de Julio Bechara casada con Alfonso Mena Delgado. La tradición familiar previa utilizaba Anyel Bechara de Mena y El Universal de Cartagena la rotuló como 'Anyer Bechara de Mena' el 11 junio 2010. El 11 septiembre 2026, María del Rosario Pino Bechara aportó expresamente la forma 'Angel Bechara de Mena' y las fechas 23 noviembre 1920–11 mayo 2015. Tratar Angel vs Anyel como conflicto X hasta localizar registro civil, bautismo, cédula, matrimonio con Alfonso Mena Delgado, registro de defunción, obituario o sucesión. No seguir afirmando que Anyel es la forma canónica solo por tradición previa. Mantener Anyer como grafía publicada que puede ser error editorial. La familia confirma que el matrimonio con Alfonso no tuvo hijos, Alfonso murió primero y ella no volvió a casarse. Buscar especialmente defunción en 2015 y matrimonio para resolver el nombre legal."
+      "id": "angel_anyel_bechara_civil",
+      "priority": "P0",
+      "title": "Angel/Anyel Bechara de Mena: identidad civil",
+      "query": "Resolver documentalmente la identidad civil de la hija del primer matrimonio de Julio Bechara casada con Alfonso Mena Delgado. El 11 septiembre 2026 María del Rosario Pino Bechara aportó la forma Angel Bechara de Mena y fechas 23 nov 1920–11 may 2015. Tradición familiar previa utilizaba Anyel Bechara de Mena y El Universal publicó Anyer en 2010. Clasificación actual: Angel C fuerte, Anyel C fuerte, Anyer B contextual probablemente erróneo, forma civil X. Buscar registro civil, bautismo, cédula, matrimonio con Alfonso, defunción, obituario y sucesión. La familia confirma que no tuvieron hijos, Alfonso murió primero y ella no volvió a casarse."
     }
   ]
 }
