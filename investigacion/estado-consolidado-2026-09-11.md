@@ -35,12 +35,7 @@ Se conserva como **C fuerte** la información familiar según la cual Mario Gera
 - **Mario Valderrama Ordóñez**;
 - **Dolores Rosa Mutis**.
 
-La familia identifica además como hermanos, al menos, a:
-
-- Francisco Valderrama Mutis;
-- Carmenza Valderrama Mutis;
-
-mientras genealogías secundarias amplían la fratría con Mariela, Lyda Inés y Lucy Valderrama Mutis.
+La familia identifica además como hermanos, al menos, a **Francisco Valderrama Mutis** y **Carmenza Valderrama Mutis**, mientras genealogías secundarias amplían la fratría con Mariela, Lyda Inés y Lucy Valderrama Mutis.
 
 Mario Gerardo perteneció a la Armada Nacional de Colombia y en la memoria familiar hablaba de **Pedro Gómez Valderrama, Augusto Espinosa Valderrama y Álvaro Mutis** como primos/parientes. Esta tradición es coherente con varias reconstrucciones secundarias, pero el grado exacto de cada parentesco continúa condicionado a documentación primaria.
 
@@ -146,39 +141,51 @@ Estado de conexión con la línea directa: **D/E — plausible, no probada**.
 
 Expedientes: [`juan-jose-valderrama-la-violeta.md`](juan-jose-valderrama-la-violeta.md) y [`tradicion-cervecera-valderrama-la-violeta-ctg.md`](tradicion-cervecera-valderrama-la-violeta-ctg.md).
 
-## 8. Alfonso Mena Delgado × Anyel Bechara de Mena
+## 8. Alfonso Mena Delgado × Angel/Anyel Bechara de Mena
 
-La investigación de la rama por afinidad produjo un perfil histórico mucho más preciso de **Alfonso Mena Delgado**, esposo de **Anyel Bechara de Mena**.
+La investigación de la rama por afinidad produjo un perfil histórico mucho más preciso de **Alfonso Mena Delgado**, esposo de la hija de Julio Bechara cuyo nombre presenta actualmente un conflicto entre las formas **Angel** y **Anyel Bechara de Mena**.
 
-Memoria familiar directa:
+### Memoria familiar directa
 
-- Anyel Bechara × Alfonso Mena Delgado;
-- no tuvieron hijos;
-- Alfonso falleció antes que Anyel;
-- Anyel no volvió a casarse y murió posteriormente en Cartagena.
+La familia sostiene que:
 
-Regla nominal: **Anyel Bechara de Mena** es la forma de trabajo; `Anyer` se trata como error editorial de una fuente social.
+- Angel/Anyel Bechara contrajo matrimonio con **Alfonso Mena Delgado**;
+- el matrimonio no tuvo hijos;
+- Alfonso falleció primero;
+- ella no volvió a casarse;
+- murió posteriormente en Cartagena.
 
-Dos huellas históricas relevantes de Alfonso:
+El **11 de septiembre de 2026**, María del Rosario Pino Bechara aportó expresamente la forma **Angel Bechara de Mena** y las fechas **23 de noviembre de 1920 – 11 de mayo de 2015**. El proyecto tenía previamente tradición familiar directa con la forma **Anyel**. Una nota social de *El Universal* publicó `Anyer`.
 
-1. **Buga, 1952:** aparece como secretario del fiscal Eduardo Urrutia Rivera durante un episodio de presión relacionado con León María Lozano, “El Cóndor”, y objetó la revocatoria de una orden de detención tomada bajo intimidación.
-2. **Valle del Cauca, 1978:** aparece como director ejecutivo de Procaña y miembro de una instancia directiva durante la fase inicial de Cenicaña.
+Clasificación nominal actual:
 
-La continuidad entre el Alfonso de 1952 y el de 1978 es una **hipótesis muy fuerte**, pero todavía requiere una fuente puente biográfica.
+- `Angel Bechara de Mena`: **C fuerte — testimonio directo de María del Rosario**;
+- `Anyel Bechara de Mena`: **C fuerte — tradición familiar previa**;
+- `Anyer Bechara de Mena`: **B contextual — grafía publicada, probablemente error editorial**;
+- forma civil correcta: **X — conflicto abierto**.
 
-Expedientes: [`../familias/mena-delgado.md`](../familias/mena-delgado.md), [`alfonso-mena-delgado.md`](alfonso-mena-delgado.md), [`alfonso-mena-delgado_busqueda-publica.md`](alfonso-mena-delgado_busqueda-publica.md) y [`fase-alfonso-mena-anyel-bechara.md`](fase-alfonso-mena-anyel-bechara.md).
+No debe volver a afirmarse que `Anyel` o `Angel` sea la forma civil definitiva sin registro primario.
+
+### Dos huellas históricas de Alfonso
+
+1. **Buga, 1952:** Alfonso aparece como secretario del fiscal Eduardo Urrutia Rivera durante un episodio de presión relacionado con León María Lozano, “El Cóndor”. La fuente registra que objetó la revocatoria de una orden de detención adoptada bajo intimidación.
+2. **Valle del Cauca, 1978:** un Alfonso Mena Delgado aparece como director ejecutivo de Procaña y miembro de una instancia directiva durante la fase inicial de Cenicaña.
+
+La continuidad entre el Alfonso de 1952 y el de 1978 es una **hipótesis D/B fuerte**, pero todavía requiere una fuente puente biográfica. La familia confirma que el esposo de Angel/Anyel se llamaba exactamente Alfonso Mena Delgado, lo cual fortalece la identificación general sin cerrarla documentalmente.
+
+Expedientes: [`../familias/mena-delgado.md`](../familias/mena-delgado.md), [`alfonso-mena-delgado.md`](alfonso-mena-delgado.md), [`alfonso-mena-delgado_busqueda-publica.md`](alfonso-mena-delgado_busqueda-publica.md), [`fase-alfonso-mena-anyel-bechara.md`](fase-alfonso-mena-anyel-bechara.md) y [`../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md`](../entrevistas/testimonio-maria-del-rosario-pino-bechara-2026-09-11.md).
 
 ## 9. Línea Pino–Bechara y contexto empresarial
 
 La línea adoptiva materna se ha ampliado con investigación sobre:
 
-- Hortensia Margarita Bechara Castoony/Kahtouny y sus variantes documentales;
-- Pan Suizo, Pan Bechara y la red empresarial Bechara en Cartagena;
-- Edmundo, Jorge, Anyel y otros miembros de la fratría;
+- Hortensia Margarita Bechara Castoony/Kahtouny/Kahtouni y sus variantes documentales;
+- Pan Suizo, Pan Bechara, Pan Francés y la red empresarial Bechara en Cartagena;
+- Edmundo, Jorge, Angel/Anyel y otros miembros de la fratría;
 - María del Rosario “Chayo” Pino Bechara y su huella pública;
 - la distinción entre filiación biológica Farah–Mizrahy y filiación adoptiva/crianza Pino–Bechara.
 
-La investigación mantiene separadas identidad social, vínculo familiar y prueba jurídica de adopción.
+La investigación mantiene separadas identidad social, vínculo familiar, actividad mercantil y prueba jurídica de adopción.
 
 Expedientes principales: [`../familias/pino-bechara.md`](../familias/pino-bechara.md), [`hortensia-bechara-castoony_trayectoria-comercial.md`](hortensia-bechara-castoony_trayectoria-comercial.md), [`edmundo-jorge-anyel-bechara.md`](edmundo-jorge-anyel-bechara.md), [`linaje-adoptivo-pino-bechara-kahtouny.md`](linaje-adoptivo-pino-bechara-kahtouny.md) y [`maria-del-rosario-chayo-pino-bechara.md`](maria-del-rosario-chayo-pino-bechara.md).
 
@@ -220,7 +227,7 @@ Las investigaciones recientes muestran que las búsquedas web generales ya tiene
 6. matrimonio/bautismo que cierre `Soriano/Domingo Soriano → Tadeo`;
 7. bautismo/matrimonio que cierre `Tadeo → Zoila Teresa`;
 8. registro civil o eclesiástico que identifique a los padres de **Juan José Valderrama de Málaga**;
-9. matrimonio **Anyel Bechara × Alfonso Mena Delgado** y defunción de Alfonso;
+9. matrimonio **Angel/Anyel Bechara × Alfonso Mena Delgado**, registro de defunción de Alfonso y registro civil/bautismal de Angel/Anyel;
 10. documentos civiles y mercantiles que consoliden la rama Pino–Bechara y sus empresas familiares.
 
 ## 13. Regla de actualización del árbol
@@ -231,6 +238,7 @@ A partir de este corte:
 - una **filiación** debe permanecer C/D/E/X hasta que exista evidencia específica del vínculo padre–hijo, matrimonio o parentesco;
 - los colaterales históricos no deben introducirse como ancestros;
 - `O’Leary`, `Guevara`, el parentesco con La Violeta y la extensión hasta Domingo Soriano no deben presentarse como hechos consumados;
+- `Angel/Anyel` debe mantenerse como **X nominal** hasta localizar documento civil decisivo;
 - toda tradición familiar debe conservarse con su procedencia, incluso cuando todavía no tenga documento primario.
 
 Este archivo funciona como **corte maestro de investigación** para evitar que expedientes avanzados, pero dispersos, se interpreten con niveles de certeza diferentes en distintas partes del repositorio.
