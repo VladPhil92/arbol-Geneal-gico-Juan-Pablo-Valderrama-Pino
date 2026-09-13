@@ -15,6 +15,7 @@ Reconstruir el árbol genealógico familiar con metodología documental, disting
 - la profundidad histórica de los **Valderrama de Boyacá–Santander**, incluidos Ricardo Valderrama, Elciario Valderrama Pinzón y posibles colaterales como Juan Nepomuceno Valderrama Pinzón;
 - la investigación sobre **Domingo Soriano Valderrama y Belén de Cerinza** como hipótesis de extensión al siglo XVIII;
 - el **origen toponímico castellano del apellido Valderrama**, con foco de trabajo en Valle de Tobalina/Burgos y el problema de su tránsito documental hacia Nueva Granada;
+- la reconstrucción documental de **Pedro Ignacio Valderrama** entre Málaga y Tasco ca.1790–1856 como posible generación anterior o paralela a Félix;
 - la posible conexión con **Juan José Valderrama y la Cervecería La Violeta de Málaga**, ahora investigada mediante la convergencia Tasco–Málaga y las redes Valderrama Suárez del siglo XIX;
 - la rama materna biológica **Farah–Mizrahy**;
 - la rama materna adoptiva **Pino–Bechara** y su historia empresarial/social en Cartagena;
@@ -26,9 +27,13 @@ El estado maestro de las investigaciones realizadas hasta el **11 de septiembre 
 
 - [`investigacion/estado-consolidado-2026-09-11.md`](investigacion/estado-consolidado-2026-09-11.md)
 
-La nueva fase profunda sobre el origen del apellido y la posible convergencia con La Violeta está en:
+La fase profunda sobre el origen del apellido y la posible convergencia con La Violeta está en:
 
 - [`investigacion/fase-origen-valderrama-tobalina-malaga-la-violeta.md`](investigacion/fase-origen-valderrama-tobalina-malaga-la-violeta.md)
+
+El desarrollo documental sobre el homónimo **Pedro Ignacio Valderrama**, su presencia en el corredor Málaga–Tasco y su familia está en:
+
+- [`investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md`](investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md)
 
 Este trabajo distingue explícitamente entre **origen onomástico**, **identidad histórica**, **filiación genealógica** y **grado de parentesco**, para evitar que un apellido, una localidad o un personaje históricamente documentado sean incorporados automáticamente al árbol directo sin prueba filiatoria.
 
@@ -39,9 +44,11 @@ Este trabajo distingue explícitamente entre **origen onomástico**, **identidad
 - La variante **Félix Tomás Valderrama Guevara** fue degradada a pista contaminada; la forma de trabajo es **Félix Valderrama [segundo apellido pendiente; atribuido secundariamente como Piñeros] × Ignacia Pinzón**.
 - **Juan Nepomuceno Valderrama Pinzón**, general, gobernador de Cundinamarca y benefactor del Hospital de San José, es un posible hermano de Elciario: hipótesis fuerte pero aún no canónica.
 - **Domingo Soriano Valderrama** constituye una hipótesis prioritaria para extender la línea hasta Belén de Cerinza en el siglo XVIII, pero faltan documentos para `Domingo Soriano → Tadeo → Zoila Teresa`.
-- La nueva fase sobre el **origen Valderrama** ubica el foco toponímico de trabajo en **Valle de Tobalina, Burgos**, y documenta movilidad de personas Valderrama de Burgos hacia América desde los siglos XVI–XVII; todavía no existe un puente biológico demostrado con la línea Boyacá–Santander.
+- La fase sobre el **origen Valderrama** ubica el foco toponímico de trabajo en **Valle de Tobalina, Burgos**, y documenta movilidad de personas Valderrama de Burgos hacia América desde los siglos XVI–XVII; todavía no existe un puente biológico demostrado con la línea Boyacá–Santander.
 - La investigación de **Juan José Valderrama / Cervecería La Violeta** ganó plausibilidad genealógica: un ramal atribuido secundariamente a la fratría de Félix–Ignacia llega a Málaga por el matrimonio de **José María Valderrama Carvajal × Juana Antonia Navas Valderrama en 1831**, mientras otra red **Valderrama Suárez** ya estaba presente allí a comienzos del siglo XIX. La conexión con Juan José sigue en D/E porque sus padres aún no están identificados.
-- El **Pedro Ignacio Valderrama asociado a Aposentos Tasco en 1819** se convirtió en objetivo P0, porque su cronología entra en conflicto con reconstrucciones que ubican a Pedro Ignacio Valderrama Pinzón naciendo hacia 1815; resolver esta homonimia puede revelar una generación anterior a Félix.
+- **Pedro Ignacio Valderrama quedó desdoblado provisionalmente en dos individuos**: un Pedro Ignacio histórico adulto hacia 1790, propietario de Aposentos Tasco en 1819 y fallecido antes de agosto de 1856, y el Pedro Ignacio Valderrama Pinzón situado secundariamente ca.1815–1870. La identidad entre ambos queda rechazada provisionalmente por incompatibilidad cronológica.
+- La documentación histórica atribuye al Pedro Ignacio antiguo un hijo **José A./José Antonio Valderrama**, activo durante la Campaña Libertadora; su posible identidad con un José Antonio Valderrama ca.1800 que aparece en Sopetrán desde 1828 queda abierta en E/D.
+- La **dispensa matrimonial de 27 oct.1812** de Gabriel Navas Suárez × Petronila Valderrama Suárez y el matrimonio de **23 nov.1831** José María Valderrama Carvajal × Juana Antonia Navas Valderrama pasan a ser documentos P0 porque pueden reconstruir la población Valderrama de Málaga antes de La Violeta.
 - **Alfonso Mena Delgado**, esposo de **Angel/Anyel Bechara de Mena**, aparece documentado en Buga durante La Violencia y posteriormente en la institucionalidad agroindustrial del Valle del Cauca; falta una fuente puente entre ambas etapas. La forma civil `Angel/Anyel` permanece en **X — conflicto abierto**.
 - La línea **Pino–Bechara** se amplió con historia empresarial, redes sociales y testimonios; la investigación conserva separadas filiación biológica, crianza/adopción y actividad pública.
 
@@ -72,6 +79,7 @@ Este trabajo distingue explícitamente entre **origen onomástico**, **identidad
 
 ### Investigación especializada
 
+- [`investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md`](investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md)
 - [`investigacion/fase-origen-valderrama-tobalina-malaga-la-violeta.md`](investigacion/fase-origen-valderrama-tobalina-malaga-la-violeta.md)
 - [`investigacion/origenes-valderrama-nuevo-reino-granada.md`](investigacion/origenes-valderrama-nuevo-reino-granada.md)
 - [`investigacion/juan-jose-valderrama-la-violeta.md`](investigacion/juan-jose-valderrama-la-violeta.md)
