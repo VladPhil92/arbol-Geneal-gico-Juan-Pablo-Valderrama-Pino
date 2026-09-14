@@ -16,6 +16,7 @@ Reconstruir el árbol genealógico familiar con metodología documental, disting
 - la investigación sobre **Domingo Soriano Valderrama y Belén de Cerinza** como hipótesis de extensión al siglo XVIII;
 - el **origen toponímico castellano del apellido Valderrama**, con foco de trabajo en Valle de Tobalina/Burgos y el problema de su tránsito documental hacia Nueva Granada;
 - la reconstrucción documental de **Pedro Ignacio Valderrama** entre Málaga y Tasco ca.1790–1856 como posible generación anterior o paralela a Félix;
+- la reconstrucción del núcleo **Valderrama–Suárez de Málaga ca.1780–1831**, incluidos Micaela, Petronila y Anna Joaquina, y el conflicto entre `José Valderrama` y la ficha contaminada `Pedro Ignacio Valderrama Castro` como posible padre;
 - la posible conexión con **Juan José Valderrama y la Cervecería La Violeta de Málaga**, ahora investigada mediante la convergencia Tasco–Málaga y las redes Valderrama Suárez del siglo XIX;
 - la rama materna biológica **Farah–Mizrahy**;
 - la rama materna adoptiva **Pino–Bechara** y su historia empresarial/social en Cartagena;
@@ -35,6 +36,10 @@ El desarrollo documental sobre el homónimo **Pedro Ignacio Valderrama**, su pre
 
 - [`investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md`](investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md)
 
+La nueva fase sobre la **familia Valderrama Suárez de Málaga**, el enlace con Reyes Patria y la corrección de la filiación de Micaela está en:
+
+- [`investigacion/fase-valderrama-suarez-malaga-reyes-patria-1780-1831.md`](investigacion/fase-valderrama-suarez-malaga-reyes-patria-1780-1831.md)
+
 Este trabajo distingue explícitamente entre **origen onomástico**, **identidad histórica**, **filiación genealógica** y **grado de parentesco**, para evitar que un apellido, una localidad o un personaje históricamente documentado sean incorporados automáticamente al árbol directo sin prueba filiatoria.
 
 ### Hallazgos recientes principales
@@ -48,7 +53,10 @@ Este trabajo distingue explícitamente entre **origen onomástico**, **identidad
 - La investigación de **Juan José Valderrama / Cervecería La Violeta** ganó plausibilidad genealógica: un ramal atribuido secundariamente a la fratría de Félix–Ignacia llega a Málaga por el matrimonio de **José María Valderrama Carvajal × Juana Antonia Navas Valderrama en 1831**, mientras otra red **Valderrama Suárez** ya estaba presente allí a comienzos del siglo XIX. La conexión con Juan José sigue en D/E porque sus padres aún no están identificados.
 - **Pedro Ignacio Valderrama quedó desdoblado provisionalmente en dos individuos**: un Pedro Ignacio histórico adulto hacia 1790, propietario de Aposentos Tasco en 1819 y fallecido antes de agosto de 1856, y el Pedro Ignacio Valderrama Pinzón situado secundariamente ca.1815–1870. La identidad entre ambos queda rechazada provisionalmente por incompatibilidad cronológica.
 - La documentación histórica atribuye al Pedro Ignacio antiguo un hijo **José A./José Antonio Valderrama**, activo durante la Campaña Libertadora; su posible identidad con un José Antonio Valderrama ca.1800 que aparece en Sopetrán desde 1828 queda abierta en E/D.
-- La **dispensa matrimonial de 27 oct.1812** de Gabriel Navas Suárez × Petronila Valderrama Suárez y el matrimonio de **23 nov.1831** José María Valderrama Carvajal × Juana Antonia Navas Valderrama pasan a ser documentos P0 porque pueden reconstruir la población Valderrama de Málaga antes de La Violeta.
+- La red **Valderrama Suárez de Málaga** se amplió con **Micaela Valderrama Suárez**, esposa de Juan José Reyes Patria Escobar ya hacia 1810. Una compilación genealógica respaldada por *Genealogías de Santafé de Bogotá* identifica a Micaela como hija de **José Valderrama × Petronila Suárez**, lo que crea una alternativa documentalmente más coherente que la ficha `Pedro Ignacio Valderrama Castro`.
+- La filiación `Pedro Ignacio Valderrama Castro → Micaela/Petronila Valderrama Suárez` queda en **X/E**: la propia base que la propone sitúa a los supuestos padres de Pedro Ignacio naciendo en 1805 y 1815, incompatible con Micaela casada en 1810 y Petronila casada en 1812.
+- **Anna Joaquina, Micaela y Petronila Valderrama Suárez** forman ahora un núcleo familiar malagueño prioritario: Anna Joaquina ya era madre ca.1802–1804, Micaela estaba casada hacia 1810 y Petronila contrajo matrimonio en 1812. Que fueran tres hermanas sigue en D, pero el parentesco cercano es una hipótesis fuerte.
+- La **dispensa matrimonial de 27 oct.1812** de Gabriel Navas Suárez × Petronila Valderrama Suárez, el matrimonio **Reyes Patria × Micaela ca.1810** y el matrimonio de **23 nov.1831** José María Valderrama Carvajal × Juana Antonia Navas Valderrama son documentos P0 para reconstruir el tronco malagueño anterior a La Violeta.
 - **Alfonso Mena Delgado**, esposo de **Angel/Anyel Bechara de Mena**, aparece documentado en Buga durante La Violencia y posteriormente en la institucionalidad agroindustrial del Valle del Cauca; falta una fuente puente entre ambas etapas. La forma civil `Angel/Anyel` permanece en **X — conflicto abierto**.
 - La línea **Pino–Bechara** se amplió con historia empresarial, redes sociales y testimonios; la investigación conserva separadas filiación biológica, crianza/adopción y actividad pública.
 
@@ -79,6 +87,7 @@ Este trabajo distingue explícitamente entre **origen onomástico**, **identidad
 
 ### Investigación especializada
 
+- [`investigacion/fase-valderrama-suarez-malaga-reyes-patria-1780-1831.md`](investigacion/fase-valderrama-suarez-malaga-reyes-patria-1780-1831.md)
 - [`investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md`](investigacion/fase-pedro-ignacio-valderrama-tasco-malaga-1790-1856.md)
 - [`investigacion/fase-origen-valderrama-tobalina-malaga-la-violeta.md`](investigacion/fase-origen-valderrama-tobalina-malaga-la-violeta.md)
 - [`investigacion/origenes-valderrama-nuevo-reino-granada.md`](investigacion/origenes-valderrama-nuevo-reino-granada.md)
