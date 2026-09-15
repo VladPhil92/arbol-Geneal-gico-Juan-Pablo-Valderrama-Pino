@@ -1,5 +1,9 @@
 # Textos históricos y narrativos
 
+> **Estado editorial general: `IA-DRAFT`.** Todos los textos narrativos de esta carpeta han sido redactados total o parcialmente con asistencia de IA a partir del corpus de investigación y permanecen **pendientes de revisión crítica, edición de estilo y aprobación humana**. El libro final será una **obra de autoría humana** apoyada en investigación genealógica e histórica documentada y auditada con asistencia de IA.
+
+Véanse [`ESTADO_EDITORIAL.md`](ESTADO_EDITORIAL.md) y [`../AUTORIA_Y_REVISION.md`](../AUTORIA_Y_REVISION.md).
+
 Esta carpeta reúne textos de lectura continua construidos a partir de la investigación genealógica del repositorio. Su propósito es transformar fichas, hipótesis, documentos y relaciones familiares en relatos históricos comprensibles, sin perder el rigor documental.
 
 ## Criterio editorial
@@ -11,10 +15,13 @@ Los textos distinguen entre:
 - **reconstrucciones genealógicas apoyadas principalmente en fuentes secundarias**;
 - **hipótesis abiertas o datos controvertidos**, presentados como tales.
 
+La presencia de un texto en esta carpeta **no significa que el autor haya aprobado su versión literaria**. La IA produce borradores de trabajo; el autor humano decide estructura, voz, selección, interpretación y redacción definitiva.
+
 ## Textos disponibles
 
 1. [Sobre Juan Pablo Valderrama Pino](01_sobre_el_autor.md)
 2. [Los Valderrama: entre Santander, Sopetrán y Bucaramanga](02_los_valderrama_entre_santander_y_antioquia.md)
+2A. [Las familias Valderrama en Colombia: un apellido, varias geografías](02a_las_familias_valderrama_en_colombia.md)
 3. [Los Mutis de Santander: de Cádiz y la Ilustración a Bucaramanga y sus descendientes](03_los_mutis_de_santander.md)
 4. [Una constelación familiar de escritores, científicos e intelectuales](04_parentescos_literarios_y_culturales.md)
 5. [La rama Martínez–Cabrales](05_la_rama_martinez_cabrales.md)
@@ -35,7 +42,7 @@ Los textos distinguen entre:
 20. [Julio Bechara, María Cristina Kahtouny y una familia formada por dos matrimonios](20_julio_bechara_maria_cristina_kahtouny_y_la_fratria.md)
 21. [Pan Suizo, Pan Francés y Pan Bechara: una red familiar de panificación en Cartagena](21_pan_suizo_pan_frances_y_pan_bechara_una_red_familiar.md)
 22. [Edmundo, Jorge y Anyel Bechara: empresa, familia y redes entre Cartagena, Santa Marta y el Valle del Cauca](22_edmundo_jorge_anyel_bechara_hermanos_y_redes.md)
-23. [Alfonso Mena Delgado: de Buga a la dirigencia agroindustrial del Valle](23_alfonso_mena_delgado_entre_buga_y_la_agroindustria_del_valle.md) — **nuevo**
+23. [Alfonso Mena Delgado: de Buga a la dirigencia agroindustrial del Valle](23_alfonso_mena_delgado_entre_buga_y_la_agroindustria_del_valle.md)
 
 ## Dossier Mutis
 
@@ -44,6 +51,8 @@ Los textos **3, 9, 10, 11 y 12** forman un dossier específico sobre la rama Mut
 ## Dossier Martínez–Cabrales
 
 Los textos **5, 13, 14, 15, 16, 17 y 18** estudian el linaje Martínez del Sinú, los Cabrales–Pineda de Montería, la generación de Zilia y la figura política y literaria de Guillermo “Chicle Bomba” Martínez Cabrales.
+
+A partir del 14 de septiembre de 2026 este dossier entra en **fase de profundización documental prioritaria**. El expediente rector es [`../investigacion/fase-profunda-martinez-cabrales-zilia-2026-09-14.md`](../investigacion/fase-profunda-martinez-cabrales-zilia-2026-09-14.md).
 
 ## Dossier materno Pino–Bechara–Kahtouny / Castoony / Farah–Mizrahy
 
@@ -90,6 +99,6 @@ Esta línea permanece abierta y se investigará mediante registros ecuatorianos,
 
 ## Núcleo Valderrama–Mutis
 
-Los textos 2, 3, 4, 8, 9, 10, 11 y 12 permiten seguir el desarrollo de las ramas santandereanas y su convergencia en Mario Gerardo Valderrama Mutis.
+Los textos 2, 2A, 3, 4, 8, 9, 10, 11 y 12 permiten seguir el desarrollo de las ramas santandereanas y su convergencia en Mario Gerardo Valderrama Mutis.
 
-Estos textos no sustituyen los expedientes de investigación de la carpeta [`familias/`](../familias/). Funcionan como una capa narrativa derivada de ellos y deberán seguir revisándose a medida que aparezcan registros primarios y nuevas entrevistas familiares.
+Estos textos no sustituyen los expedientes de investigación de la carpeta [`familias/`](../familias/). Funcionan como una capa narrativa derivada de ellos y deberán seguir revisándose a medida que aparezcan registros primarios, nuevas entrevistas familiares y decisiones de edición humana.
