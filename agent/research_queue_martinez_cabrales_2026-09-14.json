@@ -1,0 +1,93 @@
+{
+  "updated_at": "2026-09-14",
+  "status": "active_focus",
+  "scope": "martinez_cabrales_zilia",
+  "editorial_rule": "Los hallazgos del agente son investigación asistida por IA. Ningún resultado constituye texto final ni filiación canónica hasta revisión humana y actualización explícita de los expedientes correspondientes.",
+  "evidence_rule": "Priorizar documentos puente y fuentes primarias. No elevar perfiles colaborativos o genealogías secundarias a nivel A sin consultar el documento original o una reproducción fiable.",
+  "topics": [
+    {
+      "id": "zilia_martinez_cabrales_primary",
+      "priority": "P0",
+      "title": "Zilia Margarita Martínez Cabrales: identidad civil y matrimonio",
+      "query": "Localizar el registro civil o bautismo de Zilia Margarita Martínez Cabrales. Contrastar Cartagena, Montería y Lorica sin escoger lugar por plausibilidad. Buscar también matrimonio con Mario Gerardo Valderrama Mutis, defunción/obituario y cualquier documento que nombre a sus padres Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda. Mantener Cartagena vs Montería ca.1942 como contradicción abierta hasta documento primario."
+    },
+    {
+      "id": "martinez_lugo_cabrales_pineda_marriage",
+      "priority": "P0",
+      "title": "Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda",
+      "query": "Localizar matrimonio de Gabriel María Martínez Lugo y Zoila Margarita Cabrales Pineda, secundariamente situado hacia 1931. Buscar registros civiles/parroquiales en Cartagena, Lorica y Montería. El documento debe confirmar edades, lugares de origen, padres, domicilios y testigos. No tratar 1931 como fecha cerrada hasta obtener la partida."
+    },
+    {
+      "id": "martinez_cabrales_siblings",
+      "priority": "P0",
+      "title": "Fratría Martínez Cabrales: siete hijos y orden de nacimiento",
+      "query": "Documentar los siete hijos atribuidos a Gabriel María Martínez Lugo × Zoila Margarita Cabrales Pineda: Gabriel Ignacio, Eusebio, Juan, Guillermo, Luz Marina del Rosario 'Mara', Zilia Margarita y Gustavo Adolfo Martínez Cabrales. La familia identifica a Gabriel Ignacio como hijo mayor y Mara = Luz Marina del Rosario. Buscar nacimientos/bautismos, obituarios y sucesiones que confirmen la fratría y el orden. No imponer orden a los seis posteriores a Gabriel Ignacio."
+    },
+    {
+      "id": "jose_casiano_martinez_marriage_1795",
+      "priority": "P0",
+      "title": "José Casiano Martínez Maijel: matrimonio de 1795 y padres",
+      "query": "Localizar imagen o transcripción archivística fiable del matrimonio de José Casiano Martínez Maijel, secundariamente fechado 27 julio 1795 en Cartagena. Verificar si sus padres fueron Pedro Martínez y María de los Santos Maijel; comprobar su rango/unidad en el Regimiento Fijo; transcribir literalmente el nombre y filiación de la esposa. Este documento debe resolver la discrepancia María Manuela Fernández Herrera vs María Manuela Fernández de Miranda, hija de Pedro Fernández Miranda y Paula de Herrera."
+    },
+    {
+      "id": "antonio_maria_martinez_fernandez_primary",
+      "priority": "P0",
+      "title": "Antonio María Martínez Fernández × Manuela Lora Gómez",
+      "query": "Buscar bautismo, matrimonio, defunción, hoja militar y registros notariales de Antonio María Martínez Fernández y Manuela Lora Gómez. Contrastar la identificación del Banco de la República como Mayor y sobreviviente de la generación de Independencia. Verificar filiación hacia José Casiano y hacia Diego Ángel Martínez Lora sin depender de árboles colaborativos."
+    },
+    {
+      "id": "diego_angel_martinez_lora_primary",
+      "priority": "P0",
+      "title": "Diego Ángel Martínez de Lora y Carmen Sossa Camargo",
+      "query": "Localizar bautismo de Diego Ángel Martínez Lora ca.1839 en Lorica, matrimonio/relación documentada con Carmen Sossa Camargo, defunción/sucesión y bautismo de Gabriel María Martínez Sossa 9 febrero 1879. Diferenciar al ascendiente Diego Ángel de otras personas de la extensa red empresarial Martínez Lora."
+    },
+    {
+      "id": "gabriel_martinez_sossa_biography",
+      "priority": "P1",
+      "title": "Gabriel María Martínez Sossa: registros y monumento en Lorica",
+      "query": "Verificar nacimiento 9 febrero 1879 y defunción 26 noviembre 1928 de Gabriel María Martínez Sossa, matrimonio con Zoila Rosa Lugo Olivella y nacimiento de Gabriel María Martínez Lugo 14 febrero 1907. Investigar además fecha, inscripción, promotores y motivo de la estatua de Gabriel Martínez Sossa en el espacio hoy conocido como Plaza de la Concordia de Lorica."
+    },
+    {
+      "id": "cabrales_ocana_marriage_1802",
+      "priority": "P0",
+      "title": "José Ignacio Cabrales × María Gabriela de Armesto — Ocaña 1802",
+      "query": "Localizar matrimonio del 28 febrero 1802 en Santa Ana de Ocaña atribuido a José Ignacio Cabrales y María Gabriela de Armesto y de Haro. Transcribir nombres completos, padres, naturalidades, estado, dispensas y testigos. No promover el segundo apellido 'Bárcenas' ni un lugar de nacimiento de José Ignacio mientras el documento no los confirme."
+    },
+    {
+      "id": "manuel_jose_cabrales_armesto_1810",
+      "priority": "P0",
+      "title": "Manuel José de la Trinidad Cabrales de Armesto — Ocaña 1810",
+      "query": "Localizar bautismo atribuido al 10 junio 1810 en Ocaña de Manuel/Josef Bacilio de la Trinidad Cabrales de Armesto. Confirmar padres y padrinos, y luego matrimonio con Petrona Ignacia de Lora Olascoaga. Reconstruir todos sus hijos desde registros porque fuentes secundarias discrepan entre ocho y diez."
+    },
+    {
+      "id": "ignacio_cabrales_lora_primary",
+      "priority": "P0",
+      "title": "Ignacio José Cabrales Lora — Montería 1844–1892",
+      "query": "Buscar bautismo ca.1844, defunción ca.1892 y matrimonios de Ignacio José Cabrales Lora: María Trinidad de Lora y Lora y Zoila Margarita González Meléndez. Verificar la filiación como hijo de Manuel José Cabrales de Armesto y Petrona Ignacia de Lora Olascoaga y el enlace hacia Ignacio José Cabrales González."
+    },
+    {
+      "id": "ignacio_cabrales_gonzalez_mayor_1932",
+      "priority": "P0",
+      "title": "Ignacio José Cabrales González: alcalde de Montería en 1932",
+      "query": "Verificar con fuente administrativa primaria que Ignacio José Cabrales González ejerció como alcalde de Montería en 1932, dato contenido en La vieja y nueva Montería. Buscar decreto de designación, actas municipales, prensa y documentos oficiales. Documentar además su actividad ganadera, residencia en La Ceiba y matrimonio con Lorenza Pineda Vélez."
+    },
+    {
+      "id": "pineda_velez_monteria_primary",
+      "priority": "P1",
+      "title": "Pineda–Vélez y red La Ceiba",
+      "query": "Documentar a Eusebio José Pineda del Toro × Beleazar Vélez Racero y su hija Lorenza/Lorencita Pineda Vélez. Verificar a Nicolás José Pineda de Lora × Lorenza Rosa del Toro y Lora como generación anterior. Cruzar bautismos, matrimonios, notarías y residencia en La Ceiba. No deducir parentescos únicamente por repetición de apellidos de Lora/del Toro/Pineda."
+    },
+    {
+      "id": "hacienda_santa_maria_martinez_lugo",
+      "priority": "P1",
+      "title": "Hacienda La Santa María y Gabriel Martínez Lugo",
+      "query": "Determinar qué era la Hacienda La Santa María recordada en la memoria familiar de Gabriel Martínez Lugo y Zoila Cabrales: ubicación, propietarios, período, actividad productiva y relación jurídica con la familia. Buscar protocolos notariales, catastros, prensa, sucesiones y testimonios. No presentar la hacienda como propiedad de Gabriel hasta obtener evidencia patrimonial."
+    },
+    {
+      "id": "martinez_cabrales_oral_history",
+      "priority": "P1",
+      "title": "Historia oral Martínez Cabrales",
+      "query": "Preparar y contrastar entrevistas con Gabriel José Valderrama Martínez, Juan Carlos Valderrama Martínez y Gabriel Rodrigo Martínez Méndez sobre Zilia, Gabriel María Martínez Lugo, Zoila Cabrales, los siete hermanos, casas de Manga/Cartagena, Lorica, Montería, Hacienda La Santa María, fotografías, estudios, profesiones, apodos, propiedades y documentos conservados. Mantener cada testimonio como nivel C hasta corroboración."
+    }
+  ]
+}
